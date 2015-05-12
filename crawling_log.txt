@@ -1,0 +1,545 @@
+Crawling for Al-Qadi, Imad L
+Success on: Al-Qadi, Imad L 0 | http://cee.illinois.edu/faculty/imadalqadi
+urllib2 FAILURE on: Al-Qadi, Imad L 1 | http://academic.research.microsoft.com/Author/13194229/imad-l-al-qadi
+urllib2 FAILURE on: Al-Qadi, Imad L 1 | http://academic.research.microsoft.com/Author/13194229/imad-l-al-qadi
+urllib2 FAILURE on: Al-Qadi, Imad L 1 | http://academic.research.microsoft.com/Author/13194229/imad-l-al-qadi
+urllib2 FAILURE on: Al-Qadi, Imad L 2 | https://www.linkedin.com/pub/imad-al-qadi/2b/407/1a6
+urllib2 FAILURE on: Al-Qadi, Imad L 2 | https://www.linkedin.com/pub/imad-al-qadi/2b/407/1a6
+urllib2 FAILURE on: Al-Qadi, Imad L 2 | https://www.linkedin.com/pub/imad-al-qadi/2b/407/1a6
+Success on: Al-Qadi, Imad L 3 | http://www.barnesandnoble.com/c/imad-l.-al-qadi
+Success on: Al-Qadi, Imad L 4 | http://scholar.google.com/citations?user=XcWBRgEAAAAJ&hl=en
+Success on: Al-Qadi, Imad L 5 | http://www.barnesandnoble.com/c/imad-l-al-qadi
+Success on: Al-Qadi, Imad L 6 | http://www.zoominfo.com/p/Imad-Al-Qadi/78836345
+Crawling for Albrecht, Johann
+Success on: Albrecht, Johann 0 | http://en.wikipedia.org/wiki/J._A_.Bengel
+Success on: Albrecht, Johann 1 | http://en.wikipedia.org/wiki/Johann_Albrecht_Adelgrief
+socket FAILURE on: Albrecht, Johann 2 | http://de.wikipedia.org/wiki/Johann_Albrecht_I._(Mecklenburg)
+urllib2 FAILURE on: Albrecht, Johann 2 | http://de.wikipedia.org/wiki/Johann_Albrecht_I._(Mecklenburg)
+socket FAILURE on: Albrecht, Johann 2 | http://de.wikipedia.org/wiki/Johann_Albrecht_I._(Mecklenburg)
+Success on: Albrecht, Johann 3 | http://www.amati.com/maker/information-on-albrecht-johann-georg-violin-maker-in-fussen-germany.html
+urllib2 FAILURE on: Albrecht, Johann 4 | http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=71608221
+urllib2 FAILURE on: Albrecht, Johann 4 | http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=71608221
+urllib2 FAILURE on: Albrecht, Johann 4 | http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=71608221
+Success on: Albrecht, Johann 5 | http://www.studylight.org/commentaries/jab/
+urllib2 FAILURE on: Albrecht, Johann 6 | https://www.facebook.com/albrecht.johannes
+Success on: Albrecht, Johann 6 | https://www.facebook.com/albrecht.johannes
+Crawling for Aldridge, Brian Michael
+Success on: Aldridge, Brian Michael 0 | http://georgia.arrests.org/Arrests/Michael_Aldridge_6035511/
+Success on: Aldridge, Brian Michael 1 | http://www.companydirectorcheck.com/brian-michael-aldridge-2
+Success on: Aldridge, Brian Michael 2 | https://www.facebook.com/public/Brian-Aldridge
+Success on: Aldridge, Brian Michael 3 | http://en.wikipedia.org/wiki/Michael_Aldridge
+Success on: Aldridge, Brian Michael 4 | https://www.facebook.com/brian.aldridge.378
+Crawling for Aldridge, Russhawn Jackson
+Success on: Aldridge, Russhawn Jackson 0 | http://www.companydirectorcheck.com/russhawn-jackson-aldridge
+urllib2 FAILURE on: Aldridge, Russhawn Jackson 1 | http://salaryguide.dailyillini.com/employee/15548/
+urllib2 FAILURE on: Aldridge, Russhawn Jackson 1 | http://salaryguide.dailyillini.com/employee/15548/
+urllib2 FAILURE on: Aldridge, Russhawn Jackson 1 | http://salaryguide.dailyillini.com/employee/15548/
+Success on: Aldridge, Russhawn Jackson 2 | http://www.mylife.com/russhawnaldridge
+Success on: Aldridge, Russhawn Jackson 3 | http://companycheck.co.uk/director/915718193
+Success on: Aldridge, Russhawn Jackson 4 | http://www.ccdni.com/director-russhawn-jackson-aldridge
+Success on: Aldridge, Russhawn Jackson 5 | http://www.192.com/atoz/people/aldridge/russhawn/
+Crawling for Alexander, Lindsey Sharone
+Success on: Alexander, Lindsey Sharone 0 | http://www.mylife.com/zip-codes/b3-479408/
+Success on: Alexander, Lindsey Sharone 1 | http://www.groundsforsculpture.org/on-view-artists.cfm
+Success on: Alexander, Lindsey Sharone 2 | https://twitter.com/JazzHairstylist
+Skipped 3 because it was a pdf
+Success on: Alexander, Lindsey Sharone 4 | http://www.eu33.com/records-Alexander/
+Success on: Alexander, Lindsey Sharone 5 | http://www.facebook.com/sharon.alexander.165
+Crawling for Alexander, Samuel Kern
+Success on: Alexander, Samuel Kern 0 | http://en.wikipedia.org/wiki/Kern_Alexander
+Success on: Alexander, Samuel Kern 1 | http://faculty.education.illinois.edu/alexandr/
+Success on: Alexander, Samuel Kern 2 | http://www2.warwick.ac.uk/fac/soc/csgr/research/publications/alexander/
+urllib2 FAILURE on: Alexander, Samuel Kern 3 | http://www.whoislog.info/profile/kern-alexander.html
+urllib2 FAILURE on: Alexander, Samuel Kern 3 | http://www.whoislog.info/profile/kern-alexander.html
+urllib2 FAILURE on: Alexander, Samuel Kern 3 | http://www.whoislog.info/profile/kern-alexander.html
+Success on: Alexander, Samuel Kern 4 | http://id.loc.gov/authorities/names/n79129101
+Success on: Alexander, Samuel Kern 5 | http://wkuathletics.hcents.com/node/1806
+Crawling for Ali, Mir M
+Success on: Ali, Mir M 0 | http://www.healthgrades.com/physician/dr-mir-ali-xvrln
+Success on: Ali, Mir M 1 | http://www.healthgrades.com/physician/dr-mir-ali-x3rby
+Success on: Ali, Mir M 2 | http://en.wikipedia.org/wiki/Ali_M._Mir
+Success on: Ali, Mir M 3 | https://www.facebook.com/ali.mir.m
+urllib2 FAILURE on: Ali, Mir M 4 | https://www.linkedin.com/in/chmirali
+urllib2 FAILURE on: Ali, Mir M 4 | https://www.linkedin.com/in/chmirali
+urllib2 FAILURE on: Ali, Mir M 4 | https://www.linkedin.com/in/chmirali
+urllib2 FAILURE on: Ali, Mir M 5 | http://doctor.webmd.com/doctor/mir-ali-md-8fdaa9ee-e9b1-4ea5-99e8-12b57e7560ea-overview
+urllib2 FAILURE on: Ali, Mir M 5 | http://doctor.webmd.com/doctor/mir-ali-md-8fdaa9ee-e9b1-4ea5-99e8-12b57e7560ea-overview
+urllib2 FAILURE on: Ali, Mir M 5 | http://doctor.webmd.com/doctor/mir-ali-md-8fdaa9ee-e9b1-4ea5-99e8-12b57e7560ea-overview
+Success on: Ali, Mir M 6 | http://orthodoc.aaos.org/mirali/
+Crawling for Allen-Smith, Joyce E
+Success on: Allen-Smith, Joyce E 0 | http://www.afro.illinois.edu/people/jallensm
+urllib2 FAILURE on: Allen-Smith, Joyce E 1 | http://academic.research.microsoft.com/Author/27614896/joyce-e-allen-smith
+urllib2 FAILURE on: Allen-Smith, Joyce E 1 | http://academic.research.microsoft.com/Author/27614896/joyce-e-allen-smith
+urllib2 FAILURE on: Allen-Smith, Joyce E 1 | http://academic.research.microsoft.com/Author/27614896/joyce-e-allen-smith
+socket FAILURE on: Allen-Smith, Joyce E 2 | http://0-www.worldcat.org.novacat.nova.edu/identities/np-allen%20smith,%20joyce%20e/
+socket FAILURE on: Allen-Smith, Joyce E 2 | http://0-www.worldcat.org.novacat.nova.edu/identities/np-allen%20smith,%20joyce%20e/
+socket FAILURE on: Allen-Smith, Joyce E 2 | http://0-www.worldcat.org.novacat.nova.edu/identities/np-allen%20smith,%20joyce%20e/
+Success on: Allen-Smith, Joyce E 3 | http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=251211
+Success on: Allen-Smith, Joyce E 4 | http://0-www.worldcat.org.novacat.nova.edu/identities/lccn-n84048259/
+Success on: Allen-Smith, Joyce E 5 | http://www.afrst.illinois.edu/people/jallensm
+urllib2 FAILURE on: Allen-Smith, Joyce E 6 | http://www.instantcheckmate.com/people/illinois/champaign/61821/joyce-allensmith/000037276337/
+urllib2 FAILURE on: Allen-Smith, Joyce E 6 | http://www.instantcheckmate.com/people/illinois/champaign/61821/joyce-allensmith/000037276337/
+urllib2 FAILURE on: Allen-Smith, Joyce E 6 | http://www.instantcheckmate.com/people/illinois/champaign/61821/joyce-allensmith/000037276337/
+Success on: Allen-Smith, Joyce E 7 | http://www.goodreads.com/author/show/1254574.Joyce_E_Allen_Smith
+Crawling for Alleyne, Andrew G
+Success on: Alleyne, Andrew G 0 | http://mechanical.illinois.edu/directory/faculty/alleyne
+urllib2 FAILURE on: Alleyne, Andrew G 1 | http://academic.research.microsoft.com/Author/1254234/andrew-g-alleyne
+urllib2 FAILURE on: Alleyne, Andrew G 1 | http://academic.research.microsoft.com/Author/1254234/andrew-g-alleyne
+urllib2 FAILURE on: Alleyne, Andrew G 1 | http://academic.research.microsoft.com/Author/1254234/andrew-g-alleyne
+Success on: Alleyne, Andrew G 2 | http://www.ece.illinois.edu/directory/profile/alleyne
+Success on: Alleyne, Andrew G 3 | http://andrewalleyne.com/?s=g
+Success on: Alleyne, Andrew G 4 | https://www.ideals.illinois.edu/browse?type=author&value=Alleyne,%20Andrew%20G
+Success on: Alleyne, Andrew G 5 | http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/a/Alleyne:Andrew_G=.html
+Crawling for Allison, James
+Success on: Allison, James 0 | http://www.allisonjamesinc.com/
+Success on: Allison, James 1 | http://www.alisonjames.us/
+Success on: Allison, James 2 | https://www.facebook.com/public/Allison-James
+Success on: Allison, James 3 | https://www.facebook.com/theallisonjames
+Success on: Allison, James 4 | http://allisonjames.info/
+Crawling for Allison, Sarah O
+Success on: Allison, Sarah O 0 | http://allisonsarahoneal.blogspot.com/
+urllib2 FAILURE on: Allison, Sarah O 1 | http://salaryguide.dailyillini.com/employee/15549/
+urllib2 FAILURE on: Allison, Sarah O 1 | http://salaryguide.dailyillini.com/employee/15549/
+urllib2 FAILURE on: Allison, Sarah O 1 | http://salaryguide.dailyillini.com/employee/15549/
+Success on: Allison, Sarah O 2 | http://www.labome.org/expert/usa/university/allison/sarah-o-allison-1112986.html
+Success on: Allison, Sarah O 3 | http://www.spokeo.com/Sarah+Allison/Illinois
+urllib2 FAILURE on: Allison, Sarah O 4 | http://www.whitepages.com/name/Sarah-Allison/PA
+urllib2 FAILURE on: Allison, Sarah O 4 | http://www.whitepages.com/name/Sarah-Allison/PA
+urllib2 FAILURE on: Allison, Sarah O 4 | http://www.whitepages.com/name/Sarah-Allison/PA
+Success on: Allison, Sarah O 5 | https://www.facebook.com/events/796723457089185/
+Success on: Allison, Sarah O 6 | http://www.spokeo.com/Sarah-Allison
+Crawling for Almeida, Heitor
+Success on: Almeida, Heitor 0 | https://business.illinois.edu/profile/heitor-almeida/
+socket FAILURE on: Almeida, Heitor 1 | http://business.illinois.edu/halmeida/
+Success on: Almeida, Heitor 1 | http://business.illinois.edu/halmeida/
+urllib2 FAILURE on: Almeida, Heitor 2 | http://academic.research.microsoft.com/Author/503412/heitor-v-almeida
+urllib2 FAILURE on: Almeida, Heitor 2 | http://academic.research.microsoft.com/Author/503412/heitor-v-almeida
+urllib2 FAILURE on: Almeida, Heitor 2 | http://academic.research.microsoft.com/Author/503412/heitor-v-almeida
+urllib2 FAILURE on: Almeida, Heitor 3 | https://www.linkedin.com/pub/dir/heitor/almeida
+urllib2 FAILURE on: Almeida, Heitor 3 | https://www.linkedin.com/pub/dir/heitor/almeida
+urllib2 FAILURE on: Almeida, Heitor 3 | https://www.linkedin.com/pub/dir/heitor/almeida
+urllib2 FAILURE on: Almeida, Heitor 4 | https://www.linkedin.com/pub/heitor-almeida/b/2b3/418
+urllib2 FAILURE on: Almeida, Heitor 4 | https://www.linkedin.com/pub/heitor-almeida/b/2b3/418
+urllib2 FAILURE on: Almeida, Heitor 4 | https://www.linkedin.com/pub/heitor-almeida/b/2b3/418
+Success on: Almeida, Heitor 5 | http://www.healthgrades.com/physician/dr-fernanda-heitor-xd94c
+Success on: Almeida, Heitor 6 | https://www.facebook.com/heitor.almeida.3110
+Success on: Almeida, Heitor 7 | http://www.youtube.com/watch?v=SWoRIoXdI0Q
+Crawling for Alston, Reginald J
+Success on: Alston, Reginald J 0 | http://kch.illinois.edu/Faculty/Bios/Alston.aspx
+urllib2 FAILURE on: Alston, Reginald J 1 | http://academic.research.microsoft.com/Author/45564553/reginald-j-alston
+urllib2 FAILURE on: Alston, Reginald J 1 | http://academic.research.microsoft.com/Author/45564553/reginald-j-alston
+urllib2 FAILURE on: Alston, Reginald J 1 | http://academic.research.microsoft.com/Author/45564553/reginald-j-alston
+Skipped 2 because it was a pdf
+Success on: Alston, Reginald J 3 | http://www.zoominfo.com/p/Reginald-Alston/1299710108
+urllib2 FAILURE on: Alston, Reginald J 4 | https://www.linkedin.com/pub/reginald-alston/51/3a0/399
+urllib2 FAILURE on: Alston, Reginald J 4 | https://www.linkedin.com/pub/reginald-alston/51/3a0/399
+urllib2 FAILURE on: Alston, Reginald J 4 | https://www.linkedin.com/pub/reginald-alston/51/3a0/399
+Success on: Alston, Reginald J 5 | http://www.researchgate.net/profile/Reginald_Alston
+Success on: Alston, Reginald J 6 | https://www.ideals.illinois.edu/browse?type=author&value=Alston,%20Reginald%20J
+Success on: Alston, Reginald J 7 | http://eric.ed.gov/?q=%22Alston+Reginald+J.%22
+Crawling for Aluru, Narayana R
+Success on: Aluru, Narayana R 0 | http://mechanical.illinois.edu/directory/faculty/aluru
+Success on: Aluru, Narayana R 1 | http://beckman.illinois.edu/directory/person/aluru
+urllib2 FAILURE on: Aluru, Narayana R 2 | http://academic.research.microsoft.com/Author/22951636/narayana-r-aluru
+urllib2 FAILURE on: Aluru, Narayana R 2 | http://academic.research.microsoft.com/Author/22951636/narayana-r-aluru
+urllib2 FAILURE on: Aluru, Narayana R 2 | http://academic.research.microsoft.com/Author/22951636/narayana-r-aluru
+Success on: Aluru, Narayana R 3 | http://mntl.illinois.edu/people/profile.asp?aluru
+Success on: Aluru, Narayana R 4 | http://www.ece.illinois.edu/directory/profile.asp?aluru
+Success on: Aluru, Narayana R 5 | http://www.ratemyprofessors.com/ShowRatings.jsp?tid=392161
+Crawling for Aminmansour, Abbas
+Success on: Aminmansour, Abbas 0 | http://www.arch.illinois.edu/faculty/abbas-aminmansour-phd
+urllib2 FAILURE on: Aminmansour, Abbas 1 | https://www.linkedin.com/in/aminmansour
+urllib2 FAILURE on: Aminmansour, Abbas 1 | https://www.linkedin.com/in/aminmansour
+urllib2 FAILURE on: Aminmansour, Abbas 1 | https://www.linkedin.com/in/aminmansour
+Success on: Aminmansour, Abbas 2 | https://www.mylife.com/abbas-aminmansour/abbasaminmansour
+Success on: Aminmansour, Abbas 3 | http://www.yellowpages.com/champaign-il/mip/aminmansour-abbas-468085622
+Success on: Aminmansour, Abbas 4 | http://www.structuremag.org/?author_name=abbasaminmansour
+Success on: Aminmansour, Abbas 5 | http://www.zoominfo.com/p/Abbas-Aminmansour/1781011772
+Crawling for Amir, Eyal
+urllib2 FAILURE on: Amir, Eyal 0 | https://www.linkedin.com/pub/dir/amir/eyal
+urllib2 FAILURE on: Amir, Eyal 0 | https://www.linkedin.com/pub/dir/amir/eyal
+urllib2 FAILURE on: Amir, Eyal 0 | https://www.linkedin.com/pub/dir/amir/eyal
+urllib2 FAILURE on: Amir, Eyal 1 | https://www.linkedin.com/in/amireyal
+urllib2 FAILURE on: Amir, Eyal 1 | https://www.linkedin.com/in/amireyal
+urllib2 FAILURE on: Amir, Eyal 1 | https://www.linkedin.com/in/amireyal
+Success on: Amir, Eyal 2 | https://www.facebook.com/amir.eyal
+Success on: Amir, Eyal 3 | http://www.youtube.com/user/EyalAmirMusic
+Success on: Amir, Eyal 4 | http://www.forbes.com/profile/amir-eyal/
+urllib2 FAILURE on: Amir, Eyal 5 | http://eyalamir.com/
+urllib2 FAILURE on: Amir, Eyal 5 | http://eyalamir.com/
+urllib2 FAILURE on: Amir, Eyal 5 | http://eyalamir.com/
+Success on: Amir, Eyal 6 | http://reason.cs.uiuc.edu/eyal/
+Success on: Amir, Eyal 7 | http://www.mylestoneplans.com/ecard.cfm?ID=95956&disclaimer=accept
+Crawling for Amos, Jennifer
+Success on: Amos, Jennifer 0 | http://www.heraldcourier.com/obituaries/amos-jennifer/article_2c550f24-ad36-59d1-aaa2-b990c5a1b269.html
+Success on: Amos, Jennifer 1 | http://www.jenniferamoslawyer.com/
+Success on: Amos, Jennifer 2 | https://www.facebook.com/public/Jennifer-Amos
+Success on: Amos, Jennifer 3 | https://www.facebook.com/amosjennifer
+urllib2 FAILURE on: Amos, Jennifer 4 | https://www.linkedin.com/pub/dir/jennifer/amos
+urllib2 FAILURE on: Amos, Jennifer 4 | https://www.linkedin.com/pub/dir/jennifer/amos
+urllib2 FAILURE on: Amos, Jennifer 4 | https://www.linkedin.com/pub/dir/jennifer/amos
+Success on: Amos, Jennifer 5 | http://www.jenniferamoslawyer.com/about.html
+Crawling for Anastasio, Thomas J
+Success on: Anastasio, Thomas J 0 | http://tja.beckman.illinois.edu/
+Success on: Anastasio, Thomas J 1 | http://mcb.illinois.edu/faculty/profile/tja
+Success on: Anastasio, Thomas J 2 | http://tja.beckman.illinois.edu/cv
+Success on: Anastasio, Thomas J 3 | https://www.facebook.com/thomas.j.anastasio
+Success on: Anastasio, Thomas J 4 | http://mitpress.mit.edu/authors/thomas-j-anastasio
+Crawling for Anderson, Carolyn Jane
+Success on: Anderson, Carolyn Jane 0 | http://www.legacy.com/obituaries/dispatch/obituary.aspx?pid=164801526
+Success on: Anderson, Carolyn Jane 1 | https://www.facebook.com/carolyn.j.anderson1
+Success on: Anderson, Carolyn Jane 2 | http://www.schoedinger.com/obituaries/Carolyn-Anderson2/#!/Obituary
+urllib2 FAILURE on: Anderson, Carolyn Jane 3 | http://www.brightscope.com/financial-planning/advisor/720786/Carolyn-Jane-Anderson/
+urllib2 FAILURE on: Anderson, Carolyn Jane 3 | http://www.brightscope.com/financial-planning/advisor/720786/Carolyn-Jane-Anderson/
+urllib2 FAILURE on: Anderson, Carolyn Jane 3 | http://www.brightscope.com/financial-planning/advisor/720786/Carolyn-Jane-Anderson/
+Success on: Anderson, Carolyn Jane 4 | http://faculty.education.illinois.edu/cja/homepage/
+urllib2 FAILURE on: Anderson, Carolyn Jane 5 | http://salaryguide.dailyillini.com/employee/12004/
+urllib2 FAILURE on: Anderson, Carolyn Jane 5 | http://salaryguide.dailyillini.com/employee/12004/
+urllib2 FAILURE on: Anderson, Carolyn Jane 5 | http://salaryguide.dailyillini.com/employee/12004/
+Skipped 6 because it was a pdf
+Success on: Anderson, Carolyn Jane 7 | http://canders1.github.io/
+Crawling for Anderson, James D
+Success on: Anderson, James D 0 | http://www.healthgrades.com/physician/dr-james-anderson-yxt3p
+Success on: Anderson, James D 1 | http://en.wikipedia.org/wiki/James_D._Anderson
+urllib2 FAILURE on: Anderson, James D 2 | https://www.linkedin.com/pub/d-james-anderson/2a/19a/b9a
+urllib2 FAILURE on: Anderson, James D 2 | https://www.linkedin.com/pub/d-james-anderson/2a/19a/b9a
+urllib2 FAILURE on: Anderson, James D 2 | https://www.linkedin.com/pub/d-james-anderson/2a/19a/b9a
+Success on: Anderson, James D 3 | http://www.yelp.com/biz/anderson-james-d-jr-dds-atlanta
+urllib2 FAILURE on: Anderson, James D 4 | https://www.linkedin.com/pub/james-d-anderson/15/979/68a
+urllib2 FAILURE on: Anderson, James D 4 | https://www.linkedin.com/pub/james-d-anderson/15/979/68a
+urllib2 FAILURE on: Anderson, James D 4 | https://www.linkedin.com/pub/james-d-anderson/15/979/68a
+Success on: Anderson, James D 5 | http://www.legacy.com/obituaries/thehour/obituary.aspx?pid=162721753
+Success on: Anderson, James D 6 | http://jamesanderst.md.com/
+Crawling for Anderson, James R
+Success on: Anderson, James R 0 | http://www.healthgrades.com/physician/dr-james-anderson-ys9w7
+Success on: Anderson, James R 1 | http://jamesranderson.net/
+Success on: Anderson, James R 2 | https://www.facebook.com/jamesanderson.r
+Success on: Anderson, James R 3 | https://www.facebook.com/james.r.anderson.908
+Success on: Anderson, James R 4 | http://www.legacy.com/obituaries/tnonline/obituary.aspx?pid=164448551
+Crawling for Anderson, Richard C
+Success on: Anderson, Richard C 0 | http://www.healthgrades.com/physician/dr-richard-anderson-xbrc6
+Success on: Anderson, Richard C 1 | http://en.wikipedia.org/wiki/Richard_C._Anderson
+urllib2 FAILURE on: Anderson, Richard C 2 | http://www.columbianeurosurgery.org/doctors/richard-c-e-anderson/
+urllib2 FAILURE on: Anderson, Richard C 2 | http://www.columbianeurosurgery.org/doctors/richard-c-e-anderson/
+urllib2 FAILURE on: Anderson, Richard C 2 | http://www.columbianeurosurgery.org/doctors/richard-c-e-anderson/
+urllib2 FAILURE on: Anderson, Richard C 3 | https://www.linkedin.com/in/richardcandersonmba
+urllib2 FAILURE on: Anderson, Richard C 3 | https://www.linkedin.com/in/richardcandersonmba
+urllib2 FAILURE on: Anderson, Richard C 3 | https://www.linkedin.com/in/richardcandersonmba
+Success on: Anderson, Richard C 4 | http://www.abebooks.com/book-search/author/anderson-richard-c/
+urllib2 FAILURE on: Anderson, Richard C 5 | https://www.linkedin.com/pub/dir/Richard+C%2E/Anderson/
+urllib2 FAILURE on: Anderson, Richard C 5 | https://www.linkedin.com/pub/dir/Richard+C%2E/Anderson/
+urllib2 FAILURE on: Anderson, Richard C 5 | https://www.linkedin.com/pub/dir/Richard+C%2E/Anderson/
+Success on: Anderson, Richard C 6 | http://www.peoriasurgical.com/anderson/
+Success on: Anderson, Richard C 7 | http://www.legacy.com/obituaries/southofboston-enterprise/obituary.aspx?pid=164267845
+Crawling for Anderson, Robert G
+Success on: Anderson, Robert G 0 | http://www.plasticsurgerytexas.com/
+Success on: Anderson, Robert G 1 | https://www.facebook.com/public/Robert-G-Anderson
+Success on: Anderson, Robert G 2 | http://www.healthgrades.com/physician/dr-robert-anderson-xlvgj
+Success on: Anderson, Robert G 3 | http://www.chattanoogan.com/2015/2/14/294110/Anderson-Robert-G.-Cleveland.aspx
+Success on: Anderson, Robert G 4 | http://www.healthgrades.com/physician/dr-robert-anderson-2hcmm
+Crawling for Anderson, Thomas H
+Success on: Anderson, Thomas H 0 | http://hthomasanderson.com/
+Success on: Anderson, Thomas H 1 | http://en.wikipedia.org/wiki/Thomas_H._Anderson,_Jr.
+Success on: Anderson, Thomas H 2 | http://www.yellowpages.com/mcminnville-or/mip/anderson-thomas-h-a-pc-5118070
+urllib2 FAILURE on: Anderson, Thomas H 3 | https://www.linkedin.com/pub/dir/Thomas+H%2E/Anderson
+urllib2 FAILURE on: Anderson, Thomas H 3 | https://www.linkedin.com/pub/dir/Thomas+H%2E/Anderson
+urllib2 FAILURE on: Anderson, Thomas H 3 | https://www.linkedin.com/pub/dir/Thomas+H%2E/Anderson
+Success on: Anderson, Thomas H 4 | http://en.wikipedia.org/wiki/Thomas_H._Anderson_(judge)
+urllib2 FAILURE on: Anderson, Thomas H 5 | https://www.linkedin.com/in/andersonlaw
+urllib2 FAILURE on: Anderson, Thomas H 5 | https://www.linkedin.com/in/andersonlaw
+urllib2 FAILURE on: Anderson, Thomas H 5 | https://www.linkedin.com/in/andersonlaw
+Success on: Anderson, Thomas H 6 | http://www.buildzoom.com/contractor/anderson-thomas-h
+Crawling for Ando, Amy W
+Success on: Ando, Amy W 0 | http://ace.illinois.edu/directory/amyando
+Success on: Ando, Amy W 1 | https://twitter.com/AmyEcon
+urllib2 FAILURE on: Ando, Amy W 2 | http://academic.research.microsoft.com/Author/52654761/amy-whritenour-ando
+urllib2 FAILURE on: Ando, Amy W 2 | http://academic.research.microsoft.com/Author/52654761/amy-whritenour-ando
+urllib2 FAILURE on: Ando, Amy W 2 | http://academic.research.microsoft.com/Author/52654761/amy-whritenour-ando
+Success on: Ando, Amy W 3 | http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=345746
+Success on: Ando, Amy W 4 | http://scholar.google.com/citations?user=YDvKHaQAAAAJ&hl=en
+Success on: Ando, Amy W 5 | http://ideas.repec.org/e/pan92.html
+Crawling for Andrade, Flavia Cristina Drumon
+Success on: Andrade, Flavia Cristina Drumon 0 | http://kch.illinois.edu/Faculty/Bios/Andrade.aspx
+Success on: Andrade, Flavia Cristina Drumon 1 | http://illinois.edu/ds/detail?departmentId=illinois.eduKY581&amp;search_type=&amp;skinId=2240
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 2 | https://www.linkedin.com/pub/luis-felipe-drummond-d%C2%B4oliveira/2/a3/ba5
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 2 | https://www.linkedin.com/pub/luis-felipe-drummond-d%C2%B4oliveira/2/a3/ba5
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 2 | https://www.linkedin.com/pub/luis-felipe-drummond-d%C2%B4oliveira/2/a3/ba5
+Success on: Andrade, Flavia Cristina Drumon 3 | http://www.fasebj.org/cgi/content/meeting_abstract/24/1_MeetingAbstracts/562.8
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 4 | https://www.linkedin.com/pub/fl%C3%A1via-de-camargo-trentini/51/252/79a
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 4 | https://www.linkedin.com/pub/fl%C3%A1via-de-camargo-trentini/51/252/79a
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 4 | https://www.linkedin.com/pub/fl%C3%A1via-de-camargo-trentini/51/252/79a
+Success on: Andrade, Flavia Cristina Drumon 5 | http://www.fasebj.org/cgi/content/meeting_abstract/24/1_MeetingAbstracts/106.4
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 6 | http://br.linkedin.com/pub/norberto-martins/2/576/706
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 6 | http://br.linkedin.com/pub/norberto-martins/2/576/706
+urllib2 FAILURE on: Andrade, Flavia Cristina Drumon 6 | http://br.linkedin.com/pub/norberto-martins/2/576/706
+Success on: Andrade, Flavia Cristina Drumon 7 | http://cristinaandrade.wix.com/pilates#!fique-por-dentro
+Crawling for Andrade, Juan
+urllib2 FAILURE on: Andrade, Juan 0 | https://www.linkedin.com/in/andradejuan
+urllib2 FAILURE on: Andrade, Juan 0 | https://www.linkedin.com/in/andradejuan
+urllib2 FAILURE on: Andrade, Juan 0 | https://www.linkedin.com/in/andradejuan
+Success on: Andrade, Juan 1 | http://www.healthgrades.com/physician/dr-juan-andrade-y7sfr
+Success on: Andrade, Juan 2 | https://www.facebook.com/juan.andrade.bonsai
+Success on: Andrade, Juan 3 | https://www.facebook.com/public/Juan-Andrade
+Success on: Andrade, Juan 4 | http://en.wikipedia.org/wiki/Juan_Andrade
+Success on: Andrade, Juan 5 | http://www.bloomberg.com/research/stocks/people/person.asp?personId=27483741&ticker=HIG
+Crawling for Andrawes, Bassem O
+Success on: Andrawes, Bassem O 0 | http://cee.illinois.edu/faculty/bassemandrawes
+urllib2 FAILURE on: Andrawes, Bassem O 1 | https://www.linkedin.com/pub/bassem-andrawes/1a/246/b5b
+urllib2 FAILURE on: Andrawes, Bassem O 1 | https://www.linkedin.com/pub/bassem-andrawes/1a/246/b5b
+urllib2 FAILURE on: Andrawes, Bassem O 1 | https://www.linkedin.com/pub/bassem-andrawes/1a/246/b5b
+urllib2 FAILURE on: Andrawes, Bassem O 2 | http://academic.research.microsoft.com/Author/13013452/bassem-andrawes
+urllib2 FAILURE on: Andrawes, Bassem O 2 | http://academic.research.microsoft.com/Author/13013452/bassem-andrawes
+urllib2 FAILURE on: Andrawes, Bassem O 2 | http://academic.research.microsoft.com/Author/13013452/bassem-andrawes
+urllib2 FAILURE on: Andrawes, Bassem O 3 | http://salaryguide.dailyillini.com/employee/12177/
+urllib2 FAILURE on: Andrawes, Bassem O 3 | http://salaryguide.dailyillini.com/employee/12177/
+urllib2 FAILURE on: Andrawes, Bassem O 3 | http://salaryguide.dailyillini.com/employee/12177/
+Success on: Andrawes, Bassem O 4 | http://engineering.illinois.edu/directory/faculty/andrawes
+Success on: Andrawes, Bassem O 5 | http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1904912
+Success on: Andrawes, Bassem O 6 | http://www.ce.gatech.edu/media/news/4531
+Success on: Andrawes, Bassem O 7 | https://www.ideals.illinois.edu/browse?type=author&value=Andrawes,%20Bassem
+Crawling for Andrejasich, Michael J
+Success on: Andrejasich, Michael J 0 | http://www.arch.illinois.edu/faculty/michael-j-andrejasich
+Success on: Andrejasich, Michael J 1 | http://www.buildzoom.com/contractor/andrejasich-michael-j
+urllib2 FAILURE on: Andrejasich, Michael J 2 | https://www.linkedin.com/in/mandrejasich
+urllib2 FAILURE on: Andrejasich, Michael J 2 | https://www.linkedin.com/in/mandrejasich
+urllib2 FAILURE on: Andrejasich, Michael J 2 | https://www.linkedin.com/in/mandrejasich
+Success on: Andrejasich, Michael J 3 | http://www.zoominfo.com/p/Michael-Andrejasich/21241132
+urllib2 FAILURE on: Andrejasich, Michael J 4 | http://salaryguide.dailyillini.com/employee/12954/
+urllib2 FAILURE on: Andrejasich, Michael J 4 | http://salaryguide.dailyillini.com/employee/12954/
+urllib2 FAILURE on: Andrejasich, Michael J 4 | http://salaryguide.dailyillini.com/employee/12954/
+urllib2 FAILURE on: Andrejasich, Michael J 5 | http://www.whitepages.com/name/Michael-Andrejasich
+urllib2 FAILURE on: Andrejasich, Michael J 5 | http://www.whitepages.com/name/Michael-Andrejasich
+urllib2 FAILURE on: Andrejasich, Michael J 5 | http://www.whitepages.com/name/Michael-Andrejasich
+Success on: Andrejasich, Michael J 6 | http://www.geni.com/people/Michael-Andrejasich/6000000003903636103
+urllib2 FAILURE on: Andrejasich, Michael J 7 | https://www.linkedin.com/pub/mike-andrejasich/7/35/782
+urllib2 FAILURE on: Andrejasich, Michael J 7 | https://www.linkedin.com/pub/mike-andrejasich/7/35/782
+urllib2 FAILURE on: Andrejasich, Michael J 7 | https://www.linkedin.com/pub/mike-andrejasich/7/35/782
+Success on: Andrejasich, Michael J 8 | https://www.mylife.com/michael-andrejasich/michael-andrejasich
+Crawling for Andresen, Graciela Vazquez
+Success on: Andresen, Graciela Vazquez 0 | http://36psychologists.com/directory/graciela-vazquez-andresen
+urllib2 FAILURE on: Andresen, Graciela Vazquez 1 | https://www.linkedin.com/pub/graciela-andresen/2b/995/95
+urllib2 FAILURE on: Andresen, Graciela Vazquez 1 | https://www.linkedin.com/pub/graciela-andresen/2b/995/95
+urllib2 FAILURE on: Andresen, Graciela Vazquez 1 | https://www.linkedin.com/pub/graciela-andresen/2b/995/95
+Success on: Andresen, Graciela Vazquez 2 | http://www.intelius.com/Find-Phone-Address/Champaign-IL/Graciela-Andresen.html
+Success on: Andresen, Graciela Vazquez 3 | http://link.springer.com/article/10.1007%2FBF00844811
+Success on: Andresen, Graciela Vazquez 4 | http://www.intelius.com/people/G-Andresen
+Success on: Andresen, Graciela Vazquez 5 | http://36psychologists.com/directory/william-kohen
+Crawling for Andrews, Laurie Grams
+Success on: Andrews, Laurie Grams 0 | https://www.mylife.com/laurie-andrews/lauriegrams
+urllib2 FAILURE on: Andrews, Laurie Grams 1 | http://education.illinois.edu/ci/oce/laurie
+urllib2 FAILURE on: Andrews, Laurie Grams 1 | http://education.illinois.edu/ci/oce/laurie
+urllib2 FAILURE on: Andrews, Laurie Grams 1 | http://education.illinois.edu/ci/oce/laurie
+urllib2 FAILURE on: Andrews, Laurie Grams 2 | http://salaryguide.dailyillini.com/employee/12039/
+urllib2 FAILURE on: Andrews, Laurie Grams 2 | http://salaryguide.dailyillini.com/employee/12039/
+urllib2 FAILURE on: Andrews, Laurie Grams 2 | http://salaryguide.dailyillini.com/employee/12039/
+Success on: Andrews, Laurie Grams 3 | http://www.yatedo.com/s/Laurie+Grams
+Success on: Andrews, Laurie Grams 4 | http://illinois.edu/ds/detail?departmentId=illinois.eduKN570
+Success on: Andrews, Laurie Grams 5 | http://articles.chicagotribune.com/2010-05-04/sports/chi-prep-softball-elk-grove-ken-grams-700-wins_1_maine-west-stephanie-maday-softball
+Success on: Andrews, Laurie Grams 6 | http://articles.chicagotribune.com/2010-05-04/sports/ct-spt-0505-prep-soft-elk-grove-maine20100504_1_maine-west-stephanie-maday-softball
+Crawling for Angrave, Lawrence Christopher
+urllib2 FAILURE on: Angrave, Lawrence Christopher 0 | http://salaryguide.dailyillini.com/employee/12278/
+urllib2 FAILURE on: Angrave, Lawrence Christopher 0 | http://salaryguide.dailyillini.com/employee/12278/
+urllib2 FAILURE on: Angrave, Lawrence Christopher 0 | http://salaryguide.dailyillini.com/employee/12278/
+Success on: Angrave, Lawrence Christopher 1 | http://www.companydirectorcheck.com/lawrence-christopher-angrave
+Success on: Angrave, Lawrence Christopher 2 | http://www.ccdni.com/director-lawrence-christopher-angrave
+Success on: Angrave, Lawrence Christopher 3 | http://companycheck.co.uk/director/906250428
+Success on: Angrave, Lawrence Christopher 4 | http://companycheck.co.uk/director/906250428/LAWRENCE-CHRISTOPHER-ANGRAVE/companies-house-docs
+Success on: Angrave, Lawrence Christopher 5 | http://engineering.illinois.edu/directory/profile//angrave
+Crawling for Anthony, Kathryn H
+Success on: Anthony, Kathryn H 0 | http://www.arch.illinois.edu/faculty/kathryn-h-anthony-phd
+Success on: Anthony, Kathryn H 1 | http://kathrynanthony.net/Kathryn_Anthony_Bio/Home.html
+Success on: Anthony, Kathryn H 2 | http://www.amazon.com/Kathryn-H.-Anthony/e/B001HMWQ20
+Skipped 3 because it was a pdf
+Success on: Anthony, Kathryn H 4 | http://www.press.uillinois.edu/books/catalog/36dtn8hw9780252026416.html
+Success on: Anthony, Kathryn H 5 | http://www.illinoisauthors.org/authors/Kathryn_H._Anthony
+Crawling for Aprill, Karen
+urllib2 FAILURE on: Aprill, Karen 0 | https://www.linkedin.com/pub/karen-aprill/41/8ba/9ba
+urllib2 FAILURE on: Aprill, Karen 0 | https://www.linkedin.com/pub/karen-aprill/41/8ba/9ba
+urllib2 FAILURE on: Aprill, Karen 0 | https://www.linkedin.com/pub/karen-aprill/41/8ba/9ba
+Success on: Aprill, Karen 1 | http://www.healthgrades.com/provider/karen-aprill-y4h55
+Success on: Aprill, Karen 2 | http://www.alltherapist.com/karen-aprill.html
+Success on: Aprill, Karen 3 | http://www.healthgrades.com/provider/karen-aprill-y4h55/appointment
+Success on: Aprill, Karen 4 | https://www.facebook.com/april.karen.31
+Success on: Aprill, Karen 5 | http://www.zoominfo.com/p/Karen-Aprill/1276352696
+Crawling for Aref, Michael
+Success on: Aref, Michael 0 | http://www.healthgrades.com/physician/dr-michael-aref-2ptwq
+Success on: Aref, Michael 1 | http://mikearef.com/
+Success on: Aref, Michael 2 | http://michaelaref.md.com/
+Success on: Aref, Michael 3 | http://medicine.iupui.edu/faculty-profile/AREFM/Aref-Michael/
+urllib2 FAILURE on: Aref, Michael 4 | http://academic.research.microsoft.com/Author/10375396/michael-aref
+urllib2 FAILURE on: Aref, Michael 4 | http://academic.research.microsoft.com/Author/10375396/michael-aref
+urllib2 FAILURE on: Aref, Michael 4 | http://academic.research.microsoft.com/Author/10375396/michael-aref
+Success on: Aref, Michael 5 | http://www.vitals.com/doctors/Dr_Michael_Aref.html
+Crawling for Arends-Kuenning, Mary Paula
+Success on: Arends-Kuenning, Mary Paula 0 | http://www.clacs.illinois.edu/people/marends
+Success on: Arends-Kuenning, Mary Paula 1 | http://www.eaps.illinois.edu/people/marends
+Success on: Arends-Kuenning, Mary Paula 2 | http://www.globalstudies.illinois.edu/people/marends
+Success on: Arends-Kuenning, Mary Paula 3 | http://www.eui.illinois.edu/people/marends
+Success on: Arends-Kuenning, Mary Paula 4 | http://policymatters.illinois.edu/author/marends/
+Crawling for Armbruster, Bonnie Betts
+Success on: Armbruster, Bonnie Betts 0 | http://www.lookupanyone.com/namelistings/bonnie-armbruster.html
+Success on: Armbruster, Bonnie Betts 1 | http://familytreemaker.genealogy.com/users/v/a/n/Ruth--M-Vander-veldefrisbie/COL2-0001.html
+Success on: Armbruster, Bonnie Betts 2 | http://www.omnilexica.com/?q=Ann+Crawford
+Skipped 3 because it was a pdf
+Success on: Armbruster, Bonnie Betts 4 | http://eric.ed.gov/?q=writing&ff1=subReading+Instruction&ff2=eduGrade+2
+Success on: Armbruster, Bonnie Betts 5 | http://www.instantpeoplefinder.com/people-find/eric-a-betts
+Crawling for Armstrong, Paul J
+urllib2 FAILURE on: Armstrong, Paul J 0 | http://www.constructionmaps.net/massachusetts/marshfield/1036338-paul-j-armstrong-builder.html
+urllib2 FAILURE on: Armstrong, Paul J 0 | http://www.constructionmaps.net/massachusetts/marshfield/1036338-paul-j-armstrong-builder.html
+urllib2 FAILURE on: Armstrong, Paul J 0 | http://www.constructionmaps.net/massachusetts/marshfield/1036338-paul-j-armstrong-builder.html
+Success on: Armstrong, Paul J 1 | https://plus.google.com/+JPaulArmstrong
+Success on: Armstrong, Paul J 2 | https://www.facebook.com/pages/Paul-J-Armstrong-Custom-Home-Builder/134619966606698
+Success on: Armstrong, Paul J 3 | http://start.cortera.com/company/research/k5n3swp6k/armstrong-paul-j-carpenter-builder/
+Success on: Armstrong, Paul J 4 | http://www.publicrecords360.com/people-search/armstrong/paul/j
+Success on: Armstrong, Paul J 5 | http://www.yelp.com/biz/armstrong-paul-j-builder-marshfield
+Crawling for Arpin, Christine M
+urllib2 FAILURE on: Arpin, Christine M 0 | https://www.linkedin.com/pub/christine-arpin/4/8b/25b
+urllib2 FAILURE on: Arpin, Christine M 0 | https://www.linkedin.com/pub/christine-arpin/4/8b/25b
+urllib2 FAILURE on: Arpin, Christine M 0 | https://www.linkedin.com/pub/christine-arpin/4/8b/25b
+Success on: Arpin, Christine M 1 | http://www.peekyou.com/christine_arpin
+Success on: Arpin, Christine M 2 | http://www.peekyou.com/christina_arpin
+urllib2 FAILURE on: Arpin, Christine M 3 | http://www.whitepages.com/name/Christina-Arpin
+urllib2 FAILURE on: Arpin, Christine M 3 | http://www.whitepages.com/name/Christina-Arpin
+urllib2 FAILURE on: Arpin, Christine M 3 | http://www.whitepages.com/name/Christina-Arpin
+urllib2 FAILURE on: Arpin, Christine M 4 | https://www.linkedin.com/pub/christine-arpin-christine/83/709/28b
+urllib2 FAILURE on: Arpin, Christine M 4 | https://www.linkedin.com/pub/christine-arpin-christine/83/709/28b
+urllib2 FAILURE on: Arpin, Christine M 4 | https://www.linkedin.com/pub/christine-arpin-christine/83/709/28b
+Success on: Arpin, Christine M 5 | http://www.spokeo.com/Christine-Arpin
+urllib2 FAILURE on: Arpin, Christine M 6 | http://www.whitepages.com/name/Christine-Arpin
+urllib2 FAILURE on: Arpin, Christine M 6 | http://www.whitepages.com/name/Christine-Arpin
+urllib2 FAILURE on: Arpin, Christine M 6 | http://www.whitepages.com/name/Christine-Arpin
+Success on: Arpin, Christine M 7 | http://www.ussearch.com/people-search-name/christine-arpin
+urllib2 FAILURE on: Arpin, Christine M 8 | http://ca.linkedin.com/pub/dir/Christine/Arpin
+urllib2 FAILURE on: Arpin, Christine M 8 | http://ca.linkedin.com/pub/dir/Christine/Arpin
+urllib2 FAILURE on: Arpin, Christine M 8 | http://ca.linkedin.com/pub/dir/Christine/Arpin
+urllib2 FAILURE on: Arpin, Christine M 9 | http://www.411.com/name/Christine-Arpin
+urllib2 FAILURE on: Arpin, Christine M 9 | http://www.411.com/name/Christine-Arpin
+urllib2 FAILURE on: Arpin, Christine M 9 | http://www.411.com/name/Christine-Arpin
+Success on: Arpin, Christine M 10 | https://www.mylife.com/christine-arpin/christinearpin
+Crawling for Arulpragasam, Darini S
+Success on: Arulpragasam, Darini S 0 | http://www.healthgrades.com/provider/darini-arulpragasam-2f59v
+urllib2 FAILURE on: Arulpragasam, Darini S 1 | https://www.linkedin.com/pub/darini-arulpragasam/30/269/b37
+urllib2 FAILURE on: Arulpragasam, Darini S 1 | https://www.linkedin.com/pub/darini-arulpragasam/30/269/b37
+urllib2 FAILURE on: Arulpragasam, Darini S 1 | https://www.linkedin.com/pub/darini-arulpragasam/30/269/b37
+Success on: Arulpragasam, Darini S 2 | http://www.healthgrades.com/provider/darini-arulpragasam-2f59v/background-check
+Success on: Arulpragasam, Darini S 3 | http://www.vitals.com/doctors/Dr_Darini_Arulpragasam.html
+urllib2 FAILURE on: Arulpragasam, Darini S 4 | http://doctors.findthebest.com/l/818256/Darini-S-Arulpragasam-in-Champaign-Illinois
+urllib2 FAILURE on: Arulpragasam, Darini S 4 | http://doctors.findthebest.com/l/818256/Darini-S-Arulpragasam-in-Champaign-Illinois
+urllib2 FAILURE on: Arulpragasam, Darini S 4 | http://doctors.findthebest.com/l/818256/Darini-S-Arulpragasam-in-Champaign-Illinois
+Success on: Arulpragasam, Darini S 5 | https://twitter.com/darini12
+Success on: Arulpragasam, Darini S 6 | http://www.va.gov/providerinfo/DANVILLE/detail.asp?providerid=1690
+Crawling for Ashby, Steven
+urllib2 FAILURE on: Ashby, Steven 0 | https://www.linkedin.com/in/ashby
+urllib2 FAILURE on: Ashby, Steven 0 | https://www.linkedin.com/in/ashby
+urllib2 FAILURE on: Ashby, Steven 0 | https://www.linkedin.com/in/ashby
+Success on: Ashby, Steven 1 | http://www.pnnl.gov/about/bio/StevenAshby.asp
+urllib2 FAILURE on: Ashby, Steven 2 | https://www.linkedin.com/pub/dir/steven/ashby
+urllib2 FAILURE on: Ashby, Steven 2 | https://www.linkedin.com/pub/dir/steven/ashby
+urllib2 FAILURE on: Ashby, Steven 2 | https://www.linkedin.com/pub/dir/steven/ashby
+Success on: Ashby, Steven 3 | http://stevenashby.com/#!
+Success on: Ashby, Steven 4 | http://www.legacy.com/obituaries/jconline/obituary.aspx?pid=159198590
+urllib2 FAILURE on: Ashby, Steven 5 | http://www.whitepages.com/name/Steven-Ashby/
+urllib2 FAILURE on: Ashby, Steven 5 | http://www.whitepages.com/name/Steven-Ashby/
+urllib2 FAILURE on: Ashby, Steven 5 | http://www.whitepages.com/name/Steven-Ashby/
+Success on: Ashby, Steven 6 | https://www.facebook.com/steven.ashby.79
+Success on: Ashby, Steven 7 | http://www.lawyers.com/tucker/georgia/Steven-Richard-Ashby-887137-a/
+Crawling for Austin, Joanna Maria
+urllib2 FAILURE on: Austin, Joanna Maria 0 | http://salaryguide.dailyillini.com/employee/30542/
+urllib2 FAILURE on: Austin, Joanna Maria 0 | http://salaryguide.dailyillini.com/employee/30542/
+urllib2 FAILURE on: Austin, Joanna Maria 0 | http://salaryguide.dailyillini.com/employee/30542/
+Success on: Austin, Joanna Maria 1 | http://www.zoominfo.com/p/Joanna-Austin/1666870665
+urllib2 FAILURE on: Austin, Joanna Maria 2 | http://uk.linkedin.com/pub/joanna-austin/1/941/3ab
+urllib2 FAILURE on: Austin, Joanna Maria 2 | http://uk.linkedin.com/pub/joanna-austin/1/941/3ab
+urllib2 FAILURE on: Austin, Joanna Maria 2 | http://uk.linkedin.com/pub/joanna-austin/1/941/3ab
+Success on: Austin, Joanna Maria 3 | https://www.facebook.com/joey72
+Success on: Austin, Joanna Maria 4 | http://www.lookupanyone.com/namelistings/joanna-austin.html
+Success on: Austin, Joanna Maria 5 | http://thesis.library.caltech.edu/view/author/Austin-J-M.html
+Success on: Austin, Joanna Maria 6 | http://www.zoominfo.com/p/Joanna-Austin/1894043149
+Crawling for Austin, Scott Matthew
+Success on: Austin, Scott Matthew 0 | https://twitter.com/austinmattscott
+Success on: Austin, Scott Matthew 1 | https://www.facebook.com/himynameisaustinmscott
+Success on: Austin, Scott Matthew 2 | http://fashionablymale.net/2013/08/05/exclusive-dylan-austin-scott-by-matthew-mitchell/
+Success on: Austin, Scott Matthew 3 | https://www.facebook.com/austin7777777
+Success on: Austin, Scott Matthew 4 | http://www.txdailymail.com/news/texas/man-detained-on-unclassified-charges/18674787.html
+Crawling for Averback, Robert S
+Success on: Averback, Robert S 0 | http://www.matse.illinois.edu/faculty/Averback.html
+urllib2 FAILURE on: Averback, Robert S 1 | http://academic.research.microsoft.com/Author/12929913/robert-s-averback
+urllib2 FAILURE on: Averback, Robert S 1 | http://academic.research.microsoft.com/Author/12929913/robert-s-averback
+urllib2 FAILURE on: Averback, Robert S 1 | http://academic.research.microsoft.com/Author/12929913/robert-s-averback
+Success on: Averback, Robert S 2 | http://0-www.worldcat.org.novacat.nova.edu/identities/lccn-n91034086/
+Success on: Averback, Robert S 3 | http://www.patentbuddy.com/Inventor/Averback-Robert-S/8646663
+urllib2 FAILURE on: Averback, Robert S 4 | http://salaryguide.dailyillini.com/employee/12615/
+urllib2 FAILURE on: Averback, Robert S 4 | http://salaryguide.dailyillini.com/employee/12615/
+urllib2 FAILURE on: Averback, Robert S 4 | http://salaryguide.dailyillini.com/employee/12615/
+Success on: Averback, Robert S 5 | http://www.zoominfo.com/p/Robert-Averback/9174310
+Success on: Averback, Robert S 6 | http://cmime.lanl.gov/source/science/centers/mime/bios/robert_averback.shtml
+Crawling for Avgar, Ariel Chanan
+urllib2 FAILURE on: Avgar, Ariel Chanan 0 | http://salaryguide.dailyillini.com/employee/14732/
+urllib2 FAILURE on: Avgar, Ariel Chanan 0 | http://salaryguide.dailyillini.com/employee/14732/
+urllib2 FAILURE on: Avgar, Ariel Chanan 0 | http://salaryguide.dailyillini.com/employee/14732/
+Success on: Avgar, Ariel Chanan 1 | http://www.zoominfo.com/p/Ariel-Avgar/1774943232
+Success on: Avgar, Ariel Chanan 2 | http://onlinelibrary.wiley.com/doi/10.1111/j.1475-6773.2012.01438.x/abstract
+Success on: Avgar, Ariel Chanan 3 | http://www.hsr.org/hsr/abstract.jsp?aid=48966610765
+Success on: Avgar, Ariel Chanan 4 | http://www.researchgate.net/profile/Ariel_Avgar/publications
+Success on: Avgar, Ariel Chanan 5 | http://www.commonwealthfund.org/publications/in-brief/2012/aug/importance-of-a-high-performance-work-environment
+Crawling for Axford, Roy A
+Skipped 0 because it was a pdf
+urllib2 FAILURE on: Axford, Roy A 1 | https://www.linkedin.com/pub/roy-axford/7/29b/75
+urllib2 FAILURE on: Axford, Roy A 1 | https://www.linkedin.com/pub/roy-axford/7/29b/75
+urllib2 FAILURE on: Axford, Roy A 1 | https://www.linkedin.com/pub/roy-axford/7/29b/75
+Success on: Axford, Roy A 2 | http://www.amazon.com/Roy-Axford/e/B00ISJJ75O
+socket FAILURE on: Axford, Roy A 3 | http://www.instantpeoplefinder.com/people-find/roy-a-axford
+Success on: Axford, Roy A 3 | http://www.instantpeoplefinder.com/people-find/roy-a-axford
+Success on: Axford, Roy A 4 | http://www.library.illinois.edu/archives/archon/?p=digitallibrary/digitalcontent&id=3485
+Success on: Axford, Roy A 5 | https://www.facebook.com/roy.axford
+urllib2 FAILURE on: Axford, Roy A 6 | http://academic.research.microsoft.com/Author/18763519/roy-a-axford
+urllib2 FAILURE on: Axford, Roy A 6 | http://academic.research.microsoft.com/Author/18763519/roy-a-axford
+urllib2 FAILURE on: Axford, Roy A 6 | http://academic.research.microsoft.com/Author/18763519/roy-a-axford
+Success on: Axford, Roy A 7 | http://www.amazon.com/Study-Seals-Shielded-Enclosure-Personnel-Access/dp/B00BVDC1JI
+Crawling for Babadoost, Mohammad
+Success on: Babadoost, Mohammad 0 | http://cropsci.illinois.edu/faculty/babadoost
+Success on: Babadoost, Mohammad 1 | http://www.apsnet.org/members/awards/InternationalService/Pages/MohammadBabadoost.aspx
+Success on: Babadoost, Mohammad 2 | http://shared.aces.illinois.edu/content/mohammad-babadoost
+Success on: Babadoost, Mohammad 3 | http://4hfoundation.illinois.edu/content/mohammad-babadoost
+urllib2 FAILURE on: Babadoost, Mohammad 4 | http://academic.research.microsoft.com/Author/24404406/mohammad-babadoost
+urllib2 FAILURE on: Babadoost, Mohammad 4 | http://academic.research.microsoft.com/Author/24404406/mohammad-babadoost
+urllib2 FAILURE on: Babadoost, Mohammad 4 | http://academic.research.microsoft.com/Author/24404406/mohammad-babadoost
+urllib2 FAILURE on: Babadoost, Mohammad 5 | http://www.reeec.illinois.edu/people/babadoos
+socket FAILURE on: Babadoost, Mohammad 5 | http://www.reeec.illinois.edu/people/babadoos
+urllib2 FAILURE on: Babadoost, Mohammad 5 | http://www.reeec.illinois.edu/people/babadoos
+socket FAILURE on: Babadoost, Mohammad 6 | http://web.extension.illinois.edu/state/staffdetail.cfm?StaffID=898
+urllib2 FAILURE on: Babadoost, Mohammad 6 | http://web.extension.illinois.edu/state/staffdetail.cfm?StaffID=898
+Success on: Babadoost, Mohammad 6 | http://web.extension.illinois.edu/state/staffdetail.cfm?StaffID=898
+Crawling for Baber, Lorenzo D
+socket FAILURE on: Baber, Lorenzo D 0 | http://www.eurekalert.org/multimedia/pub/90695.php
+socket FAILURE on: Baber, Lorenzo D 0 | http://www.eurekalert.org/multimedia/pub/90695.php
+urllib2 FAILURE on: Baber, Lorenzo D 0 | http://www.eurekalert.org/multimedia/pub/90695.php
+urllib2 FAILURE on: Baber, Lorenzo D 1 | https://www.linkedin.com/pub/lorenzo-baber/12/5a2/442
+Traceback (most recent call last):
+  File "crawl_docs.py", line 29, in <module>
+    r = urllib2.urlopen(url, timeout=5)	
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 404, in open
+    response = self._open(req, data)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 422, in _open
+    '_open', req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 382, in _call_chain
+    result = func(*args)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1222, in https_open
+    return self.do_open(httplib.HTTPSConnection, req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1187, in do_open
+    r = h.getresponse(buffering=True)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 1045, in getresponse
+    response.begin()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 409, in begin
+    version, status, reason = self._read_status()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py", line 365, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 476, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 241, in recv
+    return self.read(buflen)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/ssl.py", line 160, in read
+    return self._sslobj.read(len)
+ssl.SSLError: The read operation timed out

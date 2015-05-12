@@ -1,0 +1,1989 @@
+name|email|position|department
+Aherin, Robert A|raherin@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Ahmad, Irfan S|isahmad@illinois.edu|Executive Director, Center for Nanoscale Science and Technology|Agricultural and Biological Engineering, Department of
+Bhalerao, Kaustubh|bhalerao@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Bhattarai, Rabin|rbhatta2@illinois.edu|Assistant Professor|Agricultural and Biological Engineering, Department of
+Bode, Loren E|bode@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Bouton, Lawrence F|l-bouton@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Buriak, Philip|pburiak@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Catunda, Fernanda|catunda@illinois.edu||Agricultural and Biological Engineering, Department of
+Chiu, Yi-Chich|yichiu@illinois.edu|Visiting Scholar|Agricultural and Biological Engineering, Department of
+Christianson, Leslie L|llc@illinois.edu|Professor Emeritus|Agricultural and Biological Engineering, Department of
+Cooke, Richard A C|rcooke@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Danao, Mary-Grace|gdanao@illinois.edu|Assistant Professor|Agricultural and Biological Engineering, Department of
+Ding, Tao|tding@illinois.edu||Agricultural and Biological Engineering, Department of
+Eckhoff, Steven|seckhoff@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Feng, Hao|haofeng@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Florentino Pereira, Danilo|dfp@illinois.edu||Agricultural and Biological Engineering, Department of
+Gai, Chao|chaogai@illinois.edu||Agricultural and Biological Engineering, Department of
+Gates, Richard S|rsgates@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Gilmore, Brian J|bgilmore@illinois.edu|Adjunct Professor|Agricultural and Biological Engineering, Department of
+Green, Angela R|angelag@illinois.edu|Assistant Professor|Agricultural and Biological Engineering, Department of
+Grift, Tony E|grift@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Hahn, Laura Diane|lhahn@illinois.edu|Director|Agricultural and Biological Engineering, Department of
+Hansen, Alan Christopher|achansen@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Harbourt, Christopher Mark|harbourt@illinois.edu|Adjunct Assistant Professor|Agricultural and Biological Engineering, Department of
+Harper, Joe Grant|jgharper@illinois.edu|Professor of Technical Systems Management|Agricultural and Biological Engineering, Department of
+He, Hanming|uiuchhm@illinois.edu||Agricultural and Biological Engineering, Department of
+Hudson, Robert J M|rjhudson@illinois.edu|Associate Professor, Natural Resouces and Environmental Sciences|Agricultural and Biological Engineering, Department of
+Hummel, John W|jhummel@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Kalita, Prasanta Kumar|pkalita@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Kuhlenschmidt, Mark S|kuhlensc@illinois.edu|Interim Department Head, Pathobiology|Agricultural and Biological Engineering, Department of
+Li, Junhui|junhuili@illinois.edu||Agricultural and Biological Engineering, Department of
+Li, Shixiong|lsx0511@illinois.edu|Visiting Scholar|Agricultural and Biological Engineering, Department of
+Li, Shiyang|syli1987@illinois.edu|Visiting Scholar|Agricultural and Biological Engineering, Department of
+Li, Shuyan|shuyanli@illinois.edu||Agricultural and Biological Engineering, Department of
+Litchfield, J Bruce|b-litch@illinois.edu|Assistant Dean|Agricultural and Biological Engineering, Department of
+Littlewood, John M|jlittlew@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Liu, Cailing|lcl@illinois.edu||Agricultural and Biological Engineering, Department of
+Maia, Guilherme|gmaia@illinois.edu||Agricultural and Biological Engineering, Department of
+Markus, Momcilo|mmarkus@illinois.edu|Hydrologist, Illinois State Water Survey, Prairie Research Institute, University of Illinois|Agricultural and Biological Engineering, Department of
+Mies, Emelie Elizabeth Sims|emies@illinois.edu|Lecturer|Agricultural and Biological Engineering, Department of
+Mitchell, J Kent|jkmitche@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Monzani, Giovana|gtommaso@illinois.edu|Visiting Scholar|Agricultural and Biological Engineering, Department of
+Morris, Scott A|smorris@illinois.edu|Associate Professor, Food Science and Human Nutrition|Agricultural and Biological Engineering, Department of
+Paulsen, Marvin R|mpaulsen@illinois.edu|Professor Emeritus|Agricultural and Biological Engineering, Department of
+Pradyawong, Sarocha|prady@illinois.edu||Agricultural and Biological Engineering, Department of
+Rausch, Kent D|krausch@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Reid, John F|j-reid1@illinois.edu|Adjunct Professor|Agricultural and Biological Engineering, Department of
+Ren, Hongbin|rhb42363@illinois.edu||Agricultural and Biological Engineering, Department of
+Rodriguez, Luis F|lfr@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Schideman, Lance Charles|schidema@illinois.edu|Assistant Professor|Agricultural and Biological Engineering, Department of
+Schmidt, Shelly J|sjs@illinois.edu|Professor of Food Chemistry|Agricultural and Biological Engineering, Department of
+Secrest, Donald H|secrest@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Shen, Chao|chaoshen@illinois.edu|Postdoctoral Research Associate|Agricultural and Biological Engineering, Department of
+Siemens, John C|jsiemens@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Singh, Vijay|vsingh@illinois.edu|Professor, Agricultural and Biological Engineering|Agricultural and Biological Engineering, Department of
+Stillinger, Jack C|jstill@illinois.edu|Emeriti Faculty|Agricultural and Biological Engineering, Department of
+Tan, Yuesheng|tys@illinois.edu||Agricultural and Biological Engineering, Department of
+Tian, Lei|lei-tian@illinois.edu|PROF OF AGR ENGR, Engineering Administration|Agricultural and Biological Engineering, Department of
+Ting, Kuan Chong|kcting@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Tumbleson, M E|mtumbles@illinois.edu|Professor Emeritus|Agricultural and Biological Engineering, Department of
+Wang, Xinlei|xwang2@illinois.edu|Associate Professor|Agricultural and Biological Engineering, Department of
+Wang, Ziyun|wzyfirst@illinois.edu||Agricultural and Biological Engineering, Department of
+Xin, Zhe|xinzhe@illinois.edu||Agricultural and Biological Engineering, Department of
+Zahos, Stephen C|szahos@illinois.edu|Visiting Student Services Coordinator|Agricultural and Biological Engineering, Department of
+Zhang, Jixiang|jxzhang1@illinois.edu|Visiting Scholar|Agricultural and Biological Engineering, Department of
+Zhang, Yuanhui|yzhang1@illinois.edu|Professor|Agricultural and Biological Engineering, Department of
+Allen-Smith, Joyce E|jallensm@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Ando, Amy W|amyando@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Arends-Kuenning, Mary Paula|marends@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Barry, Peter J|p-barry1@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Baylis, Katherine R|baylis@illinois.edu|Assistant Professor|Agricultural and Consumer Economics, Department of
+Beller, Andrea H|a-beller@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Bera, Anil K|abera@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Braden, John B|jbb@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Brazee, Richard J|brazee@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Brune, Jerard M|jbrune@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Bullock, David S|dsbulloc@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Ellinger, Paul N|pellinge@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Ellison, Brenna|brennae@illinois.edu|Assistant Professor|Agricultural and Consumer Economics, Department of
+Endres, A Bryan|bendres@illinois.edu|Interim Associate Provost for International Affairs|Agricultural and Consumer Economics, Department of
+Feser, Edward|feser@illinois.edu|Dean, Fine and Applied Arts|Agricultural and Consumer Economics, Department of
+Fettig, Lyle P|l-fettig@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Finnegan, Ann Butler|abfinngn@illinois.edu|Director, Undergraduate Admissions and Advising|Agricultural and Consumer Economics, Department of
+Garcia, Philip|p-garcia@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Goldsmith, Peter D|pgoldsmi@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Good, Darrel L|d-good@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Grossman, Margaret R|peggyg@illinois.edu|Emeriti Faculty, Bock Chair in Agricultural Law|Agricultural and Consumer Economics, Department of
+Gundersen, Craig|cggunder@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Gundersen, Lisa Christine|lcgunder@illinois.edu|Visiting Teaching Associate|Agricultural and Consumer Economics, Department of
+Hauser, Robert J|r-hauser@illinois.edu|Dean, College of Agricultural, Consumer and Environmental Sciences (ACES)|Agricultural and Consumer Economics, Department of
+Held, Deborah A|debheld@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Hewings, Geoffrey J D|hewings@illinois.edu|PROF EMERITUS, Economics|Agricultural and Consumer Economics, Department of
+Hornbaker, Robert H|hornbake@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Irwin, Scott H|sirwin@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Kesan, Jay P|kesan@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Khanna, Madhu|khanna1@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Kirwan, Barrett E|bkirwan@illinois.edu|Assistant Professor|Agricultural and Consumer Economics, Department of
+Knapp, Ted|tedknapp@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Lakner, Hilda Buckley|h-lakner@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Leuthold, Raymond M|rmleuth@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Lo, Alexander C|alexlo@illinois.edu|Teaching Associate|Agricultural and Consumer Economics, Department of
+Lobdell, Lanny R|llobdell@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Lyons, Angela Christine|anglyons@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Mallory, Mindy L|mallorym@illinois.edu|Assistant Professor|Agricultural and Consumer Economics, Department of
+Marti, Les A|lesmarti@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Matta, Narsimha Reddy|nmatta@illinois.edu||Agricultural and Consumer Economics, Department of
+McNamara, Paul E|mcnamar1@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Miller, Gay Y|gymiller@illinois.edu|Professor, Pathobiology|Agricultural and Consumer Economics, Department of
+Morganosky, Michelle|morganos@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Nelson, Charles H|chnelson@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Nelson, Gerald C|gnelson@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Norvell, Jonathan M|jnorvell@illinois.edu|DIR AGRI PROP SVCS, Agricultural Property Services -- University Administration|Agricultural and Consumer Economics, Department of
+O'Saben, Thomas S|tosaben@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Onal, Hayri|h-onal@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Paulson, Nicholas D|npaulson@illinois.edu|Associate Professor|Agricultural and Consumer Economics, Department of
+Peterson, Paul Edward|pepeters@illinois.edu|Clinical Professor|Agricultural and Consumer Economics, Department of
+Phillips, Samuel W|samphill@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Rhea, Robert|rrhea@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Riddick, Catherine L|criddick@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Rogalla, Valerie|vrogalla@illinois.edu|Teaching Associate|Agricultural and Consumer Economics, Department of
+Rutledge, Jacqueline A|jrutledg@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Schlessinger, Lisa R|schless1@illinois.edu|Postdoctoral Research Associate|Agricultural and Consumer Economics, Department of
+Schnitkey, Gary Donald|schnitke@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Seitz, Wesley D|w-seitz@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Sherrick, Bruce J|sherrick@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Siebers, Steven E|ssiebers@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Sofranko, Andrew J|asofrank@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Stoddard, Paul B|pstoddrd@illinois.edu|Lecturer in Agribusiness|Agricultural and Consumer Economics, Department of
+Suiyigheh, Joyous Tata|sjtata@illinois.edu|Postdoctoral Research Associate|Agricultural and Consumer Economics, Department of
+Summerfield, Gale E|summrfld@illinois.edu|Director, Women & Gender in Global Perspectives|Agricultural and Consumer Economics, Department of
+Swanson, Burton E|swansonb@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Thompson, Robert I|rlt@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Uchtmann, Donald L|uchtmann@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Unnevehr, Laurian J|laurian@illinois.edu|Emeriti Faculty|Agricultural and Consumer Economics, Department of
+Walden, Richard C|r-walden@illinois.edu|Adjunct Instructor|Agricultural and Consumer Economics, Department of
+Winter-Nelson, Alex E|alexwn@illinois.edu|Professor|Agricultural and Consumer Economics, Department of
+Xu, Yilan|yilanxu@illinois.edu|Assistant Professor|Agricultural and Consumer Economics, Department of
+Alexander, Lindsey Sharone|lsalexa@illinois.edu|Postdoctoral Research Associate|Animal Sciences, Department of
+Bahr, Janice Mary|jbahr@illinois.edu|Professor Emerita|Animal Sciences, Department of
+Beever, Jonathan Edward|jbeever@illinois.edu|Professor|Animal Sciences, Department of
+Berger, Larry L|llberger@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Beverly, Joseph Lee|beverly1@illinois.edu|Professor|Animal Sciences, Department of
+Braundmeier-Fleming, Andrea G|braundme@illinois.edu|RES ASSOC, Institute for Genomic Biology|Animal Sciences, Department of
+Cann, Isaac|icann@illinois.edu|Professor|Animal Sciences, Department of
+Cardoso, Felipe|cardoso2@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Carr, Scott N|carr1@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Carr, Tom R|trcarr1@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Cattai de Godoy, Maria Regina|mgodoy2@illinois.edu|Visiting Assistant Professor |Animal Sciences, Department of
+Chapple, Wesley P|chapple3@illinois.edu|Research Specialist in Agriculture|Animal Sciences, Department of
+Clark, Jimmy Howard|jhclark@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Cobb, Alan R|arcobb@illinois.edu|Visiting Teaching Associate|Animal Sciences, Department of
+Cotta, Michael Anthony|cotta@illinois.edu|Adjunct Professor|Animal Sciences, Department of
+Cuaron, Jose A|cuaron@illinois.edu|Adjunct Professor|Animal Sciences, Department of
+Dilger, Anna Carol|adilger2@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Dilger, Ryan Neil|rdilger2@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Drackley, James K|drackley@illinois.edu|Professor|Animal Sciences, Department of
+Ellis, Michael|mellis7@illinois.edu|Professor|Animal Sciences, Department of
+Emmert, Jason Lee|jemmert@illinois.edu|Assistant Dean, Academic Programs|Animal Sciences, Department of
+Fahey, George C|gcfahey@illinois.edu|Professor Emeritus|Animal Sciences, Department of
+Faulkner, Dan B|danb@illinois.edu|Professor|Animal Sciences, Department of
+Felix, Tara L|tfelix@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Fischer-Brown, Amy Elizabeth|afischer@illinois.edu|Teaching Associate|Animal Sciences, Department of
+Flaws, Jodi A|jflaws@illinois.edu|Professor, Comparative Biosciences|Animal Sciences, Department of
+Garleb, Keith Allen|kgarleb@illinois.edu|Adjunct Professor|Animal Sciences, Department of
+Garlick, Peter James|pgarlick@illinois.edu|Professor|Animal Sciences, Department of
+Gaskins, H Rex|hgaskins@illinois.edu|Professor|Animal Sciences, Department of
+Green, Georgia M|g-green@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Green, Michelle Lynn|mlgreen@illinois.edu|Visiting Research Assistant Professor|Animal Sciences, Department of
+Grossman, Michael|mikeg@illinois.edu|Professor Emeritus, Genetics|Animal Sciences, Department of
+Heijnen, Jacoba J|heijnen@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Hendrick, George|g-hndrck@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Hilliker, Ivy Estelle|hilliker@illinois.edu||Animal Sciences, Department of
+Hollis, Gilbert R|hollisg@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Holscher, Hannah Diane|hholsche@illinois.edu|Postdoctoral Research Associate|Animal Sciences, Department of
+Hurley, Walter L|wlhurley@illinois.edu|Professor, Animal Sciences|Animal Sciences, Department of
+Hutjens, Michael F|hutjensm@illinois.edu|Professor|Animal Sciences, Department of
+Johnson, Janeen Lyn|johnso17@illinois.edu|Associate Professor|Animal Sciences, Department of
+Johnson, Rodney W|rwjohn@illinois.edu|Professor|Animal Sciences, Department of
+Kelley, Keith W|kwkelley@illinois.edu|Professor|Animal Sciences, Department of
+Kesler, Darrel J|djkesler@illinois.edu|Professor Emeritus|Animal Sciences, Department of
+Kline, Kevin Halden|kkline@illinois.edu|Professor|Animal Sciences, Department of
+Knox, Robert Victor|rknox@illinois.edu|Associate Professor|Animal Sciences, Department of
+Koelkebeck, Kenneth W|kkoelkeb@illinois.edu|Professor|Animal Sciences, Department of
+Krisher, Rebecca L|rkrisher@illinois.edu|Associate Professor|Animal Sciences, Department of
+Kukekova, Anna V|avk@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Lewin, Harris A|h-lewin@illinois.edu|DIR RSDIS|Animal Sciences, Department of
+Liu, Yanhong|liu44@illinois.edu|Postdoctoral Research Associate|Animal Sciences, Department of
+Loor, Juan J|jloor@illinois.edu|Associate Professor|Animal Sciences, Department of
+Mackie, Roderick Ian|r-mackie@illinois.edu|Professor|Animal Sciences, Department of
+Mateus-Pinilla, Nohra E|nohram@illinois.edu|Wildlife Veterniary Epidemiologist|Animal Sciences, Department of
+McCoy, Gene C|gcmccoy@illinois.edu|Visiting Teaching Associate|Animal Sciences, Department of
+McCusker, Robert H|rmccuske@illinois.edu|Research Assistant Professor|Animal Sciences, Department of
+Merchen, Neal R|nmerchen@illinois.edu|Associate Dean for Research, College of ACES|Animal Sciences, Department of
+Miller, David J|djmille@illinois.edu|Associate Professor|Animal Sciences, Department of
+Miller, Margret Ellen Berg|meberg@illinois.edu|Postdoctoral Research Associate|Animal Sciences, Department of
+Morris, Cheryl Lee|cwarrick@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Mosley, Jonathon Forrest|jfmosley@illinois.edu|Research Specialist in Agriculture|Animal Sciences, Department of
+Murphy, Michael R|mrmurphy@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Newell-Fugate, Anne Elizabeth|newellf1@illinois.edu||Animal Sciences, Department of
+Novakofski, Jan E|jnova@illinois.edu|Associate Vice Chancellor for Research for Compliance|Animal Sciences, Department of
+Nowak, Romana Angelika|ranowak@illinois.edu|Professor|Animal Sciences, Department of
+Parr, Chelsie K|cparr2@illinois.edu||Animal Sciences, Department of
+Parrett, Douglas F|dparrett@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Parsons, Carl M|poultry@illinois.edu|Professor|Animal Sciences, Department of
+Peterson, Beau A|bpetersn@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Peterson, Benjamin Cole|bcpeters@illinois.edu|Research Associate|Animal Sciences, Department of
+Pettigrew, James Eugene|jepettig@illinois.edu|Professor|Animal Sciences, Department of
+Ponnuraj, Nagendra Prabhu|naguponu@illinois.edu|Postdoctoral Research Associate|Animal Sciences, Department of
+Radlowski, Emily C|radlowsk@illinois.edu|POSTDOC FELLOW, Beckman Institute|Animal Sciences, Department of
+Robinson, James L|jlrobins@illinois.edu|Professor Emeritus|Animal Sciences, Department of
+Roca, Alfred L|roca@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Rodriguez-Zas, Sandra Luisa|rodrgzzs@illinois.edu|Professor|Animal Sciences, Department of
+Rund, Lauretta A|larund@illinois.edu|Research Assistant Professor|Animal Sciences, Department of
+Schook, Lawrence B|schook@illinois.edu|Vice President for Research|Animal Sciences, Department of
+Shanks, Roger D|rdshanks@illinois.edu|Emeriti Faculty|Animal Sciences, Department of
+Shike, Daniel William|dshike@illinois.edu|Assistant Professor|Animal Sciences, Department of
+Sobie, Jennifer Lee|jlsobie@illinois.edu||Animal Sciences, Department of
+Southey, Bruce Robert|southey@illinois.edu|Research Assistant Professor|Animal Sciences, Department of
+Spike, Thomas Edward|tspike@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Stein, Hans-Henrik|hstein@illinois.edu|Professor, Animal Sciences|Animal Sciences, Department of
+Swanson, Kelly S|ksswanso@illinois.edu|Associate Professor, Department of Animal Sciences|Animal Sciences, Department of
+Topping, David L|dtopping@illinois.edu|Adjunct Professor|Animal Sciences, Department of
+Wallace, Richard L|wallace1@illinois.edu|Adjunct Associate Professor|Animal Sciences, Department of
+Webel, Douglas Maurice|dwebel@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Wheeler, Matthew B|mbwheele@illinois.edu|Professor, Animal Sciences, Bioengineering|Animal Sciences, Department of
+White, Bryan A|bwhite44@illinois.edu|Professor and Graduate Program Coordinator, Animal Sciences|Animal Sciences, Department of
+Wise, Phyllis M|pmwise@illinois.edu|Chancellor, University of Illinois at Urbana-Champaign|Animal Sciences, Department of
+Wolter, Bradley F|b-wolter@illinois.edu|Adjunct Assistant Professor|Animal Sciences, Department of
+Ainsworth, Elizabeth|ainswort@illinois.edu|INST AFFL, IGB, Institute for Genomic Biology|Crop Sciences, Department of
+Babadoost, Mohammad|babadoos@illinois.edu|ASSOC PROF, VEGETABLE & FRUIT|Crop Sciences, Department of
+Below, Frederick E|fbelow@illinois.edu|Professor of Plant Physiology|Crop Sciences, Department of
+Berhow, Mark A|berhow@illinois.edu|Adjunct Professor|Crop Sciences, Department of
+Bohn, Martin O|mbohn@illinois.edu|Associate Professor|Crop Sciences, Department of
+Bollero, German A|gbollero@illinois.edu|Professor, Biometry|Crop Sciences, Department of
+Bradley, Carl Alan|carlbrad@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Branham, Bruce E|bbranham@illinois.edu|Professor|Crop Sciences, Department of
+Briskin, Donald P|dbriskin@illinois.edu|Professor of Plant Physiology|Crop Sciences, Department of
+Brown, Howard Martin|hmbrown@illinois.edu|Adjunct Assistant Professor|Crop Sciences, Department of
+Brown, Patrick J|pjb34@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Bullock, Donald G|dbullock@illinois.edu|Professor of Crop Production|Crop Sciences, Department of
+Caetano-Anolles, Gustavo|gca@illinois.edu|Professor|Crop Sciences, Department of
+Chee-Sanford, Joanne Chin|cheesanf@illinois.edu|Adjunct Assistant Professor, Crop Sciences|Crop Sciences, Department of
+Clough, Steven J|sjclough@illinois.edu|AFFILIATE, IGB, Institute for Genomic Biology|Crop Sciences, Department of
+D'Arcy, Cleora|cdarcy@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Davis, Adam|asdavis1@illinois.edu|Associate Professor|Crop Sciences, Department of
+Diers, Brian W|bdiers@illinois.edu|Professor of Soybean Breeding|Crop Sciences, Department of
+Domier, Leslie L|ldomier@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Dudley, John W|jdudley@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Eastburn, Darin M|eastburn@illinois.edu|Associate Professor|Crop Sciences, Department of
+Fermanian, Thomas W|fermo@illinois.edu||Crop Sciences, Department of
+Gentry, Laura Flint|lauragen@illinois.edu|Adjunct Assistant Professor|Crop Sciences, Department of
+Gray, Michael E|megray@illinois.edu|Professor, Crop Sciences Department|Crop Sciences, Department of
+Hager, Aaron G|hager@illinois.edu|Associate Professor|Crop Sciences, Department of
+Hanzawa, Yoshie|yhanzawa@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Harper, James E|j-harper@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Hartman, Glen L|ghartman@illinois.edu|Adjunct Professor, Natural Res & Env Sci|Crop Sciences, Department of
+Heichel, Gary H|gheichel@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Hesketh, John D|hesketh@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Hoeft, Robert G|rhoeft@illinois.edu|Professor of Soil Fertility|Crop Sciences, Department of
+Huber, Steven C|schuber1@illinois.edu|AFFILIATE, IGB, Institute for Genomic Biology|Crop Sciences, Department of
+Hudson, Matthew|mhudson@illinois.edu|Professor of Bioinformatics, Dept. of Crop Sciences|Crop Sciences, Department of
+Hymowitz, Theodore|soyui@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Juvik, John A|juvik@illinois.edu|Professor of Plant Genetics|Crop Sciences, Department of
+Kauffman, Harold E|hkauffma@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Kling, Gary J|gkling@illinois.edu|Associate Professor|Crop Sciences, Department of
+Kolb, Frederic L|f-kolb@illinois.edu|Professor of Small Grains Breeding and Genetics|Crop Sciences, Department of
+Kushad, Mosbah M|kushad@illinois.edu|Associate Professor|Crop Sciences, Department of
+Lambert, Kris Nicholas|knlamber@illinois.edu|Associate Professor, Nematology|Crop Sciences, Department of
+Lee, DoKyoung|leedk@illinois.edu|Associate Professor|Crop Sciences, Department of
+Long, Stephen P|slong@illinois.edu|DIR, BMGF RIPE, Institute for Genomic Biology|Crop Sciences, Department of
+Lovell, Sarah Taylor|stlovell@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Masiunas, John B|masiunas@illinois.edu|Associate Professor|Crop Sciences, Department of
+Mikel, Mark A|mmikel@illinois.edu|Assoc Dir, Biotech Ctr|Crop Sciences, Department of
+Moose, Stephen Patrick|smoose@illinois.edu|Associate Professor, Maize Functional Genomics|Crop Sciences, Department of
+Mumm, Rita Hogan|ritamumm@illinois.edu|Associate Professor|Crop Sciences, Department of
+Nafziger, Emerson D|ednaf@illinois.edu|Professor of Crop Sciences|Crop Sciences, Department of
+Nelson, Randall L|rlnelson@illinois.edu|Professor of Plant Genetics|Crop Sciences, Department of
+Noel, Gregory R|g-noel1@illinois.edu|Professor Emeritus|Crop Sciences, Department of
+Noland, Dianne A|dnoland@illinois.edu|Visiting Teaching Associate|Crop Sciences, Department of
+Norton, Margaret A|mnorton@illinois.edu|Visiting Teaching Associate|Crop Sciences, Department of
+Olson, Kenneth R|krolson@illinois.edu|Professor, Natural Resources and Environmental Sciences|Crop Sciences, Department of
+Ort, Donald Richard|d-ort@illinois.edu|PROF, PLANT PHYSIOLOGY, Crop Sciences|Crop Sciences, Department of
+Pataky, Jerald K|j-pataky@illinois.edu|Professor|Crop Sciences, Department of
+Pedersen, Wayne L|wpederse@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Plewa, Michael Jacob|mplewa@illinois.edu|Professor|Crop Sciences, Department of
+Portis, Archie R|arportis@illinois.edu|DEPT AFFL|Crop Sciences, Department of
+Rayburn, A Lane|arayburn@illinois.edu|Professor of Cytogenetics|Crop Sciences, Department of
+Riechers, Dean Edward|riechers@illinois.edu|Associate Professor, Weed Physiology|Crop Sciences, Department of
+Sachs, Martin M|msachs@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Sacks, Erik J|esacks@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Simmons, F William|fsimmons@illinois.edu|Assistant Dean, Academic Programs|Crop Sciences, Department of
+Skirvin, Robert M|skirvin@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Spencer, Joseph Lee|spencer1@illinois.edu|Insect Behaviorist|Crop Sciences, Department of
+Steffey, Kevin L|ksteffey@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Stewart, J Ryan|rstewart@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Stoller, Edward W|estoller@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Taylor, Andrea F|afabrtay@illinois.edu|Teaching Associate|Crop Sciences, Department of
+Tranel, Patrick J|tranel@illinois.edu|Professor of Molecular Weed Science|Crop Sciences, Department of
+Troyer, A Forrest|atroyer@illinois.edu||Crop Sciences, Department of
+Villamil, Maria Bonita|villamil@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Vodkin, Lila O|l-vodkin@illinois.edu|Professor of Crop Molecular Biology|Crop Sciences, Department of
+Voigt, Thomas B|tvoigt@illinois.edu|Associate Professor|Crop Sciences, Department of
+Walker, David R|walkerdr@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Wax, Loyd M|lmwax@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Weinzierl, Richard A|weinzier@illinois.edu|Professor|Crop Sciences, Department of
+White, Donald G|donwhite@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Widholm, Jack M|widholm@illinois.edu|Emeriti Faculty|Crop Sciences, Department of
+Wilkinson, Henry T|hwilkins@illinois.edu||Crop Sciences, Department of
+Williams, David J|william3@illinois.edu|Professor|Crop Sciences, Department of
+Williams, Martin M|mmwillms@illinois.edu|Associate Professor|Crop Sciences, Department of
+Wortman, Samuel Edward|swortman@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Zhao, Youfu|zhao888@illinois.edu|Assistant Professor|Crop Sciences, Department of
+Andrade, Juan|jandrade@illinois.edu|Assistant Professor|Food Science and Human Nutrition, Department of
+Cadwallader, Keith R|cadwlldr@illinois.edu|Professor of Food Chemistry|Food Science and Human Nutrition, Department of
+Chapman-Novakofski, Karen Marie|kmc@illinois.edu|Professor, Department of Food Science & Human Nutrition|Food Science and Human Nutrition, Department of
+Chen, Hong|hongchen@illinois.edu|Assistant Professor, FSHN|Food Science and Human Nutrition, Department of
+Demejia, Elvira|edemejia@illinois.edu|Professor, Food Science and Human Nutrition|Food Science and Human Nutrition, Department of
+Donovan, Sharon M|sdonovan@illinois.edu|Professor and Melissa M. Noel Endowed Chair in Nutrition and Health|Food Science and Human Nutrition, Department of
+Engeseth, Nicki Jene|engeseth@illinois.edu|Associate Professor of Food Chemistry|Food Science and Human Nutrition, Department of
+Feng, Hao|haofeng@illinois.edu|Associate Professor|Food Science and Human Nutrition, Department of
+Garrow, Linda S|garrow@illinois.edu|Teaching Associate|Food Science and Human Nutrition, Department of
+Garrow, Timothy A|tagarrow@illinois.edu|Professor of Nutrition|Food Science and Human Nutrition, Department of
+Helferich, William G|helferic@illinois.edu|Professor|Food Science and Human Nutrition, Department of
+Jin, Yong-Su|ysjin@illinois.edu|Associate Professor|Food Science and Human Nutrition, Department of
+Kokini, Jozef L|kokini@illinois.edu|PROF, Food Science & Human Nutrition|Food Science and Human Nutrition, Department of
+Lee, Soo-Yeun|soolee@illinois.edu|Associate Professor|Food Science and Human Nutrition, Department of
+Lee, Youngsoo|leeys@illinois.edu|Research Assistant Professor|Food Science and Human Nutrition, Department of
+Miller, Michael J|mille216@illinois.edu|Assistant Professor|Food Science and Human Nutrition, Department of
+Morris, Scott A|smorris@illinois.edu|Associate Professor, Food Science and Human Nutrition|Food Science and Human Nutrition, Department of
+Nakamura, Manabu T|mtnakamu@illinois.edu|Associate Professor|Food Science and Human Nutrition, Department of
+Padua, Graciela Wild|gwpadua@illinois.edu|Research Professor|Food Science and Human Nutrition, Department of
+Pan, Yuan-Xiang|yxpan@illinois.edu|Assistant Professor of Molecular Nutrition, FSHN|Food Science and Human Nutrition, Department of
+Schmidt, Shelly J|sjs@illinois.edu|Professor of Food Chemistry|Food Science and Human Nutrition, Department of
+Takhar, Pawan Singh|ptakhar@illinois.edu|Associate Professor of Food Engineering|Food Science and Human Nutrition, Department of
+Tappenden, Kelly Anne|tappende@illinois.edu|Kraft Foods Human Nutrition Endowed Professor|Food Science and Human Nutrition, Department of
+Teran-Garcia, Margarita De L|teranmd@illinois.edu|Assistant Professor, FSHN|Food Science and Human Nutrition, Department of
+Bost, Kelly Korinne|kbost@illinois.edu|Professor of Child Development|Human and Community Development, Department of
+Ebata, Aaron T|ebata@illinois.edu|Associate Professor of Social Development|Human and Community Development, Department of
+Ferguson, Gail Marcia|gmfergus@illinois.edu|Assistant Professor|Human and Community Development, Department of
+Fiese, Barbara|bhfiese@illinois.edu|Professor, Human Development and Family Studies|Human and Community Development, Department of
+Gasteyer, Stephen|gasteyer@illinois.edu|Adjunct Assistant Professor|Human and Community Development, Department of
+Hardesty, Jennifer Leeann|hardesty@illinois.edu|Associate Professor|Human and Community Development, Department of
+Harper, Joe Grant|jgharper@illinois.edu|Professor of Technical Systems Management|Human and Community Development, Department of
+Hughes, Robert|hughesro@illinois.edu|Professor of Child Development|Human and Community Development, Department of
+Jarrett, Robin L|rjarrett@illinois.edu|Professor, African American Studies|Human and Community Development, Department of
+Knobloch, Neil A|nknobloc@illinois.edu|Adjunct Assistant Professor|Human and Community Development, Department of
+Koerner, Susan Silverberg|skoerner@illinois.edu|Department Head|Human and Community Development, Department of
+Kramer, Karen|kramr@illinois.edu|Assistant Professor|Human and Community Development, Department of
+Kramer, Laurie F|lfkramer@illinois.edu|Associate Dean, Academic Programs|Human and Community Development, Department of
+Kwon, Soo Ah|sakwon@illinois.edu|Associate Professor|Human and Community Development, Department of
+Larson, Reed W|larsonr@illinois.edu|Professor of Family Ecology|Human and Community Development, Department of
+Lleras, Christy L|clleras@illinois.edu|Associate Professor|Human and Community Development, Department of
+McBride, Brent A|brentmcb@illinois.edu|Director, Child Development Lab|Human and Community Development, Department of
+McElwain, Nancy L|mcelwn@illinois.edu|Associate Professor|Human and Community Development, Department of
+Ogolsky, Brian Gabriel|bogolsky@illinois.edu|Assistant Professor|Human and Community Development, Department of
+Oswald, Ramona Faith|roswald@illinois.edu|Professor of Family Studies, Department of Human and Community Development|Human and Community Development, Department of
+Reis, Janet Mildred|jsreis@illinois.edu|Emeriti Faculty|Human and Community Development, Department of
+Reisner, Ann E|reisnera@illinois.edu|Associate Professor|Human and Community Development, Department of
+Rosch, David Michael|dmrosch@illinois.edu|Assistant Professor|Human and Community Development, Department of
+Shapiro, Constance Hoenk|chshapir@illinois.edu|Professor|Human and Community Development, Department of
+Thieman, Erica B|thieman@illinois.edu|Assistant Professor|Human and Community Development, Department of
+Wiley, Angela R|awiley@illinois.edu|Associate Professor, Applied Family Studies|Human and Community Development, Department of
+Benson, Thomas J|tjbenson@illinois.edu|CTAP Coordinator|Natural Resources and Environmental Sciences, Department of
+Berenbaum, May R|maybe@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Brawn, Jeffrey D|jbrawn@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Brazee, Richard J|brazee@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Cao, Yong|yongcao@illinois.edu|Stream Ecologist|Natural Resources and Environmental Sciences, Department of
+Chee-Sanford, Joanne Chin|cheesanf@illinois.edu|Adjunct Assistant Professor, Crop Sciences|Natural Resources and Environmental Sciences, Department of
+Chick, John Howard|chick@illinois.edu|Field Station Director|Natural Resources and Environmental Sciences, Department of
+Chow, Poo|pchow2@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Cole, Michael A|m-cole2@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Coles, Michael G H|m-coles@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Cutts, Bethany Brooke|bcutts@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Czapar, George Frank|gfc@illinois.edu|Associate Dean and Director Extension and Outreach|Natural Resources and Environmental Sciences, Department of
+Czesny, Sergiusz Jakob|czesny@illinois.edu|Director, Aquatic Ecology Field Station|Natural Resources and Environmental Sciences, Department of
+Darmody, Robert G|rdarmody@illinois.edu|Professor of Pedology|Natural Resources and Environmental Sciences, Department of
+Darter, Michael I|m-darter@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+David, Mark B|mbdavid@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Deal, Brian M|deal@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Delucia, Evan H|delucia@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Douglas, Marlise|mrd@illinois.edu||Natural Resources and Environmental Sciences, Department of
+Douglas, Michael E|med1@illinois.edu|DEPT AFFL, Animal Biology|Natural Resources and Environmental Sciences, Department of
+El-Naggar, Essam Mohamed|elnaggar@illinois.edu|ACADEMIC HOURLY RESEARCH, IL State Water Survey|Natural Resources and Environmental Sciences, Department of
+Endres, Jody Michelle|jendres2@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Endress, Anton G|aendress@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Epifanio, John M|epifanio@illinois.edu|Molecular Ecologist|Natural Resources and Environmental Sciences, Department of
+Fagan, Peter|p-fagan@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Fraterrigo, Jennifer M|jmf@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Freyfogle, Eric T|efreyfog@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Gertner, George Z|gertner@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Giles, Floyd A|f-giles@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Grimley, David Aaron|dgrimley@illinois.edu|Associate Geologist|Natural Resources and Environmental Sciences, Department of
+Hagy, Heath Michael|hhagy@illinois.edu|ASST RPL WATERBRD WETLAND ECOL|Natural Resources and Environmental Sciences, Department of
+Hanks, Lawrence M|hanks@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Hartman, Glen L|ghartman@illinois.edu|Adjunct Professor, Natural Res & Env Sci|Natural Resources and Environmental Sciences, Department of
+Hassett, John J|jhassett@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Heske, Edward J|eheske@illinois.edu|Mammalian Ecologist, Section Leader|Natural Resources and Environmental Sciences, Department of
+Hodson, Piper|phodson@illinois.edu|Student Services Coordinator|Natural Resources and Environmental Sciences, Department of
+Hoover, Jeffrey P|j-hoover@illinois.edu|Avian Ecologist|Natural Resources and Environmental Sciences, Department of
+Hudson, Robert J M|rjhudson@illinois.edu|Associate Professor, Natural Resouces and Environmental Sciences|Natural Resources and Environmental Sciences, Department of
+Hutchins Sperry, Jinelle|jhutch@illinois.edu|Adjunct Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Irwin, Michael E|meirwin@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Jarrell, Wesley M|wjarrell@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Jones, Robert L|rljones1@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Kent, Angela D|akent@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Khan, Saeed Ahmad|s-ahmad1@illinois.edu||Natural Resources and Environmental Sciences, Department of
+Khanna, Madhu|khanna1@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Korban, Schuyler S|korban@illinois.edu|Professor of Molecular Genetics|Natural Resources and Environmental Sciences, Department of
+Kuhnen, Fernando|kuhnen@illinois.edu||Natural Resources and Environmental Sciences, Department of
+Kuo, Frances E|fekuo@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Larson, Richard A|ralarson@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Lavey, Warren|lavey@illinois.edu|ADJ PROF, Sch Earth, Soc, Environ Admin|Natural Resources and Environmental Sciences, Department of
+Levengood, Jeffrey M|levengoo@illinois.edu|Wildlife Containment Specialist|Natural Resources and Environmental Sciences, Department of
+Lila, Mary Ann|imagemal@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Lin, Yu-Feng|yflin@illinois.edu|Hydrogeologist and Assistant Section Head, Hydrogeology and Geophysics Section, Illinois State Geological Survey|Natural Resources and Environmental Sciences, Department of
+Markus, Momcilo|mmarkus@illinois.edu|Hydrologist, Illinois State Water Survey, Prairie Research Institute, University of Illinois|Natural Resources and Environmental Sciences, Department of
+Mateus-Pinilla, Nohra E|nohram@illinois.edu|Wildlife Veterniary Epidemiologist|Natural Resources and Environmental Sciences, Department of
+Matthews, Jeffrey Wayne|jmatthew@illinois.edu|Wetland Plant Ecologist|Natural Resources and Environmental Sciences, Department of
+McIsaac, Gregory F|gmcisaac@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Miller, Craig A|craigm@illinois.edu|Human Dimensions Biologist|Natural Resources and Environmental Sciences, Department of
+Miller, James Robert|jrmillr@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Molano-Flores, Brenda|molano1@illinois.edu|Restoration Ecologist|Natural Resources and Environmental Sciences, Department of
+Mulvaney, Richard L|mulvaney@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Olson, Kenneth R|krolson@illinois.edu|Professor, Natural Resources and Environmental Sciences|Natural Resources and Environmental Sciences, Department of
+Paige, Ken N|k-paige@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Pentrak, Martin|mpentrak@illinois.edu|Visiting Scholar|Natural Resources and Environmental Sciences, Department of
+Pentrakova, Linda|lpentrak@illinois.edu|Visiting Scholar|Natural Resources and Environmental Sciences, Department of
+Philipp, David P|philipp@illinois.edu|Academic Hourly|Natural Resources and Environmental Sciences, Department of
+Phillips, Christopher A|caphilli@illinois.edu|Further Studies Coordinator, Section Head|Natural Resources and Environmental Sciences, Department of
+Radwan, Osman|oradwan@illinois.edu|Visiting Assistant Professor |Natural Resources and Environmental Sciences, Department of
+Raheel, Mastura|raheel@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Rebeiz, Constantin A|crebeiz@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Reisner, Ann E|reisnera@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Ribot, Jesse C|ribot@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Riecks-Soucek, David John|soucek@illinois.edu|Ecotoxicologist/Entomologist|Natural Resources and Environmental Sciences, Department of
+Robinson, Gene E|generobi@illinois.edu|Director, Institute for Genomic Biology|Natural Resources and Environmental Sciences, Department of
+Rolfe, Gary L|g-rolfe@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Sass, Gregory G|ggsass@illinois.edu|Research Affiliate|Natural Resources and Environmental Sciences, Department of
+Schelsky, Wendy|schelsky@illinois.edu|BIOLOGICAL SURVEYS COORD|Natural Resources and Environmental Sciences, Department of
+Schooley, Robert Lee|schooley@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Simmons, F William|fsimmons@illinois.edu|Assistant Dean, Academic Programs|Natural Resources and Environmental Sciences, Department of
+Solter, Leellen F|lsolter@illinois.edu|Insect Pathologist Section Leader|Natural Resources and Environmental Sciences, Department of
+Spomer, Louis A|spomer@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Stafford, Joshua D|jdstaff@illinois.edu|Research Affiliate|Natural Resources and Environmental Sciences, Department of
+Stodola, Kirk|kstodola@illinois.edu|Postdoctoral Research Associate|Natural Resources and Environmental Sciences, Department of
+Stucki, Joseph William|jstucki@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Sullivan, William C|wcsulliv@illinois.edu|Professor, Landscape Architecture|Natural Resources and Environmental Sciences, Department of
+Suski, Cory David|suski@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Swiader, John M|jswiader@illinois.edu|Emeriti Faculty|Natural Resources and Environmental Sciences, Department of
+Taft, John B|jtaft@illinois.edu|plant ecologist, botanical coordinator|Natural Resources and Environmental Sciences, Department of
+Taylor, Christopher A|cataylor@illinois.edu|ICHTHY/ASTA, CUR OF CRUSTA|Natural Resources and Environmental Sciences, Department of
+Thomason, Jason F|jthomaso@illinois.edu|Associate Hydrogeologist|Natural Resources and Environmental Sciences, Department of
+Treat, James|treaty@illinois.edu|Associate Professor|Natural Resources and Environmental Sciences, Department of
+Ugarte, Carmen Marlene|cugarte@illinois.edu||Natural Resources and Environmental Sciences, Department of
+Vining, Joanne|jvining@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Wahl, David H|d-wahl@illinois.edu|Field Station Director|Natural Resources and Environmental Sciences, Department of
+Wander, Michelle M|mwander@illinois.edu|Associate Professor of Soil Fertility|Natural Resources and Environmental Sciences, Department of
+Ward, Michael Patrick|mpward@illinois.edu|Assistant Professor|Natural Resources and Environmental Sciences, Department of
+Warner, Richard Eugene|dickw@illinois.edu|INSTITUTE AFFILIATE, Prairie Research Institute|Natural Resources and Environmental Sciences, Department of
+Watson, Gary|gwatson@illinois.edu||Natural Resources and Environmental Sciences, Department of
+Weatherhead, Patrick J|pweather@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Weinzierl, Richard A|weinzier@illinois.edu|Professor|Natural Resources and Environmental Sciences, Department of
+Yannarell, Anthony|acyann@illinois.edu|Assistant Professor, Microbial Ecology|Natural Resources and Environmental Sciences, Department of
+Zheng, Wei|weizheng@illinois.edu|Senior Research Scientist|Natural Resources and Environmental Sciences, Department of
+Alston, Reginald J|alston@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Andrade, Flavia Cristina Drumon|fandrade@illinois.edu|Assistant Professor|Kinesiology and Community Health, Department of
+Barnes, Lynette C|lcbarnes@illinois.edu|Visiting Lecturer|Kinesiology and Community Health, Department of
+Bigler, Pamela Kay|pbigler@illinois.edu|Visiting Lecturer|Kinesiology and Community Health, Department of
+Boppart, Marni|mboppart@illinois.edu|Assistant Professor, Kinesiology and Community Health|Kinesiology and Community Health, Department of
+Broglio, Steven|broglio@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Buchner, David M|dbuchner@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Carlson, Kristin Nicole|carlso1@illinois.edu|Lecturer|Kinesiology and Community Health, Department of
+Carlton, Les G|lcarlton@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Castelli, Darla M|dcastell@illinois.edu|Visiting Assistant Professor |Kinesiology and Community Health, Department of
+Chodzko-Zajko, Wojciech|wojtek@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Crull, Gary S|gcrull@illinois.edu|Teaching Associate|Kinesiology and Community Health, Department of
+Destefano, Lizanne|destefan@illinois.edu|Director, I-STEM|Kinesiology and Community Health, Department of
+Evans, Ellen M|elevans@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Fagen, Robert Morton|rmfagen@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Farner, Susan M|sfarner@illinois.edu|Lecturer|Kinesiology and Community Health, Department of
+Graber, Kim C|kgraber@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Grigsby, Diana S|dgrigs1@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Hann, Lena|lenahann@illinois.edu|Clinical Instructor|Kinesiology and Community Health, Department of
+Harvey, Idethia Shevon|shevon@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Hillman, Charles H|chhillma@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Huey, Kimberly A|khuey@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Jan, Yih-Kuen|yjan@illinois.edu|Associate Professor, Kinesiology and Community Health|Kinesiology and Community Health, Department of
+Khan, Naiman A|nakhan2@illinois.edu|Postdoctoral Research Associate|Kinesiology and Community Health, Department of
+Kim, Juhee|juheekim@illinois.edu|Assistant Professor|Kinesiology and Community Health, Department of
+Larson, Reed W|larsonr@illinois.edu|Professor of Family Ecology|Kinesiology and Community Health, Department of
+Learmonth, Yvonne|ycl@illinois.edu|POSTDOC RES FELLOW|Kinesiology and Community Health, Department of
+Liao, Fuyuan|fliao@illinois.edu||Kinesiology and Community Health, Department of
+Littlefield, Melissa Monique|mml@illinois.edu|Assistant professor, English|Kinesiology and Community Health, Department of
+Martens, Rainer|rmartens@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+McAuley, Edward|emcauley@illinois.edu|Professor|Kinesiology and Community Health, Department of
+McCloskey, Laura Ann|lmcclosk@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+McGrew, Robert Wayne|bmcgrew@illinois.edu|Visiting Instructor|Kinesiology and Community Health, Department of
+Motl, Robert W|robmotl@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Mullen, Sean P|spmullen@illinois.edu|Assistant Professor|Kinesiology and Community Health, Department of
+Notaro, Stephen John|snotaro@illinois.edu|Lecturer|Kinesiology and Community Health, Department of
+Pence, Brandt David|bpence2@illinois.edu|Postdoctoral Research Associate|Kinesiology and Community Health, Department of
+Petruzzello, Steven J|petruzze@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Polk, John David|jdpolk@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Remmert, David M|remmert@illinois.edu|Visiting Lecturer|Kinesiology and Community Health, Department of
+Rice, Ian Matthew|ianrice@illinois.edu||Kinesiology and Community Health, Department of
+Rosenblatt, Karin Ann|krosenbl@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Rounds, James|jrounds@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Schwingel, Andiara|andiara@illinois.edu|Assistant Professor|Kinesiology and Community Health, Department of
+Snyder, John M|jmsnyder@illinois.edu|Visiting Lecturer|Kinesiology and Community Health, Department of
+Sosnoff, Jacob J|jsosnoff@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Strauser, David Ross|strauser@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Sydnor, Synthia|syndy@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Wilund, Kenneth|kwilund@illinois.edu|Associate Professor|Kinesiology and Community Health, Department of
+Woods, Amelia Mays|amywoods@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Woods, Jeffrey A|woods1@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Yang, Yang|yyang5@illinois.edu|Adjunct Professor|Kinesiology and Community Health, Department of
+Zhu, Weimo|weimozhu@illinois.edu|Professor|Kinesiology and Community Health, Department of
+Almeida, Heitor|halmeida@illinois.edu|Professor of Finance|Accountancy, Department of
+Beard, Dennis E|dbeard@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Bera, Anil K|abera@illinois.edu|Professor|Accountancy, Department of
+Bernhardt, Mark Daniel|danber@illinois.edu|Professor|Accountancy, Department of
+Brown, Jeffrey R|brownjr@illinois.edu|William G. Karnes Professor of Finance|Accountancy, Department of
+Burkholder, Donald L|donburk@illinois.edu|Emeriti Faculty|Accountancy, Department of
+Cannaday, Roger E|rcannada@illinois.edu|Associate Professor Emeritus|Accountancy, Department of
+Capel, William W|capel@illinois.edu|Visiting Instructor|Accountancy, Department of
+Chan, Kuo Chi|l-chan2@illinois.edu|Professor of Finance|Accountancy, Department of
+Chattopadhyay, Shinjinee|schattop@illinois.edu|Visiting Assistant Professor |Accountancy, Department of
+Choi, Jaewon|jaewchoi@illinois.edu|Assistant Professor|Accountancy, Department of
+Colwell, Peter F|pcolwell@illinois.edu|Emeriti Faculty|Accountancy, Department of
+D'Arcy, Stephen Paul|s-darcy@illinois.edu|Emeriti Faculty|Accountancy, Department of
+Davis, Donald Warren|dwdavis@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Davis, Jeffrey M|jdavis93@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Deryugina, Tatyana|deryugin@illinois.edu|Assistant Professor|Accountancy, Department of
+Dyer, Michael A|dyer1@illinois.edu|Assistant Professor|Accountancy, Department of
+Finnerty, Joseph E|finnerty@illinois.edu||Accountancy, Department of
+Fos, Vyacheslav|vfos@illinois.edu|Assistant Professor|Accountancy, Department of
+France, Virginia Grace|v-france@illinois.edu|Assistant Professor of Finance|Accountancy, Department of
+Fullerton, Don|dfullert@illinois.edu|Gutgsell Professor of Finance|Accountancy, Department of
+Gentry, James A|j-gentry@illinois.edu|Emeriti Faculty|Accountancy, Department of
+Goodfriend, Jaimi Elizabeth|jgoodfri@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Johnson, Timothy C|tcj@illinois.edu|Professor|Accountancy, Department of
+Kahn, Charles M|c-kahn@illinois.edu|Bailey Memorial Chair Professor of Finance|Accountancy, Department of
+Kannan, Srinivasan|skannan@illinois.edu|Clinical Professor|Accountancy, Department of
+Kronlund, Mathias|kronlund@illinois.edu|Assistant Professor|Accountancy, Department of
+Krueger, George John|gkrueger@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Lakonishok, Josef|josefla@illinois.edu|Professor|Accountancy, Department of
+Lane, Morton N|mnlane@illinois.edu|Director, Master of Science Financial Engineering|Accountancy, Department of
+Linke, Charles M|clinke@illinois.edu|Emeriti Faculty|Accountancy, Department of
+Luo, Yu|yluo@illinois.edu||Accountancy, Department of
+Lynge, Morgan J|m-lynge@illinois.edu||Accountancy, Department of
+Manouchehri Irani, Rustom Dinyar|rirani@illinois.edu|Assistant Professor|Accountancy, Department of
+Marcinkowski, Matthew Maciej|mrcnkwsk@illinois.edu|Lecturer|Accountancy, Department of
+Martin, Ernest J|iemartin@illinois.edu|Visiting Instructor|Accountancy, Department of
+Miller, Nolan H|nmiller@illinois.edu|Professor|Accountancy, Department of
+Moyer, Christopher|c-moyer1@illinois.edu|Emeriti Faculty|Accountancy, Department of
+Oltheten, Elisabeth|oltheten@illinois.edu|Assistant Professor of Finance|Accountancy, Department of
+Pearson, Neil D|pearson2@illinois.edu|Professor of Finance|Accountancy, Department of
+Pennacchi, George G|gpennacc@illinois.edu|Investors in Business Education Professor of Finance|Accountancy, Department of
+Perkins, Scott Edward|seperkns@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Peters, Stephen Richard|pete@illinois.edu|Lecturer|Accountancy, Department of
+Petry, Joseph A|jpetry@illinois.edu|Clinical Professor|Accountancy, Department of
+Pollet, Joshua M|pollet@illinois.edu|Associate Professor|Accountancy, Department of
+Reif, Julian Christopher|jreif@illinois.edu|ASST PROF, Instit of Govt & Pub Affs -- University Administration|Accountancy, Department of
+Sholem, Daniel|dsholem@illinois.edu|Adjunct Lecturer|Accountancy, Department of
+Villamil, Anne|avillami@illinois.edu||Accountancy, Department of
+Vonnahme, Mark C|mvonnahm@illinois.edu|Investors in Business Educatioin Distinguished Clinical Professor|Accountancy, Department of
+Waspi, Kevin G|waspi@illinois.edu|Lecturer|Accountancy, Department of
+Weisbenner, Scott J|weisbenn@illinois.edu|Professor|Accountancy, Department of
+Whitford, David Thomas|docwhit@illinois.edu|Associate Professor|Accountancy, Department of
+Widdicks, Martin|widdicks@illinois.edu|Senior Lecturer|Accountancy, Department of
+Ye, Mao|maoye@illinois.edu|Assistant Professor|Accountancy, Department of
+Yin, Yihua|yihuayin@illinois.edu||Accountancy, Department of
+Almeida, Heitor|halmeida@illinois.edu|Professor of Finance|Business Administration, Department of
+Beard, Dennis E|dbeard@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Bera, Anil K|abera@illinois.edu|Professor|Business Administration, Department of
+Bernhardt, Mark Daniel|danber@illinois.edu|Professor|Business Administration, Department of
+Brown, Jeffrey R|brownjr@illinois.edu|William G. Karnes Professor of Finance|Business Administration, Department of
+Burkholder, Donald L|donburk@illinois.edu|Emeriti Faculty|Business Administration, Department of
+Cannaday, Roger E|rcannada@illinois.edu|Associate Professor Emeritus|Business Administration, Department of
+Capel, William W|capel@illinois.edu|Visiting Instructor|Business Administration, Department of
+Chan, Kuo Chi|l-chan2@illinois.edu|Professor of Finance|Business Administration, Department of
+Chattopadhyay, Shinjinee|schattop@illinois.edu|Visiting Assistant Professor |Business Administration, Department of
+Choi, Jaewon|jaewchoi@illinois.edu|Assistant Professor|Business Administration, Department of
+Colwell, Peter F|pcolwell@illinois.edu|Emeriti Faculty|Business Administration, Department of
+D'Arcy, Stephen Paul|s-darcy@illinois.edu|Emeriti Faculty|Business Administration, Department of
+Davis, Donald Warren|dwdavis@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Davis, Jeffrey M|jdavis93@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Deryugina, Tatyana|deryugin@illinois.edu|Assistant Professor|Business Administration, Department of
+Dyer, Michael A|dyer1@illinois.edu|Assistant Professor|Business Administration, Department of
+Finnerty, Joseph E|finnerty@illinois.edu||Business Administration, Department of
+Fos, Vyacheslav|vfos@illinois.edu|Assistant Professor|Business Administration, Department of
+France, Virginia Grace|v-france@illinois.edu|Assistant Professor of Finance|Business Administration, Department of
+Fullerton, Don|dfullert@illinois.edu|Gutgsell Professor of Finance|Business Administration, Department of
+Gentry, James A|j-gentry@illinois.edu|Emeriti Faculty|Business Administration, Department of
+Goodfriend, Jaimi Elizabeth|jgoodfri@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Johnson, Timothy C|tcj@illinois.edu|Professor|Business Administration, Department of
+Kahn, Charles M|c-kahn@illinois.edu|Bailey Memorial Chair Professor of Finance|Business Administration, Department of
+Kannan, Srinivasan|skannan@illinois.edu|Clinical Professor|Business Administration, Department of
+Kronlund, Mathias|kronlund@illinois.edu|Assistant Professor|Business Administration, Department of
+Krueger, George John|gkrueger@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Lakonishok, Josef|josefla@illinois.edu|Professor|Business Administration, Department of
+Lane, Morton N|mnlane@illinois.edu|Director, Master of Science Financial Engineering|Business Administration, Department of
+Linke, Charles M|clinke@illinois.edu|Emeriti Faculty|Business Administration, Department of
+Luo, Yu|yluo@illinois.edu||Business Administration, Department of
+Lynge, Morgan J|m-lynge@illinois.edu||Business Administration, Department of
+Manouchehri Irani, Rustom Dinyar|rirani@illinois.edu|Assistant Professor|Business Administration, Department of
+Marcinkowski, Matthew Maciej|mrcnkwsk@illinois.edu|Lecturer|Business Administration, Department of
+Martin, Ernest J|iemartin@illinois.edu|Visiting Instructor|Business Administration, Department of
+Miller, Nolan H|nmiller@illinois.edu|Professor|Business Administration, Department of
+Moyer, Christopher|c-moyer1@illinois.edu|Emeriti Faculty|Business Administration, Department of
+Oltheten, Elisabeth|oltheten@illinois.edu|Assistant Professor of Finance|Business Administration, Department of
+Pearson, Neil D|pearson2@illinois.edu|Professor of Finance|Business Administration, Department of
+Pennacchi, George G|gpennacc@illinois.edu|Investors in Business Education Professor of Finance|Business Administration, Department of
+Perkins, Scott Edward|seperkns@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Peters, Stephen Richard|pete@illinois.edu|Lecturer|Business Administration, Department of
+Petry, Joseph A|jpetry@illinois.edu|Clinical Professor|Business Administration, Department of
+Pollet, Joshua M|pollet@illinois.edu|Associate Professor|Business Administration, Department of
+Reif, Julian Christopher|jreif@illinois.edu|ASST PROF, Instit of Govt & Pub Affs -- University Administration|Business Administration, Department of
+Sholem, Daniel|dsholem@illinois.edu|Adjunct Lecturer|Business Administration, Department of
+Villamil, Anne|avillami@illinois.edu||Business Administration, Department of
+Vonnahme, Mark C|mvonnahm@illinois.edu|Investors in Business Educatioin Distinguished Clinical Professor|Business Administration, Department of
+Waspi, Kevin G|waspi@illinois.edu|Lecturer|Business Administration, Department of
+Weisbenner, Scott J|weisbenn@illinois.edu|Professor|Business Administration, Department of
+Whitford, David Thomas|docwhit@illinois.edu|Associate Professor|Business Administration, Department of
+Widdicks, Martin|widdicks@illinois.edu|Senior Lecturer|Business Administration, Department of
+Ye, Mao|maoye@illinois.edu|Assistant Professor|Business Administration, Department of
+Yin, Yihua|yihuayin@illinois.edu||Business Administration, Department of
+Almeida, Heitor|halmeida@illinois.edu|Professor of Finance|Finance, Department of
+Beard, Dennis E|dbeard@illinois.edu|Adjunct Lecturer|Finance, Department of
+Bera, Anil K|abera@illinois.edu|Professor|Finance, Department of
+Bernhardt, Mark Daniel|danber@illinois.edu|Professor|Finance, Department of
+Brown, Jeffrey R|brownjr@illinois.edu|William G. Karnes Professor of Finance|Finance, Department of
+Burkholder, Donald L|donburk@illinois.edu|Emeriti Faculty|Finance, Department of
+Cannaday, Roger E|rcannada@illinois.edu|Associate Professor Emeritus|Finance, Department of
+Capel, William W|capel@illinois.edu|Visiting Instructor|Finance, Department of
+Chan, Kuo Chi|l-chan2@illinois.edu|Professor of Finance|Finance, Department of
+Chattopadhyay, Shinjinee|schattop@illinois.edu|Visiting Assistant Professor |Finance, Department of
+Choi, Jaewon|jaewchoi@illinois.edu|Assistant Professor|Finance, Department of
+Colwell, Peter F|pcolwell@illinois.edu|Emeriti Faculty|Finance, Department of
+D'Arcy, Stephen Paul|s-darcy@illinois.edu|Emeriti Faculty|Finance, Department of
+Davis, Donald Warren|dwdavis@illinois.edu|Adjunct Lecturer|Finance, Department of
+Davis, Jeffrey M|jdavis93@illinois.edu|Adjunct Lecturer|Finance, Department of
+Deryugina, Tatyana|deryugin@illinois.edu|Assistant Professor|Finance, Department of
+Dyer, Michael A|dyer1@illinois.edu|Assistant Professor|Finance, Department of
+Finnerty, Joseph E|finnerty@illinois.edu||Finance, Department of
+Fos, Vyacheslav|vfos@illinois.edu|Assistant Professor|Finance, Department of
+France, Virginia Grace|v-france@illinois.edu|Assistant Professor of Finance|Finance, Department of
+Fullerton, Don|dfullert@illinois.edu|Gutgsell Professor of Finance|Finance, Department of
+Gentry, James A|j-gentry@illinois.edu|Emeriti Faculty|Finance, Department of
+Goodfriend, Jaimi Elizabeth|jgoodfri@illinois.edu|Adjunct Lecturer|Finance, Department of
+Johnson, Timothy C|tcj@illinois.edu|Professor|Finance, Department of
+Kahn, Charles M|c-kahn@illinois.edu|Bailey Memorial Chair Professor of Finance|Finance, Department of
+Kannan, Srinivasan|skannan@illinois.edu|Clinical Professor|Finance, Department of
+Kronlund, Mathias|kronlund@illinois.edu|Assistant Professor|Finance, Department of
+Krueger, George John|gkrueger@illinois.edu|Adjunct Lecturer|Finance, Department of
+Lakonishok, Josef|josefla@illinois.edu|Professor|Finance, Department of
+Lane, Morton N|mnlane@illinois.edu|Director, Master of Science Financial Engineering|Finance, Department of
+Linke, Charles M|clinke@illinois.edu|Emeriti Faculty|Finance, Department of
+Luo, Yu|yluo@illinois.edu||Finance, Department of
+Lynge, Morgan J|m-lynge@illinois.edu||Finance, Department of
+Manouchehri Irani, Rustom Dinyar|rirani@illinois.edu|Assistant Professor|Finance, Department of
+Marcinkowski, Matthew Maciej|mrcnkwsk@illinois.edu|Lecturer|Finance, Department of
+Martin, Ernest J|iemartin@illinois.edu|Visiting Instructor|Finance, Department of
+Miller, Nolan H|nmiller@illinois.edu|Professor|Finance, Department of
+Moyer, Christopher|c-moyer1@illinois.edu|Emeriti Faculty|Finance, Department of
+Oltheten, Elisabeth|oltheten@illinois.edu|Assistant Professor of Finance|Finance, Department of
+Pearson, Neil D|pearson2@illinois.edu|Professor of Finance|Finance, Department of
+Pennacchi, George G|gpennacc@illinois.edu|Investors in Business Education Professor of Finance|Finance, Department of
+Perkins, Scott Edward|seperkns@illinois.edu|Adjunct Lecturer|Finance, Department of
+Peters, Stephen Richard|pete@illinois.edu|Lecturer|Finance, Department of
+Petry, Joseph A|jpetry@illinois.edu|Clinical Professor|Finance, Department of
+Pollet, Joshua M|pollet@illinois.edu|Associate Professor|Finance, Department of
+Reif, Julian Christopher|jreif@illinois.edu|ASST PROF, Instit of Govt & Pub Affs -- University Administration|Finance, Department of
+Sholem, Daniel|dsholem@illinois.edu|Adjunct Lecturer|Finance, Department of
+Villamil, Anne|avillami@illinois.edu||Finance, Department of
+Vonnahme, Mark C|mvonnahm@illinois.edu|Investors in Business Educatioin Distinguished Clinical Professor|Finance, Department of
+Waspi, Kevin G|waspi@illinois.edu|Lecturer|Finance, Department of
+Weisbenner, Scott J|weisbenn@illinois.edu|Professor|Finance, Department of
+Whitford, David Thomas|docwhit@illinois.edu|Associate Professor|Finance, Department of
+Widdicks, Martin|widdicks@illinois.edu|Senior Lecturer|Finance, Department of
+Ye, Mao|maoye@illinois.edu|Assistant Professor|Finance, Department of
+Yin, Yihua|yihuayin@illinois.edu||Finance, Department of
+Austin, Joanna Maria|jmaustin@illinois.edu|Adjunct Associate Professor|Aerospace Engineering, Department of
+Bentsman, Joseph|jbentsma@illinois.edu|Professor|Aerospace Engineering, Department of
+Bergman, Lawrence A|lbergman@illinois.edu|Professor|Aerospace Engineering, Department of
+Berke, Ryan B|berke@illinois.edu||Aerospace Engineering, Department of
+Bodony, Daniel J|bodony@illinois.edu|Associate Professor|Aerospace Engineering, Department of
+Bragg, Michael B|mbragg@illinois.edu|Research Professor|Aerospace Engineering, Department of
+Bretl, Timothy Wolfe|tbretl@illinois.edu|Associate Professor|Aerospace Engineering, Department of
+Buckmaster, John D|limey@illinois.edu|Emeriti Faculty|Aerospace Engineering, Department of
+Burton, Rodney L|rburton@illinois.edu|Professor Emeritus|Aerospace Engineering, Department of
+Carroll, David Leon|carroll@illinois.edu|Visiting Professor|Aerospace Engineering, Department of
+Chasiotis, Ioannis|chasioti@illinois.edu|Professor|Aerospace Engineering, Department of
+Chew, Huck Beng|hbchew@illinois.edu|Assistant Professor|Aerospace Engineering, Department of
+Chilan, Christian Miguel|chilan@illinois.edu|Postdoctoral Research Associate|Aerospace Engineering, Department of
+Christensen, Kenneth T|ktc@illinois.edu|Adjunct Professor|Aerospace Engineering, Department of
+Chung, Soon-Jo|sjchung@illinois.edu|Assistant Professor|Aerospace Engineering, Department of
+Conway, Bruce A|bconway@illinois.edu|Professor Emeritus|Aerospace Engineering, Department of
+Coverstone, Victoria Lynn|vcc@illinois.edu|Professor|Aerospace Engineering, Department of
+D'Urso, Steven Joseph|sjdurso@illinois.edu|Program Coordinator|Aerospace Engineering, Department of
+Dutton, J Craig|jcdutton@illinois.edu|Professor|Aerospace Engineering, Department of
+Elliott, Gregory S|elliottg@illinois.edu|Professor|Aerospace Engineering, Department of
+Freund, Jonathan|jbfreund@illinois.edu|Professor|Aerospace Engineering, Department of
+Gao, Xingxin|gracegao@illinois.edu|Assistant Professor|Aerospace Engineering, Department of
+Geubelle, Philippe H|geubelle@illinois.edu|Professor|Aerospace Engineering, Department of
+Heng, Liang|heng@illinois.edu||Aerospace Engineering, Department of
+Hovakimyan, Naira|nhovakim@illinois.edu|Professor|Aerospace Engineering, Department of
+Jackson, Thomas L|tlj@illinois.edu||Aerospace Engineering, Department of
+Lambros, John|lambros@illinois.edu|Professor|Aerospace Engineering, Department of
+Langbort, Cedric|langbort@illinois.edu|Associate Professor|Aerospace Engineering, Department of
+Lee, Ki D|kdlee@illinois.edu|Research Professor|Aerospace Engineering, Department of
+Loth, Eric|loth@illinois.edu|Adjunct Professor|Aerospace Engineering, Department of
+Masud, Arif|amasud@illinois.edu|Professor|Aerospace Engineering, Department of
+McFarland, Donald Michael|dmmcf@illinois.edu|INSTR, Industrial&Enterprise Sys Eng|Aerospace Engineering, Department of
+Miley, George H|ghmiley@illinois.edu|Professor Emeritus|Aerospace Engineering, Department of
+Namachchivaya, N Sri|navam@illinois.edu|Professor|Aerospace Engineering, Department of
+Panesi, Marco|mpanesi@illinois.edu|Assistant Professor|Aerospace Engineering, Department of
+Prussing, John E|prussing@illinois.edu|Emeriti Faculty|Aerospace Engineering, Department of
+Salapaka, Srinivasa M|salapaka@illinois.edu|Associate Professor|Aerospace Engineering, Department of
+Selig, Michael S|m-selig@illinois.edu|Associate Professor|Aerospace Engineering, Department of
+Solomon, Wayne C|wsolomon@illinois.edu|Professor Emeritus|Aerospace Engineering, Department of
+Sottos, Nancy R|n-sottos@illinois.edu|Professor|Aerospace Engineering, Department of
+Vakakis, Alexander F|avakakis@illinois.edu|Professor|Aerospace Engineering, Department of
+Voulgaris, Petros G|voulgari@illinois.edu|Professor|Aerospace Engineering, Department of
+White, Scott R|swhite@illinois.edu|Professor|Aerospace Engineering, Department of
+Woodard, Brian S|bswoodrd@illinois.edu|Teaching Associate|Aerospace Engineering, Department of
+Aluru, Narayana R|aluru@illinois.edu|Professor|Bioengineering, Department of
+Amos, Jennifer|jamos@illinois.edu|DIR UGRAD PRGMS|Bioengineering, Department of
+Anastasio, Thomas J|tja@illinois.edu|Associate Professor|Bioengineering, Department of
+Bashir, Rashid|rbashir@illinois.edu|HEAD, Department of Bioengineering|Bioengineering, Department of
+Bhargava, Rohit|rxb@illinois.edu|Professor|Bioengineering, Department of
+Boppart, Stephen Allen|boppart@illinois.edu|Professor, Bioengineering|Bioengineering, Department of
+Bresler, Yoram|ybresler@illinois.edu|Professor|Bioengineering, Department of
+Celik, Venhar|vcelik@illinois.edu|Postdoctoral Research Associate|Bioengineering, Department of
+Cheng, Jianjun|jianjunc@illinois.edu|Associate Professor|Bioengineering, Department of
+Cunningham, Brian T|bcunning@illinois.edu|Professor|Bioengineering, Department of
+Das, Aditi|aditidas@illinois.edu|Assistant Professor, Comparative Biosciences|Bioengineering, Department of
+Do, Minh N|minhdo@illinois.edu|Professor, Electrical and Computer Engineering|Bioengineering, Department of
+Dobrucki, Wawrzyniec|dobrucki@illinois.edu|Assistant Professor in Bioengineering|Bioengineering, Department of
+Georgiadis, John G|georgia@illinois.edu||Bioengineering, Department of
+Gillette, Martha L|mgillett@illinois.edu|Professor|Bioengineering, Department of
+Harley, Brendan A|bharley@illinois.edu|Assistant Professor|Bioengineering, Department of
+Hsia, K Jimmy|kjhsia@illinois.edu||Bioengineering, Department of
+Hsiao-Wecksler, Elizabeth T|ethw@illinois.edu|Associate Professor|Bioengineering, Department of
+Imoukhuede, Princess U II|pii@illinois.edu|Assistant Professor|Bioengineering, Department of
+Insana, Michael|mfi@illinois.edu|Professor|Bioengineering, Department of
+Jasiuk, Iwona M|ijasiuk@illinois.edu|Professor|Bioengineering, Department of
+Jin, Yong-Su|ysjin@illinois.edu|Associate Professor|Bioengineering, Department of
+Jongeneel, Cornelis Victor|vjongene@illinois.edu|Senior Research Scientist|Bioengineering, Department of
+Kenis, Paul J A|kenis@illinois.edu|Professor|Bioengineering, Department of
+Kim, Kyekyoon|kevinkim@illinois.edu|Professor|Bioengineering, Department of
+Kim, Younghoon|younghk@illinois.edu|Research Associate|Bioengineering, Department of
+Kong, Hyun Joon|hjkong06@illinois.edu|Associate Professor|Bioengineering, Department of
+Kong, Wentao|kongwt@illinois.edu|Postdoctoral Research Associate|Bioengineering, Department of
+Leckband, Deborah E|leckband@illinois.edu|PROF, Chemistry|Bioengineering, Department of
+Leslie, Lisa Suzanne|lleslie2@illinois.edu|Postdoctoral Research Associate|Bioengineering, Department of
+Liang, Zhi-Pei|z-liang@illinois.edu|Professor|Bioengineering, Department of
+Lim, Sung Jun|melsj@illinois.edu|Postdoctoral Research Associate|Bioengineering, Department of
+Liu, Gang Logan|loganliu@illinois.edu|Associate Professor|Bioengineering, Department of
+Lu, Ting|luting@illinois.edu|Assistant Professor|Bioengineering, Department of
+Lu, Yi|yi-lu@illinois.edu|Professor|Bioengineering, Department of
+Ma, Jian|jianma@illinois.edu|Assistant Professor|Bioengineering, Department of
+Myong, Su-A|smyong@illinois.edu|Assistant Professor|Bioengineering, Department of
+Nelson, Mark E|m-nelson@illinois.edu|Professor|Bioengineering, Department of
+Odintsov, Boris M|bodintso@illinois.edu|Senior Research Scientist|Bioengineering, Department of
+Oelze, Michael L|oelze@illinois.edu|Associate Professor|Bioengineering, Department of
+Popescu, Gabriel|gpopescu@illinois.edu|Associate Professor|Bioengineering, Department of
+Rogers, John A|jrogers@illinois.edu|PROF, Materials Research Lab|Bioengineering, Department of
+Schook, Lawrence B|schook@illinois.edu|Vice President for Research|Bioengineering, Department of
+Schulten, Klaus J|schulten@illinois.edu|Professor|Bioengineering, Department of
+Smith, Andrew M|smi@illinois.edu|Assistant Professor|Bioengineering, Department of
+Sutton, Brad|bsutton@illinois.edu|Associate Professor|Bioengineering, Department of
+Sweedler, Jonathan V|jsweedle@illinois.edu|Professor|Bioengineering, Department of
+Tang, Qiang|qtang@illinois.edu||Bioengineering, Department of
+Tippana, Ramreddy|rtippana@illinois.edu|Research Associate|Bioengineering, Department of
+Toussaint, Kimani C|ktoussai@illinois.edu|Associate Professor|Bioengineering, Department of
+Underhill, Gregory H|gunderhi@illinois.edu|Assistant Professor|Bioengineering, Department of
+Wagoner Johnson, Amy Jaye|ajwj@illinois.edu|Associate Professor|Bioengineering, Department of
+Wang, Fei|feiwang@illinois.edu|Associate Professor|Bioengineering, Department of
+Wang, Michelle Yongmei|ymw@illinois.edu|Associate Professor|Bioengineering, Department of
+Wang, Ning|nwangrw@illinois.edu|Professor|Bioengineering, Department of
+Wheeler, Bruce C|bwheeler@illinois.edu|Professor Emeritus|Bioengineering, Department of
+Wheeler, Matthew B|mbwheele@illinois.edu|Professor, Animal Sciences, Bioengineering|Bioengineering, Department of
+Zhang, Yuanhui|yzhang1@illinois.edu|Professor|Bioengineering, Department of
+Zhao, Huimin|zhao5@illinois.edu|Professor|Bioengineering, Department of
+Zhong, Sheng|szhong@illinois.edu||Bioengineering, Department of
+Abrams, Daniel P|d-abrams@illinois.edu|Professor of Civil and Environmental Engineering|Civil and Environmental Engineering, Department of
+Al-Qadi, Imad L|alqadi@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Andrawes, Bassem O|andrawes@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Baker, William|wfbaker@illinois.edu|Adjunct Professor|Civil and Environmental Engineering, Department of
+Barkan, Christopher Paul Lyman|cbarkan@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Benekohal, Rahim F|rbenekoh@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Bergman, Lawrence A|lbergman@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Bond, Tami C|yark@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Bruzzi Barros, Felicio|fbarros@illinois.edu||Civil and Environmental Engineering, Department of
+Buttlar, William G|buttlar@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Cai, Ximing|xmcai@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Carpenter, Samuel H|scarpent@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Carrilho Leao Ramos, Viviane|vclramos@illinois.edu|Visiting Scholar|Civil and Environmental Engineering, Department of
+Chen, Pei-Ching|pcchen67@illinois.edu||Civil and Environmental Engineering, Department of
+Chen, Yanju|chen63@illinois.edu||Civil and Environmental Engineering, Department of
+Chou, Hsien-Ter|hchou@illinois.edu||Civil and Environmental Engineering, Department of
+Clark, Mark M|mmclark3@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Cording, Edward J|ecording@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Cui, Na|nacui@illinois.edu||Civil and Environmental Engineering, Department of
+Das, Animesh|animesh@illinois.edu||Civil and Environmental Engineering, Department of
+Dempsey, Barry J|bjdemps@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Ding, Wei|weiding@illinois.edu||Civil and Environmental Engineering, Department of
+Dodds, Robert Harvey|rdodds@illinois.edu|Professor Emeritus|Civil and Environmental Engineering, Department of
+Duarte, Carlos Armando|caduarte@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Edwards, John Riley|jedward2@illinois.edu|Senior Lecturer|Civil and Environmental Engineering, Department of
+Eheart, J Wayland|weheart@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+El-Gohary, Nora|gohary@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+El-Rayes, Khaled A|elrayes@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Elnashai, Amr S|aelnash@illinois.edu||Civil and Environmental Engineering, Department of
+Emamipour, Hamidreza|hemamipo@illinois.edu|Postdoctoral Research Associate|Civil and Environmental Engineering, Department of
+Eom, Taesung|tseom@illinois.edu||Civil and Environmental Engineering, Department of
+Fahnestock, Larry Alan|fhnstck@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Fan, Cunxin|cfan@illinois.edu||Civil and Environmental Engineering, Department of
+Foutch, Douglas A|dfoutch@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Garcia, Marcelo Horacio|mhgarcia@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Gardoni, Paolo|gardoni@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Ghaboussi, Jamshid|jghabous@illinois.edu||Civil and Environmental Engineering, Department of
+Golparvar Fard, Mani|mgolpar@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Guest, Jeremy S|jsguest@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Gurfinkel, German|ggurfink@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Haber, Robert B|r-haber@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Hashash, Youssef M A|hashash@illinois.edu|Professor, Geotechnical Group|Civil and Environmental Engineering, Department of
+Hawkins, Neil M|nmhawkin@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Herricks, Edwin E|herricks@illinois.edu||Civil and Environmental Engineering, Department of
+Kao, Tsung-Chung|tckao@illinois.edu|Visiting Scholar|Civil and Environmental Engineering, Department of
+Khachaturian, Jon|khachat@illinois.edu||Civil and Environmental Engineering, Department of
+Kim, Dongwook|dkim37@illinois.edu||Civil and Environmental Engineering, Department of
+Kim, In Tai|itkim@illinois.edu||Civil and Environmental Engineering, Department of
+Koloutsou-Vakakis, Sotiria|sotiriak@illinois.edu|Research Scientist|Civil and Environmental Engineering, Department of
+Konar, Megan|mkonar@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Kuchma, Daniel Alexander|kuchma@illinois.edu||Civil and Environmental Engineering, Department of
+Kumar, Praveen|kumar1@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Lafave, James Michael|jlafave@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Lai, Tao|taolai@illinois.edu||Civil and Environmental Engineering, Department of
+Landry, Blake J|blandry2@illinois.edu|Research Associate|Civil and Environmental Engineering, Department of
+Lange, David A|dlange@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Larson, Susan M|smlarson@illinois.edu|ASST DEAN & DIR, WOMEN IN ENGR, Engineering Administration|Civil and Environmental Engineering, Department of
+Lawrence, Frederick V|flawrenc@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Lei, Susu|moonlss@illinois.edu||Civil and Environmental Engineering, Department of
+Lima de Aguiar, Ludimar|ludimar@illinois.edu||Civil and Environmental Engineering, Department of
+Lin, Yu-Feng|yflin@illinois.edu|Hydrogeologist and Assistant Section Head, Hydrogeology and Geophysics Section, Illinois State Geological Survey|Civil and Environmental Engineering, Department of
+Liu, Liang Y|lliu1@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Liu, Wen-Tso|wtliu@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Liu, Yuanyuan|liu40@illinois.edu||Civil and Environmental Engineering, Department of
+Liu, Yufei|yufeiliu@illinois.edu||Civil and Environmental Engineering, Department of
+Long, James H|jhlong@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Lopez-Pamies, Oscar|pamies@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Ma, Jing|ma06@illinois.edu||Civil and Environmental Engineering, Department of
+Marinas, Benito Jose|marinas@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Masud, Arif|amasud@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Meawad, Amr|ameawad@illinois.edu||Civil and Environmental Engineering, Department of
+Mesri, Gholamreza|gmesri@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Min, Jiyoung|amote@illinois.edu||Civil and Environmental Engineering, Department of
+Minear, Roger A|r-minear@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Minsker, Barbara S|minsker@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Mondal, Paramita|pmondal@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Moon, Do Soo|dmoon3@illinois.edu|Postdoctoral Research Associate|Civil and Environmental Engineering, Department of
+Narihiro, Takashi|narihiro@illinois.edu||Civil and Environmental Engineering, Department of
+Nguyen, Thanh Huong|thn@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Olson, Scott Michael|olsons@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Ouyang, Yanfeng|yfouyang@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Ozer, Hasan|hozer2@illinois.edu|Research Assistant Professor|Civil and Environmental Engineering, Department of
+Parker, Gary|parkerg@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Paulino, Glaucio Hermogenes|paulino@illinois.edu||Civil and Environmental Engineering, Department of
+Pecknold, David|dap1@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Pelosi, Anna|apelosi@illinois.edu||Civil and Environmental Engineering, Department of
+Peschel, Joshua Michael|peschel@illinois.edu|Research Assistant Professor|Civil and Environmental Engineering, Department of
+Popovics, John S|johnpop@illinois.edu|Associate Professor|Civil and Environmental Engineering, Department of
+Quan, Lei|leiquan@illinois.edu||Civil and Environmental Engineering, Department of
+Reis, Henrique M|h-reis@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Rhoads, Bruce L|brhoads@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Roesler, Jeffery Raphael|jroesler@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Rood, Mark J|mrood@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Ruiz Sandoval Hernandez, Manuel Ruiz|mruizsan@illinois.edu||Civil and Environmental Engineering, Department of
+Rutherford, Cassandra J|cjr@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Saat, Mohd Rapik|mohdsaat@illinois.edu|Research Assistant Professor|Civil and Environmental Engineering, Department of
+Schaeffer, David J|dschaeff@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Schmidt, Arthur R|aschmidt@illinois.edu|Research Assistant Professor|Civil and Environmental Engineering, Department of
+Sivapalan, Murugesu|sivapala@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Snoeyink, Vernon L|snoeyink@illinois.edu|Professor Emeritus|Civil and Environmental Engineering, Department of
+Spencer, B F|bfs@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Stark, Timothy D|tstark@illinois.edu|Professor, Geotechnical and Geoenvironmental Engineering|Civil and Environmental Engineering, Department of
+Strathmann, Timothy J|strthmnn@illinois.edu|Adjunct Professor|Civil and Environmental Engineering, Department of
+Struble, Leslie J|lstruble@illinois.edu|Professor Emerita|Civil and Environmental Engineering, Department of
+Thompson, Marshall R|mrthomps@illinois.edu|Professor Emeritus|Civil and Environmental Engineering, Department of
+Thurston, Deborah L|thurston@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Tsai, Ching-Sung|ctsai007@illinois.edu|Postdoctoral Research Associate|Civil and Environmental Engineering, Department of
+Tutumluer, Erol|tutumlue@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Valocchi, Albert J|valocchi@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Walker, William H|whwalker@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Wang, Long|lowang44@illinois.edu||Civil and Environmental Engineering, Department of
+Wen, Yi-Kwei|y-wen@illinois.edu|Emeriti Faculty|Civil and Environmental Engineering, Department of
+Werth, Charles James|werth@illinois.edu|Adjunct Professor|Civil and Environmental Engineering, Department of
+Work, Daniel|dbwork@illinois.edu|Assistant Professor|Civil and Environmental Engineering, Department of
+Wuebbles, Donald J|wuebbles@illinois.edu|Professor|Civil and Environmental Engineering, Department of
+Yang, Cheng|ycheng@illinois.edu||Civil and Environmental Engineering, Department of
+Yang, Haixu|yhxcumt@illinois.edu||Civil and Environmental Engineering, Department of
+Yang, In Hwan|ihyang@illinois.edu||Civil and Environmental Engineering, Department of
+Yao, Xiaowen|xwyao@illinois.edu|Visiting Scholar|Civil and Environmental Engineering, Department of
+Young, Brent Daniel|bdyoung1@illinois.edu|Visiting Lecturer|Civil and Environmental Engineering, Department of
+Zhao, Chunfa|cfzhao@illinois.edu||Civil and Environmental Engineering, Department of
+Zhao, Qiang|zhaoq@illinois.edu||Civil and Environmental Engineering, Department of
+Zhao, Sujing|sjzhao@illinois.edu||Civil and Environmental Engineering, Department of
+Zilles, Julie|jzilles@illinois.edu|Research Assistant Professor|Civil and Environmental Engineering, Department of
+Abdelzaher, Tarek|zaher@illinois.edu|Professor|Computer Science, Department of
+Adve, Sarita V|sadve@illinois.edu|Professor|Computer Science, Department of
+Adve, Vikram Sadanand|vadve@illinois.edu|Professor|Computer Science, Department of
+Agha, Gul A|agha@illinois.edu|Professor|Computer Science, Department of
+Amir, Eyal|eyal@illinois.edu||Computer Science, Department of
+Angrave, Lawrence Christopher|angrave@illinois.edu|Senior Lecturer|Computer Science, Department of
+Bailey, Brian P|bpbailey@illinois.edu|Associate Professor|Computer Science, Department of
+Baker, Gordon J|g-baker@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Bambenek, John Christian|bambenek@illinois.edu|Visiting Lecturer|Computer Science, Department of
+Barr, Lloyd|lbarr1@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Belford, Geneva G|gbelford@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Borisov, Nikita|nikita@illinois.edu|Associate Professor|Computer Science, Department of
+Bretl, Timothy Wolfe|tbretl@illinois.edu|Associate Professor|Computer Science, Department of
+Caccamo, Marco|mcaccamo@illinois.edu|Professor|Computer Science, Department of
+Caesar, Matthew Chapman|caesar@illinois.edu|Associate Professor|Computer Science, Department of
+Caicedo Rueda, Juan|caicedo@illinois.edu||Computer Science, Department of
+Campbell, R H|rhc@illinois.edu|Professor|Computer Science, Department of
+Cappello, Franck|cappello@illinois.edu|CENTER AFFILIATE|Computer Science, Department of
+Chang, Kevin Chen-Chuan|kcchang@illinois.edu|Associate Professor|Computer Science, Department of
+Chekuri, Chandra Sekhar|chekuri@illinois.edu|Professor|Computer Science, Department of
+Chen, Deming|dchen@illinois.edu|Associate Professor|Computer Science, Department of
+Chew, Weng Cho|w-chew@illinois.edu|Professor|Computer Science, Department of
+Cole, Jennifer S|jscole@illinois.edu|Professor|Computer Science, Department of
+DeJong, Gerald F|mrebl@illinois.edu|Professor|Computer Science, Department of
+Dig, Daniel|dig@illinois.edu|Adjunct Assistant Professor|Computer Science, Department of
+Efron, Miles James|mefron@illinois.edu|Associate Professor|Computer Science, Department of
+Erickson, Jeff G|jeffe@illinois.edu|Professor|Computer Science, Department of
+Escobar, Santiago|escobarr@illinois.edu|Visiting Scholar|Computer Science, Department of
+Fazenda, Alvaro|fazenda@illinois.edu||Computer Science, Department of
+Fleck, Margaret M|mfleck@illinois.edu|Senior Lecturer|Computer Science, Department of
+Forsyth, David Alexander|daf@illinois.edu|Professor|Computer Science, Department of
+Friedman, H George|friedman@illinois.edu|Professor Emeritus|Computer Science, Department of
+Fu, Wai-Tat|wfu@illinois.edu|Associate Professor|Computer Science, Department of
+Gambill, Thomas Naylor|gambill@illinois.edu|Lecturer|Computer Science, Department of
+Garzaran, Maria Jesus|garzaran@illinois.edu|Research Associate Professor|Computer Science, Department of
+Gasser, Leslie G|gasser@illinois.edu|Professor|Computer Science, Department of
+Gear, Charles|c-gear@illinois.edu|Professor Emeritus|Computer Science, Department of
+Girju, Corina R|girju@illinois.edu|Associate Professor|Computer Science, Department of
+Godfrey, Philip B|pbg@illinois.edu|Assistant Professor|Computer Science, Department of
+Gropp, William D|wgropp@illinois.edu|Professor|Computer Science, Department of
+Gunter, Carl|cgunter@illinois.edu|Professor|Computer Science, Department of
+Gunter, Elsa|egunter@illinois.edu|Senior Lecturer|Computer Science, Department of
+Gupta, Indranil|indy@illinois.edu|ASSOC PROF, Computer Science|Computer Science, Department of
+Han, Jiawei|hanj@illinois.edu|Professor|Computer Science, Department of
+Har-Peled, Sariel|sariel@illinois.edu|Professor|Computer Science, Department of
+Harandi, Mehdi T|harandi@illinois.edu|Associate Professor Emeritus|Computer Science, Department of
+Hart, John C|jch@illinois.edu|Professor|Computer Science, Department of
+Hasegawa-Johnson, Mark Allan|jhasegaw@illinois.edu|Professor|Computer Science, Department of
+Heath, Michael T|heath@illinois.edu|Professor Emeritus|Computer Science, Department of
+Heeren, Cinda|c-heeren@illinois.edu|Senior Lecturer|Computer Science, Department of
+Hirani, Anil Nirmal|hirani@illinois.edu|Associate Professor|Computer Science, Department of
+Hockenmaier, Julia Constanze|juliahmr@illinois.edu|Associate Professor|Computer Science, Department of
+Hoiem, Derek W|dhoiem@illinois.edu|Assistant Professor|Computer Science, Department of
+Hu, Yih-Chun|yihchun@illinois.edu|Associate Professor|Computer Science, Department of
+Huang, Thomas S|t-huang1@illinois.edu|Research Professor|Computer Science, Department of
+Hutchinson, Seth Andrew|seth@illinois.edu|Professor|Computer Science, Department of
+Hwu, Wen-Mei W|w-hwu@illinois.edu|Professor|Computer Science, Department of
+Iyer, Ravishankar K|rkiyer@illinois.edu|Professor|Computer Science, Department of
+Jacobson, Sheldon Howard|shj@illinois.edu|Professor|Computer Science, Department of
+Johnson, Ralph E|rjohnson@illinois.edu||Computer Science, Department of
+Kale, Laxmikant V|kale@illinois.edu|Professor|Computer Science, Department of
+Kamin, Samuel N|kamin@illinois.edu|Professor Emeritus|Computer Science, Department of
+Karahalios, Kyratso George|kkarahal@illinois.edu|Associate Professor|Computer Science, Department of
+Kim, Seong Whan|swkim7@illinois.edu||Computer Science, Department of
+Kirlik, Alex|kirlik@illinois.edu|Professor|Computer Science, Department of
+Kiyavash, Negar|kiyavash@illinois.edu|Associate Professor|Computer Science, Department of
+Kolla, Alexandra|akolla@illinois.edu|Assistant Professor|Computer Science, Department of
+Kravets, Robin Hillary|rhk@illinois.edu|Associate Professor|Computer Science, Department of
+Kubitz, William J|kubitz@illinois.edu|Professor Emeritus|Computer Science, Department of
+Lavalle, Steven M|lavalle@illinois.edu|Professor|Computer Science, Department of
+Lawrie, Duncan H|lawrie@illinois.edu|Professor Emeritus|Computer Science, Department of
+Lazebnik, Svetlana|slazebni@illinois.edu|Associate Professor|Computer Science, Department of
+Li, Jun|junli87@illinois.edu||Computer Science, Department of
+Lu, Wei|luwei@illinois.edu||Computer Science, Department of
+Lumetta, Steven Sam|lumetta@illinois.edu|Associate Professor|Computer Science, Department of
+Ma, Jian|jianma@illinois.edu|Assistant Professor|Computer Science, Department of
+Marinov, Darko|marinov@illinois.edu|Associate Professor|Computer Science, Department of
+McHenry, Kenton Guadron|mchenry@illinois.edu|SR. RESEARCH SCIENTIST|Computer Science, Department of
+Mechitov, Kirill Alexandrovich|mechitov@illinois.edu|Postdoctoral Research Associate|Computer Science, Department of
+Meseguer, Jose|meseguer@illinois.edu|Professor|Computer Science, Department of
+Mickunas, M Dennis|mickunas@illinois.edu|Associate Professor Emeritus|Computer Science, Department of
+Nahrstedt, Klara|klara@illinois.edu|Professor|Computer Science, Department of
+Nicol, David Malcolm|dmnicol@illinois.edu|Professor|Computer Science, Department of
+Olson, Luke|lukeo@illinois.edu|Associate Professor|Computer Science, Department of
+Padua, David A|padua@illinois.edu|Professor|Computer Science, Department of
+Parthasarathy, Madhusudan|madhu@illinois.edu|Associate Professor|Computer Science, Department of
+Peng, Tao|taopeng@illinois.edu||Computer Science, Department of
+Pitt, Leonard B|pitt@illinois.edu|Professor|Computer Science, Department of
+Polychronopoulos, Constantine|cdp@illinois.edu||Computer Science, Department of
+Prabhakaran, Manoj M|mmp@illinois.edu|Associate Professor|Computer Science, Department of
+Rao, Huaming|huamingr@illinois.edu||Computer Science, Department of
+Reingold, Edward M|reingold@illinois.edu|Professor Emeritus|Computer Science, Department of
+Rodgers, Frederick A|frodgers@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Rosu, Grigore|grosu@illinois.edu|Professor|Computer Science, Department of
+Roth, Dan|danr@illinois.edu|Professor|Computer Science, Department of
+Rutenbar, Robin A|rutenbar@illinois.edu|Professor|Computer Science, Department of
+Sack, Paul D|paulsack@illinois.edu||Computer Science, Department of
+Sahoo, Swarup Kumar|ssahoo2@illinois.edu|Postdoctoral Research Associate|Computer Science, Department of
+Sanders, William H|whs@illinois.edu|Professor|Computer Science, Department of
+Saylor, Paul E|saylor@illinois.edu|Professor Emeritus|Computer Science, Department of
+Schatz, Bruce R|schatz@illinois.edu|Professor (RT)|Computer Science, Department of
+Schran, Peter|p-schran@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Sha, Lui Raymond|lrs@illinois.edu|Professor|Computer Science, Department of
+Shaffer, Eric Gene|shaffer1@illinois.edu|Lecturer|Computer Science, Department of
+Shen, Wei|wsh@illinois.edu||Computer Science, Department of
+Sinha, Saurabh|sinhas@illinois.edu|Associate Professor|Computer Science, Department of
+Skeel, Robert D|skeel@illinois.edu|Professor Emeritus|Computer Science, Department of
+Smaragdis, Paris|paris@illinois.edu|Assistant Professor, Computer Science|Computer Science, Department of
+Taylor, Gale D|gdtaylo@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Thakkar, Umesh|uthakkar@illinois.edu|Senior Research Scientist|Computer Science, Department of
+Torrellas, Josep|torrella@illinois.edu|Professor|Computer Science, Department of
+Twidale, Michael Bernard|twidale@illinois.edu|Professor|Computer Science, Department of
+Tzannes, Alexandre|atzannes@illinois.edu|Postdoctoral Research Associate|Computer Science, Department of
+Vaidya, Nitin H|nhv@illinois.edu|Professor|Computer Science, Department of
+Vasudevan, Shobha|shobhav@illinois.edu|Assistant Professor|Computer Science, Department of
+Violas, Paul C|p-violas@illinois.edu|Emeriti Faculty|Computer Science, Department of
+Viswanathan, Mahesh|vmahesh@illinois.edu|Associate Professor|Computer Science, Department of
+Wang, Dong|dwang24@illinois.edu||Computer Science, Department of
+Wang, Lili|liliwang@illinois.edu|Visiting Scholar|Computer Science, Department of
+Winslett, Marianne S|winslett@illinois.edu|Professor Emerita|Computer Science, Department of
+Wong, Martin D F|mdfwong@illinois.edu|EXEC ASSOC DEAN|Computer Science, Department of
+Woodley, Michael Joseph|mwoodley@illinois.edu|Lecturer|Computer Science, Department of
+Wu, Peng|pwu326@illinois.edu|Adjunct Assistant Professor|Computer Science, Department of
+Yoo, Wucherl|wyoo5@illinois.edu||Computer Science, Department of
+Yu, Yizhou|yyz@illinois.edu||Computer Science, Department of
+Zhai, Chengxiang|czhai@illinois.edu|Professor|Computer Science, Department of
+Zilles, Craig|zilles@illinois.edu|Associate Professor|Computer Science, Department of
+Abbas, Ali E|aliabbas@illinois.edu|DEPT AFFL, Computer Science|Industrial and Enterprise Systems Engineering, Department of
+Allison, James|jtalliso@illinois.edu|Assistant Professor|Industrial and Enterprise Systems Engineering, Department of
+Beck, Carolyn L|beck3@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Chen, Xin|xinchen@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Feng, Liming|fenglm@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Kim, Harrison Hyung Min|hmkim@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Kiyavash, Negar|kiyavash@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Krishnan, Girish|gkrishna@illinois.edu|Assistant Professor|Industrial and Enterprise Systems Engineering, Department of
+Marla, Lavanya|lavanyam@illinois.edu|Assistant Professor|Industrial and Enterprise Systems Engineering, Department of
+Nagi, Rakesh|nagi@illinois.edu|Professor|Industrial and Enterprise Systems Engineering, Department of
+Nedich, Angelia|angelia@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Oh, Sewoong|swoh@illinois.edu|Assistant Professor, Industrial and Enterprise Systems Engineering|Industrial and Enterprise Systems Engineering, Department of
+Olshevsky, Alexander|aolshev2@illinois.edu|Assistant Professor|Industrial and Enterprise Systems Engineering, Department of
+Price, Raymond Lewis|price1@illinois.edu|Professor|Industrial and Enterprise Systems Engineering, Department of
+Reis, Henrique M|h-reis@illinois.edu|Professor|Industrial and Enterprise Systems Engineering, Department of
+Sowers, Richard B|r-sowers@illinois.edu|Professor|Industrial and Enterprise Systems Engineering, Department of
+Sreenivas, Ramavarapu S|rsree@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Stipanovic, Dusan M|dusan@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Thurston, Deborah L|thurston@illinois.edu|Professor|Industrial and Enterprise Systems Engineering, Department of
+Wang, Qiong|qwang04@illinois.edu|Associate Professor|Industrial and Enterprise Systems Engineering, Department of
+Alleyne, Andrew G|alleyne@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Aluru, Narayana R|aluru@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Bahl, Gaurav|bahl@illinois.edu|Assistant Professor|Mechanical Science and Engineering, Department of
+Beaudoin, Armand Joseph|abeaudoi@illinois.edu|Adjunct Research Professor|Mechanical Science and Engineering, Department of
+Bentsman, Joseph|jbentsma@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Brewster, M Quinn|brewster@illinois.edu|Professor of Mechanical Engineering|Mechanical Science and Engineering, Department of
+Christensen, Kenneth T|ktc@illinois.edu|Adjunct Professor|Mechanical Science and Engineering, Department of
+Dankowicz, Harry|danko@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Downing, Stephen Douglas|sdd@illinois.edu|Lecturer|Mechanical Science and Engineering, Department of
+Dullerud, Geir E|dullerud@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Ertekin, Elif|ertekin@illinois.edu|Assistant Professor|Mechanical Science and Engineering, Department of
+Ewoldt, Randy H|ewoldt@illinois.edu|Assistant Professor|Mechanical Science and Engineering, Department of
+Ferreira, Placid Mathew|pferreir@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Flachsbart, Bruce R|mems@illinois.edu|Senior Research Engineer|Mechanical Science and Engineering, Department of
+Freund, Jonathan|jbfreund@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Georgiadis, John G|georgia@illinois.edu||Mechanical Science and Engineering, Department of
+Glumac, Nick G|glumac@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Haber, Robert B|r-haber@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Hilgenfeldt, Sascha|sascha@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Horn, Gavin P|ghorn@illinois.edu|Senior Research Scientist|Mechanical Science and Engineering, Department of
+Hovakimyan, Naira|nhovakim@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Hrnjak, Predrag Stojan|pega@illinois.edu|Research Professor|Mechanical Science and Engineering, Department of
+Hsia, K Jimmy|kjhsia@illinois.edu||Mechanical Science and Engineering, Department of
+Hsiao-Wecksler, Elizabeth T|ethw@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Jacobi, Anthony M|a-jacobi@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Jasiuk, Iwona M|ijasiuk@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Johnson, Harley T|htj@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Keane, Richard Damien|rdkeane@illinois.edu|Lecturer|Mechanical Science and Engineering, Department of
+Kim, Seok|skm@illinois.edu|Assistant Professor|Mechanical Science and Engineering, Department of
+King, William Paul|wpk@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Kyritsis, Dimitrios C|kyritsis@illinois.edu|Adjunct Professor|Mechanical Science and Engineering, Department of
+Lee, Chia-Fon|cflee@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Matalon, Moshe|matalon@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Mehta, Prashant Girdharilal|mehtapg@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Pantano-Rubino, Carlos A|cpantano@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Patel, Sanjay Jeram|sjp@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Pearlstein, Arne J|ajp@illinois.edu|Professor of Mechanical Engineering|Mechanical Science and Engineering, Department of
+Saif, M Taher A|saif@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Salapaka, Srinivasa M|salapaka@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Sehitoglu, Huseyin|huseyin@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Sinha, Sanjiv|sanjiv@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Sofronis, Petros|sofronis@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Sohn, Mariana Silva|mfsilva@illinois.edu|VST CURR DEVLP COORD|Mechanical Science and Engineering, Department of
+Starzewski, Martin Ostoja|martinos@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Stewart, Donald Scott|dss@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Thomas, Brian G|bgthomas@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Tortorelli, Daniel A|dtortore@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Toussaint, Kimani C|ktoussai@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Tucker, Charles L|ctucker@illinois.edu|Vice Provost for Undergraduate Education and Innovation|Mechanical Science and Engineering, Department of
+Vakakis, Alexander F|avakakis@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+Wagoner Johnson, Amy Jaye|ajwj@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Wang, Ning|nwangrw@illinois.edu|Professor|Mechanical Science and Engineering, Department of
+West, Matthew|mwest@illinois.edu|Associate Professor|Mechanical Science and Engineering, Department of
+Aref, Michael|maref@illinois.edu|Adjunct Assistant Professor, Department of Nuclear, Plasma, and Radiological Engineering|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Averback, Robert S|averback@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Axford, Roy A|r-axford@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Boppart, Stephen Allen|boppart@illinois.edu|Professor, Bioengineering|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Curreli, Davide|dcurreli@illinois.edu|Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Dolan, Thomas J|dolantj@illinois.edu|Adjunct Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Eden, James Gary|jgeden@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Garada, Masab H|garada@illinois.edu|Adjunct Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Heuser, Brent J|bheuser@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Hutchings, Bruce L|bhutch@illinois.edu|Emeriti Faculty|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Jones, Barclay G|bgjones@illinois.edu|Professor Emeritus|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Jurczyk, Brian Edward|bjurczyk@illinois.edu|Adjunct Research Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Kaminski, Michael David|mdkamins@illinois.edu|Adjunct Associate Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Kim, Kyekyoon|kevinkim@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Kim, Kyu Jung|kyujung@illinois.edu|Visiting Research Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Kozlowski, Tomasz|txk@illinois.edu|Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Larson, Susan M|smlarson@illinois.edu|ASST DEAN & DIR, WOMEN IN ENGR, Engineering Administration|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Marsh, Charles P|cpmarsh@illinois.edu|Adjunct Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Meng, Ling Jian|ljmeng@illinois.edu|Associate Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Miley, George H|ghmiley@illinois.edu|Professor Emeritus|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Miller, David W|dmiller@illinois.edu|Adjunct Assistant Professor, Internal Medicine|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Mohaghegh Ahmadabadi, Zahra|zahra13@illinois.edu|Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Nelson, Richard F|rfnelson@illinois.edu|Adjunct Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Neumann, Martin John|mneumann@illinois.edu|Adjunct Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Ragheb, Magdi|mragheb@illinois.edu|Associate Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Ruzic, David N|druzic@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Singer, Clifford E|csinger@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Stubbers, Robert|stubbers@illinois.edu|Adjunct Research Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Stubbins, James F|jstubbin@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Sullivan, Clair Julia|cjsulli@illinois.edu|Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Thomas, Brian G|bgthomas@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Trinkle, Dallas|dtrinkle@illinois.edu|Associate Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Uddin, Rizwan|rizwan@illinois.edu|Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Zhang, Yang|zhyang@illinois.edu|Assistant Professor|Nuclear, Plasma, and Radiological Engr, Dept of (NPRE)
+Abbamonte, Peter Michael|abbamont@illinois.edu|Associate Professor|Physics, Department of
+Aksimentiev, Oleksii|aksiment@illinois.edu|Associate Professor|Physics, Department of
+Beck, Douglas H|dhbeck@illinois.edu|Professor|Physics, Department of
+Bezryadin, Alexey|bezryadi@illinois.edu|Professor|Physics, Department of
+Budakian, Raffi|budakian@illinois.edu|ASSOC PROF, MRL, Materials Research Lab|Physics, Department of
+Ceperley, David M|ceperley@illinois.edu|Professor|Physics, Department of
+Chemla, Yann Robert|ychemla@illinois.edu|Associate Professor|Physics, Department of
+Cooper, S Lance|slcooper@illinois.edu|Professor|Physics, Department of
+Dahmen, Karin A|dahmen@illinois.edu|Professor|Physics, Department of
+DeMarco, Brian Leeds|bdemarco@illinois.edu|Professor|Physics, Department of
+Eckstein, James N|eckstein@illinois.edu|Professor|Physics, Department of
+El-Khadra, Aida X|axk@illinois.edu|Professor|Physics, Department of
+Errede, Steven M|serrede@illinois.edu|Professor|Physics, Department of
+Fradkin, Eduardo H|efradkin@illinois.edu|Professor|Physics, Department of
+Gammie, Charles Forbes|gammie@illinois.edu|PROF, Physics|Physics, Department of
+Giannetta, Russell W|russg@illinois.edu|Professor|Physics, Department of
+Gladding, Gary E|geg@illinois.edu||Physics, Department of
+Goldenfeld, Nigel D|nigel@illinois.edu|Professor|Physics, Department of
+Gollin, George D|g-gollin@illinois.edu|Professor|Physics, Department of
+Greene, Laura H|lhgreene@illinois.edu|Professor|Physics, Department of
+Grosse Perdekamp, Matthias|mgp@illinois.edu|Professor|Physics, Department of
+Ha, Taekjip|tjha@illinois.edu|Professor, Institute for Genomic Biology|Physics, Department of
+Hubler, Alfred Wilhelm|a-hubler@illinois.edu|Associate Professor|Physics, Department of
+Hughes, Taylor L|hughest@illinois.edu|Assistant Professor|Physics, Department of
+Kuhlman, Thomas E|tkuhlman@illinois.edu|Assistant Professor|Physics, Department of
+Kwiat, Paul G|kwiat@illinois.edu|Professor|Physics, Department of
+Leggett, Anthony J|aleggett@illinois.edu|MacArthur Professor of Physics|Physics, Department of
+Leigh, Robert G|rgleigh@illinois.edu|Professor|Physics, Department of
+MacDougall, Gregory|gmacdoug@illinois.edu|Assistant Professor|Physics, Department of
+Makins, Naomi C R|makins@illinois.edu|Professor|Physics, Department of
+Mason, Nadya|nadya@illinois.edu|Associate Professor|Physics, Department of
+Mestre, Jose|mestre@illinois.edu|Professor|Physics, Department of
+Mouschovias, Telemachos Ch|tchm@illinois.edu|PROF, Physics|Physics, Department of
+Nayfeh, Munir H|m-nayfeh@illinois.edu|Professor|Physics, Department of
+Neubauer, Mark|msn@illinois.edu|Associate Professor|Physics, Department of
+Oono, Yoshitsugu|yoono@illinois.edu|Professor|Physics, Department of
+Peng, Jen-Chieh|jcpeng@illinois.edu|Professor|Physics, Department of
+Phillips, Philip W|dimer@illinois.edu|Professor|Physics, Department of
+Pitts, Kevin T|kpitts@illinois.edu|Professor|Physics, Department of
+Ryu, Shinsei|ryuu@illinois.edu|Assistant Professor|Physics, Department of
+Schulten, Klaus J|schulten@illinois.edu|Professor|Physics, Department of
+Selen, Mats A|mats@illinois.edu|Professor|Physics, Department of
+Selvin, Paul R|selvin@illinois.edu|Professor|Physics, Department of
+Shapiro, Stuart Louis|slshapir@illinois.edu|Professor|Physics, Department of
+Stelzer, Timothy J|tstelzer@illinois.edu|Associate Professor|Physics, Department of
+Stone, Michael|m-stone5@illinois.edu|Professor|Physics, Department of
+Thaler, Jon J|jjt@illinois.edu|Professor|Physics, Department of
+Van Harlingen, Dale J|dvh@illinois.edu|Professor|Physics, Department of
+Vishveshwara, Smitha|smivish@illinois.edu|Associate Professor|Physics, Department of
+Weaver, Richard L|r-weaver@illinois.edu|Professor|Physics, Department of
+Weissman, Michael B|mbw@illinois.edu|Professor Emeritus|Physics, Department of
+Willenbrock, Scott S|willen@illinois.edu|Professor|Physics, Department of
+Wiss, James E|jew@illinois.edu|Professor|Physics, Department of
+Wolfe, James P|j-wolfe@illinois.edu|Emeriti Faculty|Physics, Department of
+Yang, Liang|liangyg@illinois.edu|Assistant Professor|Physics, Department of
+Yodh, Jaya G|jyodh@illinois.edu|Research Assistant Professor|Physics, Department of
+Abd El Khalick, Fouad|fouad@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Armbruster, Bonnie Betts|bonnie@illinois.edu|Emeriti Faculty|Curriculum and Instruction, Department of (College of Education)
+Arpin, Christine M|carpin@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Baroody, Arthur J|baroody@illinois.edu|Emeriti Faculty|Curriculum and Instruction, Department of (College of Education)
+Bauer, Eurydice|ebbauer@illinois.edu|Associate Professor|Curriculum and Instruction, Department of (College of Education)
+Beardall, Joshua M|beardal2@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Boettcher, Erika L|eboettch@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Bragiel, Mary C|mbragiel@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Brandenburg, Deborah Lee|dbranden@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Bresler, Liora|liora@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Brodnan, Gary Lee|gbrodnan@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Brodnan, Kathleen|kbrodnan@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Brown, David E|debrown@illinois.edu|Associate Professor|Curriculum and Instruction, Department of (College of Education)
+Brunsting, John Robert|jbrunsti@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Clift, Renee T|rtclift@illinois.edu|Emeriti Faculty|Curriculum and Instruction, Department of (College of Education)
+Davidson, Frederick G|fgd@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Dean, Sheila Rae|srdean@illinois.edu|Clinical Assistant Professor|Curriculum and Instruction, Department of (College of Education)
+Denning, Marilyn L|mldennin@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Dressman, Mark Allen|mdressma@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Elrick, Douglas Gordon|delrick@illinois.edu|ACADEMIC HOURLY -  OLLI, Osher Lifelong Learning Inst|Curriculum and Instruction, Department of (College of Education)
+Garcia, Georgia E|gegarcia@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Gartside, Jennifer|jgartsid@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+George-Jackson, Casey Elizabeth|cgeo@illinois.edu|POSTDOC RES ASSOC, Curriculum and Instruction|Curriculum and Instruction, Department of (College of Education)
+Giesler, Brenda Joelle|bgiesler@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Go, Young-Mi|iamigym@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Goldsmith-Conley, Elizabeth Harriet|elizgc@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Gonzalez Rivera, Gloriana|ggonzlz@illinois.edu|Assistant Professor|Curriculum and Instruction, Department of (College of Education)
+Gschwend, Karen L|kgschwen@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Gutierrez, Rochelle|rg1@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Hanke, Richard E|rehanke@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Hari, Jan|hari1@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Harris, Violet J|vjharris@illinois.edu|PROF, Curriculum and Instruction|Curriculum and Instruction, Department of (College of Education)
+Hehn, Jack William|jhehn@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Henderson, Gerald Lon|ghenders@illinois.edu|Adjunct Instructor|Curriculum and Instruction, Department of (College of Education)
+Hixson, Jennifer Quednau|jhixson@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Hood, Stafford|slhood@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Hug, Barbara|bhug@illinois.edu|Clinical Associate Professor|Curriculum and Instruction, Department of (College of Education)
+Jurgens, Patricia M|pjurgens@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Kalantzis, Mary|kalantzi@illinois.edu|Dean|Curriculum and Instruction, Department of (College of Education)
+Katz, Lilian G|lgkatz@illinois.edu|Professor Emerita|Curriculum and Instruction, Department of (College of Education)
+Lazzaretto, Amy|laz409@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Lewis, Alisha Lauren|alilewis@illinois.edu|DIR UPS|Curriculum and Instruction, Department of (College of Education)
+Lindquist, Mary Florence|mflindqu@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Long, Yvette Nelva|ynl@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Lubienski, Sarah Theule|stl@illinois.edu|INT DEAN, GRAD COLLEGE|Curriculum and Instruction, Department of (College of Education)
+MacGregor, Nancy A|gmac@illinois.edu|Clinical Professor|Curriculum and Instruction, Department of (College of Education)
+McCarthey, Sarah Jane|mccarthe@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+McCarthy, Cameron R|cmccart1@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+McMurry, Sunny Olivia|koerber@illinois.edu|CLIN EXP SPECIALIST|Curriculum and Instruction, Department of (College of Education)
+McQuillan, Cathleen Sauer|mcquilla@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Merritt, Christine S|cmerritt@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Moller, Karla Jean|kjmoller@illinois.edu|Associate Professor|Curriculum and Instruction, Department of (College of Education)
+Morrisette, Sharon|morristt@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Osborne, Margery|m-osbor@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Parsons, Marilyn Anita|marilynj@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Poetzel, Adam Roman|apoetzel@illinois.edu|Clinical Assistant Professor|Curriculum and Instruction, Department of (College of Education)
+Polzin, James R|jrpolzin@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Reese, George Clifford|reese@illinois.edu|Director, MSTE Office|Curriculum and Instruction, Department of (College of Education)
+Rogers, Jill A|jrogrs@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Seaman, Elaine R|erseaman@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Tettegah, Sharon Y|stettega@illinois.edu|Associate Professor|Curriculum and Instruction, Department of (College of Education)
+Thorstensson Davila, Liv Solveig|livtd@illinois.edu|Clinical Assistant Professor|Curriculum and Instruction, Department of (College of Education)
+Travers, Kenneth J|ktravers@illinois.edu|Professor Emeritus|Curriculum and Instruction, Department of (College of Education)
+Van ES, Bette P|bvanes@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Vriner, Lucinda Benson|lvriner@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Westbury, Ian D|westbury@illinois.edu|Professor Emeritus|Curriculum and Instruction, Department of (College of Education)
+Willis, Arlette I|aiwillis@illinois.edu|Professor|Curriculum and Instruction, Department of (College of Education)
+Wurtzel, Lynn|lynn55@illinois.edu|Adjunct Lecturer|Curriculum and Instruction, Department of (College of Education)
+Zhang, Jiajun|zhangjj@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Zhang, Jianjia|jzhn@illinois.edu||Curriculum and Instruction, Department of (College of Education)
+Ahadi, Sahar|sahadi@illinois.edu||Education Policy, Organization and  Leadership
+Alexander, Samuel Kern|alexandr@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Anderson, James D|janders@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Baber, Lorenzo D|ldbaber@illinois.edu|Assistant Professor|Education Policy, Organization and  Leadership
+Barnett, Bernice McNair|bmbarnet@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Bowermaster, Jon Pence|bowermas@illinois.edu|Clinical Assistant Professor|Education Policy, Organization and  Leadership
+Bragg, Debra D|dbragg@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Brown, Ruth Nicole|rnbrown@illinois.edu|ASSOC PROF, Educ Policy, Orgzn & Leadrshp|Education Policy, Organization and  Leadership
+Burbules, Nicholas C|burbules@illinois.edu|Professor, EPOL|Education Policy, Organization and  Leadership
+Cope, William|billcope@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Darder, Antonia|adarder@illinois.edu|Professor Emerita|Education Policy, Organization and  Leadership
+Delaney, Jennifer A|delaneyj@illinois.edu|Assistant Professor|Education Policy, Organization and  Leadership
+Dhillon, Pradeep A|dhillon@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Dixson, Adrienne Denise|addixson@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Dyson, Anne Haas|ahdyson@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Feinberg, Walter|wfeinber@illinois.edu|Professor Emeritus|Education Policy, Organization and  Leadership
+Fink, Lisa S|lsfink@illinois.edu|Adjunct Lecturer|Education Policy, Organization and  Leadership
+Flesher, Jeffrey|flesher@illinois.edu|Adjunct Assistant Professor|Education Policy, Organization and  Leadership
+Fortier, Priscilla J|pfortier@illinois.edu|Adjunct Professor|Education Policy, Organization and  Leadership
+Franklin, Kevin|kdf@illinois.edu|Associate Director|Education Policy, Organization and  Leadership
+Frasier, James Robert|jfrasier@illinois.edu|Clinical Assistant Professor|Education Policy, Organization and  Leadership
+George-Jackson, Casey Elizabeth|cgeo@illinois.edu|POSTDOC RES ASSOC, Curriculum and Instruction|Education Policy, Organization and  Leadership
+Ginsburg, Rebecca|rginsbur@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Hackmann, Donald|dghack@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Herman, Richard H|rhh@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Herrera, Linda|lherrera@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Herrmann, Mary Beth|mbherrma@illinois.edu|Clinical Assistant Professor|Education Policy, Organization and  Leadership
+Hertzog, Nancy B|nhertzog@illinois.edu|Adjunct Instructor, Educ Policy, Orgzn & Leadrshp|Education Policy, Organization and  Leadership
+Higgins, Christopher Roy|crh4@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Hood, Denice Ward|dwhood@illinois.edu|Assistant Professor|Education Policy, Organization and  Leadership
+Huang, Wen-Hao|wdhuang@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Hunter, Richard C|rchunter@illinois.edu||Education Policy, Organization and  Leadership
+Ikenberry, Stanley O|stanike@illinois.edu|Special Assistant to the President, President's Office - University Administration (UA)|Education Policy, Organization and  Leadership
+Jacobs, Ronald Lynn|rljacobs@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Kalata, Erica Dawn|ekalata@illinois.edu||Education Policy, Organization and  Leadership
+Kim, Hyunjung|hkim9@illinois.edu|Adjunct Assistant Professor|Education Policy, Organization and  Leadership
+Kuchinke, K Peter|kuchinke@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Lamers, Nicole Alane|lamers@illinois.edu|INATL EDUC SPEC|Education Policy, Organization and  Leadership
+Lauk, Raymond Anthony|rlauk@illinois.edu|Adjunct Instructor|Education Policy, Organization and  Leadership
+Lesht, Faye L|flesht@illinois.edu|Associate Director, Center for Innovation in Teaching and Learning|Education Policy, Organization and  Leadership
+Li, Jie|jli2011@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Loui, Michael C|loui@illinois.edu|Professor, Electrical and Computer Engineering|Education Policy, Organization and  Leadership
+Lubienski, Christopher|club@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Makela, Julia Panke|jpmakela@illinois.edu|Associate Director|Education Policy, Organization and  Leadership
+Mayo, Cris Susan|cmayo@illinois.edu|Professor|Education Policy, Organization and  Leadership
+McCarthy, Cameron R|cmccart1@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Pak, Yoon Kyung|yoonpak@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Peters, Michael Adrian|mpet001@illinois.edu|Professor Emeritus|Education Policy, Organization and  Leadership
+Price, Raymond Lewis|price1@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Rivers, Ishwanzya|irivers@illinois.edu|Adjunct Instructor|Education Policy, Organization and  Leadership
+Rizvi, Fazal|frizvi@illinois.edu|Professor Emeritus|Education Policy, Organization and  Leadership
+Roegge, Chris|croegge@illinois.edu|Executive Director|Education Policy, Organization and  Leadership
+Sloat, Linda Sue Clizer|lsloat@illinois.edu|Clinical Assistant Professor|Education Policy, Organization and  Leadership
+Span, Christopher|cspan@illinois.edu|Associate Professor|Education Policy, Organization and  Leadership
+Taylor, Laura Jill|lgraham@illinois.edu|Adjunct Instructor|Education Policy, Organization and  Leadership
+Thurston, Paul W|pthursto@illinois.edu|Emeriti Faculty|Education Policy, Organization and  Leadership
+Treat, Tod E|todtreat@illinois.edu|Adjunct Assistant Professor|Education Policy, Organization and  Leadership
+Trent, William T|w-trent@illinois.edu|Professor|Education Policy, Organization and  Leadership
+Welton, Anjale Devawn|ajwelton@illinois.edu|Assistant Professor|Education Policy, Organization and  Leadership
+Wentling, Rose Mary|rmcwent@illinois.edu|Professor Emerita|Education Policy, Organization and  Leadership
+Yonke, Linda L|lyonke@illinois.edu|Adjunct Instructor|Education Policy, Organization and  Leadership
+Anderson, Carolyn Jane|cja@illinois.edu|Professor|Educational Psychology, Department of 
+Anderson, Richard C|csrrca@illinois.edu|Emeriti Faculty|Educational Psychology, Department of 
+Anderson, Thomas H|thand@illinois.edu|Emeriti Faculty|Educational Psychology, Department of 
+Andresen, Graciela Vazquez|gandrese@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+Aprill, Karen|aprill@illinois.edu|Academic Hourly|Educational Psychology, Department of 
+Arulpragasam, Darini S|darini@illinois.edu|Adjunct Clinical Assistant Professor|Educational Psychology, Department of 
+Benson, Theresa Marie|tmb67@illinois.edu|Program Coordinator|Educational Psychology, Department of 
+Berry, Daniel John|djberry@illinois.edu|Assistant Professor|Educational Psychology, Department of 
+Blodgett, Mark L|mblodget@illinois.edu|CLIN INSTR|Educational Psychology, Department of 
+Boudreaux, Charles Titus|ctboudr@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+Bowles, Melissa A|bowlesm@illinois.edu|Associate Professor|Educational Psychology, Department of 
+Bullock, Cheryl Davis|cdbulloc@illinois.edu|Adjunct Associate Professor|Educational Psychology, Department of 
+Chang, Hua-hua|hhchang@illinois.edu|Professor|Educational Psychology, Department of 
+Christianson, Kiel|kiel@illinois.edu|Associate Professor|Educational Psychology, Department of 
+Cianciolo, Anna T|aciancio@illinois.edu|Adjunct Assistant Professor, Educational Psychology|Educational Psychology, Department of 
+Colbs, Sandy L|slcolbs@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+Collins, Kimberly D|kdcollin@illinois.edu|Clinical Psychologist|Educational Psychology, Department of 
+Crook, Tressa Helen|thcrook@illinois.edu|Adjunct Clinical Associate Professor|Educational Psychology, Department of 
+Cziko, Gary A|g-cziko@illinois.edu|Professor Emeritus|Educational Psychology, Department of 
+Davidson, Frederick G|fgd@illinois.edu||Educational Psychology, Department of 
+Davis, Lori E|drlori@illinois.edu|Academic Advisor|Educational Psychology, Department of 
+Destefano, Lizanne|destefan@illinois.edu|Director, I-STEM|Educational Psychology, Department of 
+Diaz, Lisa Bouillion|lbdiaz@illinois.edu|Extension Specialist, 4-H Youth Development|Educational Psychology, Department of 
+Douglas, Jeffrey A|jeffdoug@illinois.edu|Professor|Educational Psychology, Department of 
+Espelage, Dorothy L|espelage@illinois.edu|Professor|Educational Psychology, Department of 
+Greene, Jennifer Caroline|jcgreene@illinois.edu|Professor|Educational Psychology, Department of 
+Griffin-Pierson, Sharon S|griffins@illinois.edu|Clinical Psychologist|Educational Psychology, Department of 
+Hallett, Marybeth|hallett@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+Hannum, James W|jwhannum@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+Hays, Kimberly A|kahays@illinois.edu|Adjunct Clinical Assistant Professor|Educational Psychology, Department of 
+Hood, Stafford|slhood@illinois.edu|Professor|Educational Psychology, Department of 
+Huang, Wen-Hao|wdhuang@illinois.edu|Associate Professor|Educational Psychology, Department of 
+Hubert, Lawrence J|lhubert@illinois.edu||Educational Psychology, Department of 
+Hund-Wantland, Anita Rose|ahund@illinois.edu|Clinical Assistant Professor|Educational Psychology, Department of 
+Kinderman, Lisa|lisakind@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+Lambeth, Gregory S|lambeth@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+Landrum-Brown, Joycelyn|jlandrum@illinois.edu|Program Coordinator|Educational Psychology, Department of 
+Langellier, Constance M|langelli@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+Larson, Reed W|larsonr@illinois.edu|Professor of Family Ecology|Educational Psychology, Department of 
+Leskis, Kathryn Kurlakowsky|kurlakow@illinois.edu|Adjunct Assistant Professor, Educational Psychology|Educational Psychology, Department of 
+Lo, Adrienne Shiu-Ming|adr@illinois.edu|Adjunct Assistant Professor, Educ Policy, Orgzn & Leadrshp|Educational Psychology, Department of 
+Loeb, Jane W|jloeb@illinois.edu|Emeriti Faculty|Educational Psychology, Department of 
+Low, Sabina|smlow@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+McCowan, Carla J|cmccowan@illinois.edu|Director, Counseling Center|Educational Psychology, Department of 
+Mestre, Jose|mestre@illinois.edu|Professor|Educational Psychology, Department of 
+Morrow, Daniel G|dgm@illinois.edu|Professor|Educational Psychology, Department of 
+Nettles, Saundra Rice Murray|snettles@illinois.edu|Clinical Professor|Educational Psychology, Department of 
+Neville, Helen A|hneville@illinois.edu|Professor|Educational Psychology, Department of 
+Oswald, Ramona Faith|roswald@illinois.edu|Professor of Family Studies, Department of Human and Community Development|Educational Psychology, Department of 
+Packard, Jerome L|jpackar@illinois.edu|Professor|Educational Psychology, Department of 
+Perry, Michelle|mperry@illinois.edu|Professor|Educational Psychology, Department of 
+Roberts, William A|wilro@illinois.edu|Associate Director|Educational Psychology, Department of 
+Robinson-Cimpian, Joseph Paul|jpr@illinois.edu|Assistant Professor|Educational Psychology, Department of 
+Rooney, Gail|grooney@illinois.edu|Director|Educational Psychology, Department of 
+Rounds, James|jrounds@illinois.edu|Professor|Educational Psychology, Department of 
+Ryan, Allison M|ryan2@illinois.edu|Adjunct Associate Professor|Educational Psychology, Department of 
+Ryan, Katherine E|k-ryan6@illinois.edu||Educational Psychology, Department of 
+Schwandt, Thomas A|tschwand@illinois.edu|Professor|Educational Psychology, Department of 
+Shin, Dongil|iget12@illinois.edu||Educational Psychology, Department of 
+Stake, Robert E|stake@illinois.edu|Emeriti Faculty|Educational Psychology, Department of 
+Stine-Morrow, Elizabeth A L|eals@illinois.edu|Professor|Educational Psychology, Department of 
+Tettegah, Sharon Y|stettega@illinois.edu|Associate Professor|Educational Psychology, Department of 
+Thomas, Jodi|jmthomas@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+Vigdor, Linda|vigdor@illinois.edu|Adjunct Assistant Professor|Educational Psychology, Department of 
+Weathersby, Deidre Ann|daweath@illinois.edu|Clinical Counselor|Educational Psychology, Department of 
+West, Charles K|c-west@illinois.edu|Professor Emeritus|Educational Psychology, Department of 
+Yang, Shuqun|shqyang@illinois.edu||Educational Psychology, Department of 
+Zhang, Jinming|jmzhang@illinois.edu|Associate Professor|Educational Psychology, Department of 
+Zola, David|dzola@illinois.edu|Clinical Professor|Educational Psychology, Department of 
+Andrews, Laurie Grams|andrewsl@illinois.edu|Lecturer|Special Education, Department of 
+Bentz, Johnell L|jbentz@illinois.edu|Clinical Associate Professor|Special Education, Department of 
+Carey, Yvonne A|ycarey@illinois.edu|Project Coordinator|Special Education, Department of 
+Chadsey, Janis|chadsey@illinois.edu|Professor Emerita|Special Education, Department of 
+Dymond, Stacy K|sdymond@illinois.edu|Professor|Special Education, Department of 
+Fowler, Susan A|safowler@illinois.edu|Professor|Special Education, Department of 
+Gaffney, Janet S|gaffneyj@illinois.edu|Emeriti Faculty|Special Education, Department of 
+Halle, James W|halle@illinois.edu|Professor Emeritus|Special Education, Department of 
+Henderson, Robert A|bobh@illinois.edu|Professor Emeritus|Special Education, Department of 
+Hughes, Mary-Alayne|mahughes@illinois.edu|Clinical Associate Professor|Special Education, Department of 
+Israel, Maya|misrael@illinois.edu|Assistant Professor|Special Education, Department of 
+Katz, Lilian G|lgkatz@illinois.edu|Professor Emerita|Special Education, Department of 
+Light Shriner, Cheryl L|slight@illinois.edu|Clinical Assistant Professor|Special Education, Department of 
+Lopez, Leonard A|l-lopez@illinois.edu|Emeriti Faculty|Special Education, Department of 
+McCollum, Jeanette A|jmccollu@illinois.edu|Emeriti Faculty|Special Education, Department of 
+Meadan-Kaplansky, Hedda|meadan@illinois.edu|Associate Professor|Special Education, Department of 
+Monda-Amaya, Lisa Ellen|lmonda@illinois.edu|Professor|Special Education, Department of 
+Ostrosky, Michaelene|ostrosky@illinois.edu|Professor|Special Education, Department of 
+Renzaglia, Adelle M|renzag@illinois.edu|Professor Emerita|Special Education, Department of 
+Santos Gilbertz, Rosa Milagros|rsantos@illinois.edu|Professor|Special Education, Department of 
+Shriner, James G|jshriner@illinois.edu|Associate Professor|Special Education, Department of 
+Strauser, David Ross|strauser@illinois.edu|Professor|Special Education, Department of 
+Trach, John S|jtrach@illinois.edu||Special Education, Department of 
+Wheeler, Rachel E|rewheele@illinois.edu|Lecturer|Special Education, Department of 
+Yates, Tweety Jan|tyates2@illinois.edu|Research Assistant Professor|Special Education, Department of 
+Anderson, James D|janders@illinois.edu|Professor|
+Baber, Lorenzo D|ldbaber@illinois.edu|Assistant Professor|
+Bragg, Debra D|dbragg@illinois.edu|Professor|
+Delaney, Jennifer A|delaneyj@illinois.edu|Assistant Professor|
+Farmer, James A|jfarmer@illinois.edu|Emeriti Faculty|
+Hackmann, Donald|dghack@illinois.edu|Professor|
+Hunter, Richard C|rchunter@illinois.edu||
+Ikenberry, Stanley O|stanike@illinois.edu|Special Assistant to the President, President's Office - University Administration (UA)|
+Lesht, Faye L|flesht@illinois.edu|Associate Director, Center for Innovation in Teaching and Learning|
+Loui, Michael C|loui@illinois.edu|Professor, Electrical and Computer Engineering|
+Lubienski, Christopher|club@illinois.edu|Professor|
+McGreal, Thomas L|tmcgreal@illinois.edu|Emeriti Faculty|
+Sloat, Linda Sue Clizer|lsloat@illinois.edu|Clinical Assistant Professor|
+Thurston, Paul W|pthursto@illinois.edu|Emeriti Faculty|
+Ward, James G|j-ward@illinois.edu|Emeriti Faculty|
+Albrecht, Johann|j-lbrcht@illinois.edu|Emeriti Faculty|Architecture, School of
+Ali, Mir M|mirali1@illinois.edu|Professor Emeritus, Architecture|Architecture, School of
+Aminmansour, Abbas|aamin@illinois.edu|Associate Professor|Architecture, School of
+Anderson, James R|jimand@illinois.edu|Associate Dean|Architecture, School of
+Andrejasich, Michael J|andrejas@illinois.edu|Associate Dean, Undergraduate Academic Affairs|Architecture, School of
+Anthony, Kathryn H|kanthony@illinois.edu|ACSA Distinguished Professor, School of Architecture|Architecture, School of
+Armstrong, Paul J|parmstro@illinois.edu|Associate Professor Emeritus|Architecture, School of
+Bartumeus Ferre, Sara|sbartus@illinois.edu|Associate Professor|Architecture, School of
+Betts, Richard J|rbetts@illinois.edu|Emeriti Faculty|Architecture, School of
+Bognar, Botond|bbognar@illinois.edu|Professor and  Edgar A. Tafel Chair in Architecture|Architecture, School of
+Boubekri, Mohamed|boubekri@illinois.edu|Associate Professor|Architecture, School of
+Chasco, David|dchasco@illinois.edu|Professor|Architecture, School of
+Cupers, Kenny R|cupers@illinois.edu|Assistant Professor|Architecture, School of
+Deal, Brian M|deal@illinois.edu|Associate Professor|Architecture, School of
+Dearborn, Lynne Marie|dearborn@illinois.edu|Associate Professor, Associate Director, School of Architecture|Architecture, School of
+Deutsch, Randall|rdeutsch@illinois.edu|Associate Professor|Architecture, School of
+Erickson, Kevin N|kne@illinois.edu|Associate Professor|Architecture, School of
+Erwin, William H|w-erwin@illinois.edu|Emeriti Faculty|Architecture, School of
+Gamble, William L|w-gamble@illinois.edu|Emeriti Faculty|Architecture, School of
+Garner, John S|jsgarner@illinois.edu|Emeriti Faculty|Architecture, School of
+Geil, Wilma Jean|w-geil@illinois.edu|Emeriti Faculty|Architecture, School of
+Ginsburg, Rebecca|rginsbur@illinois.edu|Associate Professor|Architecture, School of
+Haken, Wolfgang|w-haken@illinois.edu|Emeriti Faculty|Architecture, School of
+Hall, Gaines B|gbhall@illinois.edu|Associate Dean, College of Fine and Applied Arts|Architecture, School of
+Hamlin, Lawrence J|lhamlin@illinois.edu|Instructor|Architecture, School of
+Hammann, Ralph Eugen|rhammann@illinois.edu|Associate Professor|Architecture, School of
+Harris, Dianne S|harris3@illinois.edu|Professor, Landscape Architecture|Architecture, School of
+Hemingway, Erik|ehem@illinois.edu|Associate Professor|Architecture, School of
+Heumann, Leonard F|lheumann@illinois.edu|Emeriti Faculty|Architecture, School of
+Hinders, Kevin J|khinders@illinois.edu|Associate Professor|Architecture, School of
+Hua, Yue|yuehua@illinois.edu||Architecture, School of
+Irish, Sharon Lee|slirish@illinois.edu|Project Coordinator|Architecture, School of
+Kansler, Jeffrey Charles|kansler@illinois.edu|Lecturer|Architecture, School of
+Kapp, Paul Hardin|phkapp@illinois.edu|Associate Professor|Architecture, School of
+Kim, Michael Kyong-il|mkkim1@illinois.edu|Professor|Architecture, School of
+Kruty, Paul S|pkruty@illinois.edu|Emeriti Faculty|Architecture, School of
+Kuznetsov, Helen|helenk@illinois.edu|Emeriti Faculty|Architecture, School of
+Lapunzina, Alejandro|alejlapu@illinois.edu|Professor|Architecture, School of
+Lerum, Vidar|vidar@illinois.edu|Associate Professor|Architecture, School of
+Malnar, Joy Monice|malnar@illinois.edu|Associate Professor|Architecture, School of
+McCulley, Michael T|mmccull@illinois.edu||Architecture, School of
+McGlamery, Marshal D|mmcglame@illinois.edu|Emeriti Faculty|Architecture, School of
+Minor, Heather Hyde|hhminor@illinois.edu|Associate Professor, School of Architecture|Architecture, School of
+Mooney, Robert T|rmooney@illinois.edu|Emeriti Faculty|Architecture, School of
+Moses, Richard H|r-moses@illinois.edu|Emeriti Faculty|Architecture, School of
+Murray, Scott Charles|scmurray@illinois.edu|Associate Professor, Architecture|Architecture, School of
+Niermann, Matthew William|mwnierma@illinois.edu||Architecture, School of
+Palumbo, Paul A|paulp@illinois.edu|Emeriti Faculty|Architecture, School of
+Plummer, Henry S|hplummer@illinois.edu|Emeriti Faculty|Architecture, School of
+Poss, Jeffery S|poss@illinois.edu|Professor|Architecture, School of
+Pyla, Panayiota|pyla@illinois.edu|Professor|Architecture, School of
+Ruggles, D Fairchild|dfr1@illinois.edu|Professor, Department of Landscape Architecture|Architecture, School of
+Schmitt, Ronald E|rschmitt@illinois.edu|Emeriti Faculty|Architecture, School of
+Selby, Robert I|rselby@illinois.edu|Emeriti Faculty|Architecture, School of
+Senseney, John Robert|senseney@illinois.edu|Associate Professor, Architecture|Architecture, School of
+Stallmeyer, John Charles|stallmyr@illinois.edu|Associate Professor|Architecture, School of
+Strand, Richard Karl|rkstrand@illinois.edu|Associate Professor|Architecture, School of
+Taylor, Mark|mstaylor@illinois.edu|Assistant Professor|Architecture, School of
+Tierney, Therese Frances|tierney@illinois.edu|Assistant Professor|Architecture, School of
+Uihlein, Marci Smith|muihlein@illinois.edu|Assistant Professor|Architecture, School of
+Viaud, Jean-Brice Dominique|jviaud@illinois.edu||Architecture, School of
+Waldrep, Lee W|lwaldrep@illinois.edu|Administrator for Undergraduate Student Services|Architecture, School of
+Warfield, James P|jwarfiel@illinois.edu|Emeriti Faculty|Architecture, School of
+Wickersheimer, David|dwickers@illinois.edu|Emeriti Faculty|Architecture, School of
+Worn, William W|wornb@illinois.edu|Clinical Associate Professor|Architecture, School of
+Yan, Fengying|fyan@illinois.edu|Visiting Scholar|Architecture, School of
+wenzel, joseph w|jwenzel@illinois.edu|Emeriti Faculty|Architecture, School of
+Bailey, Andrew D|jabaile@illinois.edu|Emeriti Faculty|Art and Design, School of
+Bakker, Conrad Quentin|cbakker@illinois.edu|Associate Professor|Art and Design, School of
+Batten, Luke|lbatten@illinois.edu|Associate Professor|Art and Design, School of
+Becker, Susan E|becker2@illinois.edu|ADJ LECTURER, Dance|Art and Design, School of
+Benson, Eric|ebenson@illinois.edu|Associate Professor of Graphic Design|Art and Design, School of
+Block, Jane|block3@illinois.edu||Art and Design, School of
+Bolgla, Debra L|dbolgla@illinois.edu|Adjunct Assistant Professor, Art + Design [Unit One]|Art and Design, School of
+Bresler, Liora|liora@illinois.edu|Professor|Art and Design, School of
+Bullock, William C|wbullock@illinois.edu|Professor|Art and Design, School of
+Burkus-Chasson, Anne|burkus@illinois.edu|Associate Professor|Art and Design, School of
+Burns, Jennifer|jenbee60@illinois.edu|Instructor|Art and Design, School of
+Cade, William P D|wpcade@illinois.edu|- Adjunct Faculty|Art and Design, School of
+Carls, Kenneth Raymond|kcarls@illinois.edu|Emeriti Faculty|Art and Design, School of
+Cartwright, Stephen|srcartwr@illinois.edu|Associate Professor|Art and Design, School of
+Cox, Donna J|donnacox@illinois.edu|First Michael Aiken Chair|Art and Design, School of
+Delacruz, Elizabeth M|edelacru@illinois.edu|Professor|Art and Design, School of
+Douglas, Robin C|douglas@illinois.edu|Adjunct Assistant Professor|Art and Design, School of
+Duncum, Paul Angus|pduncum@illinois.edu|Professor|Art and Design, School of
+Fineberg, Jonathan D|fineberg@illinois.edu|Emeriti Faculty|Art and Design, School of
+Finnegan, Cara Anne|caraf@illinois.edu|Associate Professor|Art and Design, School of
+Gates, Jay|jgates@illinois.edu|Associate Professor|Art and Design, School of
+Ginsburg, Rebecca|rginsbur@illinois.edu|Associate Professor|Art and Design, School of
+Goggin, Nan Elizabeth|goggin@illinois.edu|Professor|Art and Design, School of
+Gokl, Renate G|rgokl@illinois.edu|Associate Professor|Art and Design, School of
+Greenhill, Jennifer|jgreenhi@illinois.edu|Associate Professor of Art History, American art and visual culture|Art and Design, School of
+Griffis, Ryan|rgriffis@illinois.edu|Associate Professor, School of Art & Design|Art and Design, School of
+Gunji, Kimiko|kimiko@illinois.edu|Emeriti Faculty|Art and Design, School of
+Gunji-Ballsrud, Jennifer Misuzu|gunji@illinois.edu|Associate Professor, Graphic Design|Art and Design, School of
+Guthrie, Gerald W|gguthrie@illinois.edu|Professor|Art and Design, School of
+Hamilton, Kevin|kham@illinois.edu|Associate Professor|Art and Design, School of
+Hammie, Patrick E|phammie@illinois.edu|Assistant Professor of Painting|Art and Design, School of
+Harleman, Kathleen|harleman@illinois.edu|Director|Art and Design, School of
+Harris, Dianne S|harris3@illinois.edu|Professor, Landscape Architecture|Art and Design, School of
+Hays, David Lyle|dlhays@illinois.edu|Associate Professor of Landscape Architecture|Art and Design, School of
+Hedeman, Anne D|ahedeman@illinois.edu|Emerita Professor of Art History|Art and Design, School of
+Hetrick, Laura|laurajh@illinois.edu|Assistant Professor, Art Education|Art and Design, School of
+Hogin, Lauretta J|hogin@illinois.edu|Professor|Art and Design, School of
+Hostetter, Eric R|ehostett@illinois.edu|Emeriti Faculty|Art and Design, School of
+Hudson, Bradley|bhudson@illinois.edu|Lecturer|Art and Design, School of
+Kellman, Julia|jkellman@illinois.edu|Emeriti Faculty|Art and Design, School of
+Kendrick, Barbara F|bkendric@illinois.edu|Emeriti Faculty|Art and Design, School of
+Kovacs, Thomas G|tkovacs@illinois.edu|Emeriti Faculty|Art and Design, School of
+Kovatch, Ronald R|rkovatch@illinois.edu|Professor Emeritus|Art and Design, School of
+Krepp, Sarah L|s-krepp@illinois.edu|Emeriti Faculty|Art and Design, School of
+La France, Robert G|lafrance@illinois.edu||Art and Design, School of
+Lee, William|wmlee@illinois.edu||Art and Design, School of
+Lucero, Jorge|jlucero@illinois.edu|Assistant Professor of Art Education.|Art and Design, School of
+Marina, Areli|amarina@illinois.edu|Associate Professor, Art History Program, School of Art & Design|Art and Design, School of
+McDonagh, Deana C|mcdonagh@illinois.edu|Professor of Industrial Design|Art and Design, School of
+Meier, Sandy|spmeier@illinois.edu|Assistant Professor|Art and Design, School of
+Mette, Alan T|amette@illinois.edu|Professor|Art and Design, School of
+Minor, Heather Hyde|hhminor@illinois.edu|Associate Professor, School of Architecture|Art and Design, School of
+Minor, Vernon H|vminor@illinois.edu|Research Professor, Art History|Art and Design, School of
+O'Brien, David J|obrien1@illinois.edu|Associate Professor, Art History|Art and Design, School of
+Parsons, Michael J|parsonsm@illinois.edu||Art and Design, School of
+Perlin, Ruth|rperlin@illinois.edu|Associate Professor|Art and Design, School of
+Peterson, Matthew|mop@illinois.edu|Assistant Professor of Graphic Design|Art and Design, School of
+Phillips, Stephen|sbpwdc@illinois.edu|Associate Professor|Art and Design, School of
+Pokorny, Melissa|mpokorny@illinois.edu|Associate Professor, Painting, Sculpture, Foundations, School of Art and Design|Art and Design, School of
+Reeder, Kevin|kreeder@illinois.edu|Associate Professor of Art|Art and Design, School of
+Robbennolt, Linda F|weasel@illinois.edu|Associate Professor|Art and Design, School of
+Rosenthal, Lisa|lrosenth@illinois.edu|Associate Professor of Art History|Art and Design, School of
+Ross, Joel|jgr@illinois.edu|Associate Professor|Art and Design, School of
+Rubin, Tammie Renee|trubin@illinois.edu|Assistant Professor|Art and Design, School of
+Ruggles, D Fairchild|dfr1@illinois.edu|Professor, Department of Landscape Architecture|Art and Design, School of
+Sautman, Anne Helen|asautman@illinois.edu|Director of Education|Art and Design, School of
+Scheinman, Muriel|m-schnmn@illinois.edu|Assistant Professor|Art and Design, School of
+Scott, Ernest D|ernscott@illinois.edu|Associate Professor|Art and Design, School of
+Shin, Sung Soo|thecliff@illinois.edu|Assistant Professor|Art and Design, School of
+Socha, Daniel F|dsocha@illinois.edu|Emeriti Faculty|Art and Design, School of
+Spicuzza, Aurelia M|spicuzza@illinois.edu|Adjunct Instructor|Art and Design, School of
+Squier, Joseph C|squier@illinois.edu|Petullo Professor of Design Studies & Culture|Art and Design, School of
+Theide, Billie J|theide@illinois.edu|Professor, School of Art and Design|Art and Design, School of
+Tian, Jun|jtia@illinois.edu|Visiting Scholar|Art and Design, School of
+Tober, Bradley K|btober@illinois.edu|Assistant Professor, Graphic Design|Art and Design, School of
+Twardock, A Robert|twardock@illinois.edu|Emeriti Faculty|Art and Design, School of
+Van Laar, Timothy J|tvanlaar@illinois.edu||Art and Design, School of
+Vazquez, Oscar|oscarv@illinois.edu|Associate Profesor, Art History|Art and Design, School of
+Wang, Andrew H-J|ahjwang@illinois.edu|Emeriti Faculty|Art and Design, School of
+Weaver, David Deke|dekew@illinois.edu|Associate Professor|Art and Design, School of
+Weightman, David Ian|diw@illinois.edu|Professor|Art and Design, School of
+Weissman, Terri|tweissma@illinois.edu|Associate Professor|Art and Design, School of
+Wiesener, Catherine A|wiesener@illinois.edu|Lecturer|Art and Design, School of
+Wood, Jeryldene M|jmwood@illinois.edu|Emeriti Faculty|Art and Design, School of
+Wu, Shuyu|shuyuwu@illinois.edu|Visiting Scholar|Art and Design, School of
+Yuan, Zhoufei|zhoufei@illinois.edu||Art and Design, School of
+Beck, Kenneth D|beck2@illinois.edu|Specialist in Music|Dance, Department of
+Chiaramonte, Denis|bankscdo@illinois.edu|Adjunct Instructor|Dance, Department of
+Chiaramonte, Laura Jean|lchiara2@illinois.edu|Academic Hourly|Dance, Department of
+Dayger, John|jdayger@illinois.edu|Visiting Lecturer|Dance, Department of
+Erkert, Jan K|erkert@illinois.edu|Professor, Dance|Dance, Department of
+Hardin, Kimberly Dee|khardin@illinois.edu|Adjunct Lecturer|Dance, Department of
+Hook, Sara|sarahook@illinois.edu|Professor|Dance, Department of
+Johnston, Philip T|ptjohnst@illinois.edu|Lecturer|Dance, Department of
+Knowles, Patricia K|pknowles@illinois.edu||Dance, Department of
+Kuper, Kate D|kkuper@illinois.edu|Visiting Lecturer, Dance|Dance, Department of
+Lehovec, Linda M|lehovec@illinois.edu|Associate Professor|Dance, Department of
+Monson, Jennifer|jmonson@illinois.edu|Professor|Dance, Department of
+Murray, Alexander D|admurray@illinois.edu|Emeriti Faculty|Dance, Department of
+Nettl-Fiol, Rebecca C|rnettl@illinois.edu|Professor, Dance|Dance, Department of
+O'Connor, Terrance R|toconnor@illinois.edu|Professor|Dance, Department of
+Oliver, Cynthia|coliver@illinois.edu|Professor|Dance, Department of
+Simson, Kirstie|ksimson@illinois.edu|Associate Professor|Dance, Department of
+Toenjes, John M|jtoenjes@illinois.edu|Associate Professor|Dance, Department of
+Wadleigh, Renee|wadleigh@illinois.edu|Professor|Dance, Department of
+Anderson, Robert G|rganders@illinois.edu|Associate Professor|Theatre, Department of
+Barrett, Robert W|rwb@illinois.edu|Associate Professor|Theatre, Department of
+Boesche, John Anthony|jboesche@illinois.edu||Theatre, Department of
+Bright, Latrelle Sharmaine|lbright@illinois.edu|Specialist in Education|Theatre, Department of
+Ciofalo, Terry Anne|tciofalo@illinois.edu|Assistant to the Production Manager|Theatre, Department of
+Conlin, Kathleen F|kconlin@illinois.edu||Theatre, Department of
+Davis, Peter A|padavis@illinois.edu|Associate Professor|Theatre, Department of
+Dixon, Lisa G|dixon1@illinois.edu|Associate Professor|Theatre, Department of
+Donley, Adriane Binky|adonley@illinois.edu|Properties Director|Theatre, Department of
+Faurant, Nicole|faurant@illinois.edu|Clinical Assistant Professor|Theatre, Department of
+Garcia, Regina M|rmg@illinois.edu|Associate Professor|Theatre, Department of
+Hale, Allean Lemmon|ahale@illinois.edu|Adjunct Professor|Theatre, Department of
+Jenkins, Jeffrey Eric|jej@illinois.edu|Professor|Theatre, Department of
+Kerber, Jane|jpkerber@illinois.edu|Adjunct Professor, Theatre|Theatre, Department of
+Keys, Henson Lee|hkeys@illinois.edu|Professor|Theatre, Department of
+Kidd, Lisa J|lisakidd@illinois.edu|Assistant to the Lighting Director|Theatre, Department of
+Korder, Thomas V|kordertv@illinois.edu|Technical Director|Theatre, Department of
+Magee, Jeffrey S|jmag@illinois.edu|Professor|Theatre, Department of
+Martell, Verda Beth|bmartell@illinois.edu|Technical Design Assistant|Theatre, Department of
+McBride, Rebecca|rmcbride@illinois.edu|Senior Associate Director|Theatre, Department of
+McFarquhar, Robin|rmcfarqu@illinois.edu|Professor|Theatre, Department of
+Miller, Thomas J|miller64@illinois.edu|ADJ ASSOC PROFESSOR, Art, Music, and Theatre -- Springfield Campus|Theatre, Department of
+Mitchell, Thomas Owen|tomitche@illinois.edu|Associate Professor|Theatre, Department of
+Morrissette, Jason William|jwmorris@illinois.edu|Lecturer|Theatre, Department of
+Perkins, Kathy Anne|kaperkin@illinois.edu|Emeriti Faculty|Theatre, Department of
+Rainwater, Christina M|crainh2o@illinois.edu|Lecturer|Theatre, Department of
+Robinson, Valleri J|vhohman@illinois.edu|Associate Professor|Theatre, Department of
+Rundell, Julie A H|jrundell@illinois.edu|Technical Design Assistant|Theatre, Department of
+Siebrits, Helene|siebrits@illinois.edu|Assistant Professor|Theatre, Department of
+Stevens, Andrea|arstev@illinois.edu|Associate Professor|Theatre, Department of
+Sullivan, Daniel J|djsulliv@illinois.edu|Professor|Theatre, Department of
+Syer, Katherine R|ksyer@illinois.edu|Associate Professor|Theatre, Department of
+Symes, Carol Lynne|symes@illinois.edu|Associate Professor|Theatre, Department of
+Traill, Ariana|traill@illinois.edu|Associate Professor|Theatre, Department of
+Weaver, David Deke|dekew@illinois.edu|Associate Professor|Theatre, Department of
+Williams, Michael W|william7@illinois.edu|Lighting Director|Theatre, Department of
+de Velder, Anne C|avelder@illinois.edu|Costume Shop Manager, KCPA|Theatre, Department of
+Berman, Myles D|berman@illinois.edu|Adjunct Associate Professor|Urban and Regional Planning, Department of
+Chakraborty, Arnab|arnab@illinois.edu|Associate Professor|Urban and Regional Planning, Department of
+Deal, Brian M|deal@illinois.edu|Associate Professor|Urban and Regional Planning, Department of
+Dearborn, Lynne Marie|dearborn@illinois.edu|Associate Professor, Associate Director, School of Architecture|Urban and Regional Planning, Department of
+Doussard, Marc J|mdouss1@illinois.edu|Assistant Professor|Urban and Regional Planning, Department of
+Edwards, Mary Margaret|mmedward@illinois.edu|Associate Professor|Urban and Regional Planning, Department of
+Feser, Edward|feser@illinois.edu|Dean, Fine and Applied Arts|Urban and Regional Planning, Department of
+Forrest, Clyde W|cforrest@illinois.edu||Urban and Regional Planning, Department of
+Glosser, Deanna M|dglosser@illinois.edu|Adjunct Assistant Professor|Urban and Regional Planning, Department of
+Greenlee, Andrew Jordan|agreen4@illinois.edu|Assistant Professor|Urban and Regional Planning, Department of
+Harwood, Stacy Anne|sharwood@illinois.edu|Associate Professor|Urban and Regional Planning, Department of
+Hewings, Geoffrey J D|hewings@illinois.edu|PROF EMERITUS, Economics|Urban and Regional Planning, Department of
+Hooker, Joseph Edward|jhooker@illinois.edu|Adjunct Lecturer|Urban and Regional Planning, Department of
+Hopkins, Lewis D|ldhopkin@illinois.edu|Emeriti Faculty|Urban and Regional Planning, Department of
+Knight, Bruce Alan|baknight@illinois.edu|Lecturer|Urban and Regional Planning, Department of
+Kowalski, Robert Gerrett|kowalsrg@illinois.edu|Visiting Adjunct Professor|Urban and Regional Planning, Department of
+Lavigne, Devin|dlavigne@illinois.edu||Urban and Regional Planning, Department of
+Lee, Bumsoo|bumsoo@illinois.edu|Associate Professor|Urban and Regional Planning, Department of
+McMillen, Daniel P|mcmillen@illinois.edu|Professor, Economics|Urban and Regional Planning, Department of
+Mendenhall, Ruby|rubymen@illinois.edu|ASSOC PROF, African American Studies|Urban and Regional Planning, Department of
+Miraftab, Faranak|faranak@illinois.edu|Professor, Urban & Regional Planning|Urban and Regional Planning, Department of
+Novak, Alice E|novak2@illinois.edu|Assistant Head, Academic Programs|Urban and Regional Planning, Department of
+Olshansky, Robert B|robo@illinois.edu|Professor|Urban and Regional Planning, Department of
+Rost, Craig|rostcr@illinois.edu|Adjunct Lecturer|Urban and Regional Planning, Department of
+Salo, Ken Edgar|kensalo@illinois.edu|Coordinator, Civic Engineering and Community Planning|Urban and Regional Planning, Department of
+Schneider, Daniel W|ddws@illinois.edu|Professor|Urban and Regional Planning, Department of
+Silvis, Anne H|asilvis@illinois.edu|ASST DEAN, CMTY ECON DEVLP|Urban and Regional Planning, Department of
+Tarum, Kai|tarum@illinois.edu||Urban and Regional Planning, Department of
+Tschangho, John Kim|tjohnkim@illinois.edu|Emeritus Endowed Professor of Urban and Regional Systems|Urban and Regional Planning, Department of
+Tyler, Elizabeth Holl|ehtyler@illinois.edu|Visiting Adjunct Professor|Urban and Regional Planning, Department of
+Walden, Bruce K|bwalden@illinois.edu|DIR REAL ESTATE PLNG&SVC, OBFS - Cap Prgm/Real Est Svc -- University Administration|Urban and Regional Planning, Department of
+Wilson, Beverly K|bevwilso@illinois.edu|Assistant Professor|Urban and Regional Planning, Department of
+Bailey, Brian P|bpbailey@illinois.edu|Associate Professor|Institute of Aviation
+Cianciolo, Anna T|aciancio@illinois.edu|Adjunct Assistant Professor, Educational Psychology|Institute of Aviation
+Karahalios, Kyratso George|kkarahal@illinois.edu|Associate Professor|Institute of Aviation
+Kramer, Arthur F|a-kramer@illinois.edu|Director, Beckman Institute|Institute of Aviation
+Lleras, Alejandro|alleras@illinois.edu|Associate Professor|Institute of Aviation
+McDonagh, Deana C|mcdonagh@illinois.edu|Professor of Industrial Design|Institute of Aviation
+Storkerson, Peter Kahle|pks@illinois.edu||Institute of Aviation
+Taylor, Henry L|henrytay@illinois.edu||Institute of Aviation
+White, Hubert C|h-white2@illinois.edu|Emeriti Faculty|Institute of Aviation
+Wickens, Christopher D|cwickens@illinois.edu||Institute of Aviation
+Ashby, Steven|skashby@illinois.edu|Clinical Professor|Labor and Employment Relations, School of
+Avgar, Ariel Chanan|avgar@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Bruno, Robert Anthony|bbruno@illinois.edu|Professor|Labor and Employment Relations, School of
+Cardador, Maria Teresa|cardador@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Carpenter, Nichelle Carlotta|ncc7@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Chen, Ying|ychen01@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Cutcher-Gershenfeld, Joel Ethan|joelcg@illinois.edu|Professor|Labor and Employment Relations, School of
+Drasgow, Fritz|fdrasgow@illinois.edu|Interim Dean and Professor, School of Labor and Employment Relations|Labor and Employment Relations, School of
+Feuille, Peter|feuille@illinois.edu|Professor Emeritus|Labor and Employment Relations, School of
+Gilbert, Daniel|gilbertd@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Harris, Thomas Brady|bharris@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Hendricks, Wallace Edward|wally-h@illinois.edu|Professor Emeritus|Labor and Employment Relations, School of
+King, Judith L|judiking@illinois.edu|Visiting Lecturer|Labor and Employment Relations, School of
+Kramer, Amit|kram@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Labarbera-Twarog, Emily|etwarog@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Lawler, John J|jjlawler@illinois.edu|Professor|Labor and Employment Relations, School of
+Leroy, Michael H|m-leroy@illinois.edu|Professor|Labor and Employment Relations, School of
+Lubotsky, Darren Howard|lubotsky@illinois.edu|ASSOC PROF, Economics -- Chicago Campus|Labor and Employment Relations, School of
+Martocchio, Joseph J|martocch@illinois.edu|Professor|Labor and Employment Relations, School of
+Mauer, Michael P|mmauer@illinois.edu||Labor and Employment Relations, School of
+Newman, Daniel A|d5n@illinois.edu|Associate Professor|Labor and Employment Relations, School of
+Northcraft, Gregory B|northcra@illinois.edu|Associate Dean of Faculty, College of Business|Labor and Employment Relations, School of
+Olson, Craig Allen|caolson@illinois.edu|Professor|Labor and Employment Relations, School of
+Park, Ow Won|owpark@illinois.edu||Labor and Employment Relations, School of
+Saute, Robert|rsaute@illinois.edu||Labor and Employment Relations, School of
+Schiavone, Michael|schi0055@illinois.edu|Visiting Lecturer|Labor and Employment Relations, School of
+Shin, Taekjin|tshin@illinois.edu|Assistant Professor|Labor and Employment Relations, School of
+Taghaboni-Dutta, Fataneh|fataneh@illinois.edu|Clinical Professor|Labor and Employment Relations, School of
+Worthen, Helena Harlow|hworthen@illinois.edu|Clinical Associate Professor|Labor and Employment Relations, School of
+Bishop, Ann P|abishop@illinois.edu|Emeriti Faculty|Library & Information Sci, Grad School of
+Black, Alistair Matthew|alblack@illinois.edu|Professor|Library & Information Sci, Grad School of
+Blake, Catherine Lesley|clblake@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Bruce, Bertram C|chip@illinois.edu|Professor Emeritus, Library and Information Science|Library & Information Sci, Grad School of
+Cochrane, Pauline A|pcochran@illinois.edu|Emeriti Faculty|Library & Information Sci, Grad School of
+Cole, Timothy W|t-cole3@illinois.edu|PROFESSOR UNIVERSITY LIBRARY|Library & Information Sci, Grad School of
+Cooke, Nicole Amy|nacooke@illinois.edu|Assistant Professor|Library & Information Sci, Grad School of
+Davis, Susan Gray|sgdavis@illinois.edu|Professor|Library & Information Sci, Grad School of
+Diesner, Jana|jdiesner@illinois.edu|Assistant Professor|Library & Information Sci, Grad School of
+Downie, J Stephen|jdownie@illinois.edu|Professor|Library & Information Sci, Grad School of
+Dubin, David Scott|ddubin@illinois.edu|Research Associate Professor|Library & Information Sci, Grad School of
+Efron, Miles James|mefron@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Estabrook, Leigh S|leighe@illinois.edu|Emeriti Faculty|Library & Information Sci, Grad School of
+Ford, Barbara Jean|bjford@illinois.edu||Library & Information Sci, Grad School of
+Gant, Jon Patrick|jongant@illinois.edu|Research Associate Professor|Library & Information Sci, Grad School of
+Gasser, Leslie G|gasser@illinois.edu|Professor|Library & Information Sci, Grad School of
+Hearne Claffey, Elizabeth G|ehearne@illinois.edu|Emeriti Faculty|Library & Information Sci, Grad School of
+Hotchkiss, Valerie|vhotchki@illinois.edu|Director of the Rare Book and Manuscript Library, Professor of Medieval Studies, Religion, and Library Science|Library & Information Sci, Grad School of
+Houston, Joseph Brantley|houstonb@illinois.edu|Knight Chair Professor in Investigative and Enterprise Reporting|Library & Information Sci, Grad School of
+Jenkins, Christine A|cajenkin@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Karahalios, Kyratso George|kkarahal@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Kaufman, Paula T|ptk@illinois.edu|Professor, University Library|Library & Information Sci, Grad School of
+Kendall, Lori Sue|loriken@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Knox, Emily Joyce Magdelyn|knox@illinois.edu|Assistant Professor|Library & Information Sci, Grad School of
+Krummel, Donald W|donkay@illinois.edu||Library & Information Sci, Grad School of
+LaBarre, Kathryn Anne|klabarre@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Mak, Bonnie|bmak@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+McDonough, Jerome Patrick|jmcdonou@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+McDowell, Kathleen|kmcdowel@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+McWorter, Gerald|mcworter@illinois.edu||Library & Information Sci, Grad School of
+Noble, Safiya Umoja|snoble@illinois.edu||Library & Information Sci, Grad School of
+Palmer, Carole|clpalmer@illinois.edu||Library & Information Sci, Grad School of
+Rayward, Warden B|wrayward@illinois.edu|Emeriti Faculty|Library & Information Sci, Grad School of
+Renear, Allen H|renear@illinois.edu|Professor and Dean|Library & Information Sci, Grad School of
+Richardson, Selma|srichard@illinois.edu||Library & Information Sci, Grad School of
+Roth, Dan|danr@illinois.edu|Professor|Library & Information Sci, Grad School of
+Schatz, Bruce R|schatz@illinois.edu|Professor (RT)|Library & Information Sci, Grad School of
+Schiller, Daniel Toby|dschille@illinois.edu|Professor Emeritus|Library & Information Sci, Grad School of
+Searing, Susan Ellis|searing@illinois.edu|Associate Professor, Library|Library & Information Sci, Grad School of
+Smith, Linda C|lcsmith@illinois.edu|Associate Dean|Library & Information Sci, Grad School of
+Tilley, Carol L|ctilley@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Torvik, Vetle Ingvald|vtorvik@illinois.edu|Assistant Professor|Library & Information Sci, Grad School of
+Twidale, Michael Bernard|twidale@illinois.edu|Professor|Library & Information Sci, Grad School of
+Weech, Terry|weech@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Wentling, Tim L|wentling@illinois.edu||Library & Information Sci, Grad School of
+Williams, Kathleen H|katewill@illinois.edu|Associate Professor|Library & Information Sci, Grad School of
+Zhai, Chengxiang|czhai@illinois.edu|Professor|Library & Information Sci, Grad School of
+Christensen, Sarah M|schrstn@illinois.edu|VISUAL RESOURCES CURATOR|Library Admin
+Han, Myung-Ja|mhan3@illinois.edu|Associate Professor/ Metadata Librarian|Library Admin
+Hinchliffe, Lisa W|ljanicke@illinois.edu|Professor/Coordinator for Information Literacy Services & Instruction|Library Admin
+Hotchkiss, Valerie|vhotchki@illinois.edu|Director of the Rare Book and Manuscript Library, Professor of Medieval Studies, Religion, and Library Science|Library Admin
+Kaufman, Paula T|ptk@illinois.edu|Professor, University Library|Library Admin
+Mahoney, Megan O'Reilly|mohayes2@illinois.edu|VST ASST PROF UNIV LIBRARY|Library Admin
+Namachchivaya, Beth Sandore|sandore@illinois.edu|ASSOC UNIV LIBRN RESEARCH|Library Admin
+Rudasill, Lynne M|rudasill@illinois.edu|Global Studies Librarian, Library Admin|Library Admin
+Schmidt, Karen A|karens@illinois.edu|Emeriti Faculty|Library Admin
+Searing, Susan Ellis|searing@illinois.edu|Associate Professor, Library|Library Admin
+Swain, Ellen D|eswain@illinois.edu|ASSOC PROF LIB ADMN& ARCHIVIST|Library Admin
+Teper, Jennifer Hain|jhain@illinois.edu|ASSOC PROF LIB/PRES/CONS LIB|Library Admin
+Teper, Thomas H|tteper@illinois.edu|Associate Professor, University Library|Library Admin
+Unsworth, John M|unsworth@illinois.edu|PROF LIB ADMIN, Library Admin|Library Admin
+Woodard, Beth S|bswoodar@illinois.edu|ASSOC PROF LIBRARY ADMIN|Library Admin
+Wright, Joyce C|jcwright@illinois.edu||Library Admin
+Berry, William E|weberry@illinois.edu|Emeriti Faculty|Advertising, Department of
+Chambers, Jason Paul|jpchambe@illinois.edu|Associate Professor|Advertising, Department of
+Duff, Brittany|bduff@illinois.edu|Assistant Professor|Advertising, Department of
+Friedman, Judith Stern|jfried61@illinois.edu|Adjunct Lecturer|Advertising, Department of
+Hall, Steven Ray|shall@illinois.edu|Lecturer|Advertising, Department of
+Ham, Chang Dae|cdham317@illinois.edu|Assistant Professor|Advertising, Department of
+Maclay, Howard S|h-maclay@illinois.edu|Emeriti Faculty|Advertising, Department of
+Nelson, Michelle Renee|nelsonmr@illinois.edu|Associate Professor, Acting Department Head|Advertising, Department of
+Olson, Katrina Marie|katrinao@illinois.edu|Visiting Lecturer|Advertising, Department of
+Otnes, Cornelia C|cotnes@illinois.edu|Professor of Business Administration|Advertising, Department of
+Porta, Horacio|h-porta@illinois.edu|Emeriti Faculty|Advertising, Department of
+Scott, Linda M|lscott1@illinois.edu|Emeriti Faculty|Advertising, Department of
+Sheldon, Peter S|sheldon@illinois.edu|Lecturer, Department of Advertising|Advertising, Department of
+Slater, Janet S|slaterj@illinois.edu|Dean, College of Media|Advertising, Department of
+Vargas, Patrick T|pvargas@illinois.edu|Associate Professor|Advertising, Department of
+Waldoff, Leon|lwaldoff@illinois.edu|Emeriti Faculty|Advertising, Department of
+White, Tiffany Barnett|tbwhite@illinois.edu|Associate Professor|Advertising, Department of
+Wirtz, John|jwirtz@illinois.edu|Assistant Professor|Advertising, Department of
+Chan, Anita|achan@illinois.edu|Assistant Professor|Communications Research, Institute of
+Cole, Cheryl L|clcole@illinois.edu|Professor, Media & Cinema Studies, ICR|Communications Research, Institute of
+Dovring, Karin Elsa Ingeborg|dovring2@illinois.edu|Visiting Lecturer|Communications Research, Institute of
+Hay, James W|jameshay@illinois.edu|Professor of Media & Cinema Studies|Communications Research, Institute of
+McCarthy, Cameron R|cmccart1@illinois.edu|Professor|Communications Research, Institute of
+McChesney, Robert W|rwmcches@illinois.edu|Professor|Communications Research, Institute of
+Molina, Isabel|imolina@illinois.edu|Associate Professor of Media and Cinema Studies|Communications Research, Institute of
+Reisner, Ann E|reisnera@illinois.edu|Associate Professor|Communications Research, Institute of
+Shavitt, Sharon|shavitt@illinois.edu|Professor of Business Administration and Psychology|Communications Research, Institute of
+Slater, Janet S|slaterj@illinois.edu|Dean, College of Media|Communications Research, Institute of
+Sotirovic, Mirjana|sotirovi@illinois.edu|Associate Professor|Communications Research, Institute of
+Valdivia, Angharad N|valdivia@illinois.edu|Department Head of Media and Cinema Studies|Communications Research, Institute of
+Benson, Christopher D|cdbenson@illinois.edu|Associate Professor|Journalism, Department of
+Benson, Nancy Jane|nbenson@illinois.edu|Associate Professor|Journalism, Department of
+Dash, Leon Decosta|leondash@illinois.edu|Swanlund Chair Professor of Journalism|Journalism, Department of
+Ehrlich, Matthew C|mehrlich@illinois.edu|Professor of Journalism|Journalism, Department of
+Follis, Jennifer E|jefollis@illinois.edu|Lecturer|Journalism, Department of
+Foreman, John Richard|johnfore@illinois.edu|Adjunct Professor|Journalism, Department of
+Gaines, William C|wgaines@illinois.edu|Emeriti Faculty|Journalism, Department of
+Harrington, Walter George|wharring@illinois.edu|Professor|Journalism, Department of
+Hays, Robert G|bobhays@illinois.edu|Emeriti Faculty|Journalism, Department of
+Helle, Steven J|steveh@illinois.edu|Professor Emeritus|Journalism, Department of
+Holley, Geralyn Kay|lholley@illinois.edu|Lecturer in Journalism|Journalism, Department of
+Houston, Joseph Brantley|houstonb@illinois.edu|Knight Chair Professor in Investigative and Enterprise Reporting|Journalism, Department of
+Johnson, Brian K|bkj@illinois.edu|Professor, Journalism|Journalism, Department of
+Kaler, Robin Neal|rkaler@illinois.edu|Associate Chancellor|Journalism, Department of
+Kaplan, Richard N|rnkaplan@illinois.edu|Adjunct Professor|Journalism, Department of
+Ledford, Charles|stretch@illinois.edu|Assistant Professor|Journalism, Department of
+Liebovich, Louis W|liebovic@illinois.edu|Emeriti Faculty|Journalism, Department of
+Martin, Lovick R|richmart@illinois.edu|Department Head of Journalism|Journalism, Department of
+McDonald, Jean A|mcdonld@illinois.edu|Lecturer|Journalism, Department of
+Meyer, Eric K|ekmeyer@illinois.edu|Associate Professor of Journalism|Journalism, Department of
+Paul, John David|johnpaul@illinois.edu|Lecturer in Journalism|Journalism, Department of
+Reid, Robert D|r-reid@illinois.edu|Emeriti Faculty|Journalism, Department of
+Rosenstein, Jay Mark|jrosenst@illinois.edu|Professor|Journalism, Department of
+Sotirovic, Mirjana|sotirovi@illinois.edu|Associate Professor|Journalism, Department of
+Yates, Ronald E|ryates@illinois.edu|Emeriti Faculty|Journalism, Department of
+Baird, Robert Thomas|r-baird@illinois.edu|Associate Director CITES Academic Technology Services|Media and Cinema Studies
+Basu, Anustup|basu1@illinois.edu|Associate Professor|Media and Cinema Studies
+Cagle, Robert L|cagle@illinois.edu|CINEMA STUDIES & MEDIA COLL&SS|Media and Cinema Studies
+Camargo, Sandra|scamargo@illinois.edu|Senior Lecturer|Media and Cinema Studies
+Capino, Jose Bernard|jcapino@illinois.edu|Associate Professor|Media and Cinema Studies
+Catanzarite, Christine Jane|catanzar@illinois.edu|Director|Media and Cinema Studies
+Chan, Anita|achan@illinois.edu|Assistant Professor|Media and Cinema Studies
+Christians, Clifford|cchrstns@illinois.edu||Media and Cinema Studies
+Ciafone, Amanda M|aciafone@illinois.edu|Assistant Professor, Media & Cinema Studies|Media and Cinema Studies
+Cole, Cheryl L|clcole@illinois.edu|Professor, Media & Cinema Studies, ICR|Media and Cinema Studies
+Curry, Ramona|rcurry@illinois.edu|ASSOC PROF, Gender and Women's Studies|Media and Cinema Studies
+Denzin, Norman K|n-denzin@illinois.edu|Emeriti Faculty|Media and Cinema Studies
+Hay, James W|jameshay@illinois.edu|Professor of Media & Cinema Studies|Media and Cinema Studies
+Kaganovsky, Lilya|lilya@illinois.edu|Associate Professor, Slavic Languages & Literature|Media and Cinema Studies
+McCarthy, Cameron R|cmccart1@illinois.edu|Professor|Media and Cinema Studies
+Molina, Isabel|imolina@illinois.edu|Associate Professor of Media and Cinema Studies|Media and Cinema Studies
+Nerone, John C|jnerone@illinois.edu||Media and Cinema Studies
+Newman, John K|j-newman@illinois.edu|Emeriti Faculty|Media and Cinema Studies
+Pinkert, Anke|pinkert@illinois.edu|Associate Professor of Germanic Languages|Media and Cinema Studies
+Potter, Richard A|rpotter2@illinois.edu||Media and Cinema Studies
+Reisner, Ann E|reisnera@illinois.edu|Associate Professor|Media and Cinema Studies
+Rushing, Robert A|rrushing@illinois.edu|Associate Professor, Comparative & World Literature|Media and Cinema Studies
+Solomon, Jon|josolomo@illinois.edu|Professor|Media and Cinema Studies
+Stenport, Anna Westerstahl|aws@illinois.edu|Associate Professor|Media and Cinema Studies
+Treichler, Paula A|ptreich@illinois.edu|Emeriti Faculty|Media and Cinema Studies
+Turnock, Julie|jturnock@illinois.edu|Assistant Professor|Media and Cinema Studies
+Valdivia, Angharad N|valdivia@illinois.edu|Department Head of Media and Cinema Studies|Media and Cinema Studies
+Wade, Mara R|mwade@illinois.edu|Professor|Media and Cinema Studies
+Xu, Gary Gang|garyxu@illinois.edu|Associate Professor|Media and Cinema Studies
+Grupe, Lizabeth|lizgrupe@illinois.edu|Assistant Professor|Air Force Aerospace Studies, Department of
+May, Andrew Thomas|amay2@illinois.edu||Air Force Aerospace Studies, Department of
+Scheele, Luke|scheele@illinois.edu|Assistant Professor|Air Force Aerospace Studies, Department of
+Sullivan, Shane|stsully@illinois.edu|Professor and Head|Air Force Aerospace Studies, Department of
+Moncrief, Diane|moncrief@illinois.edu|Military Assistant Professor|Military Science, Department of
+Nachowicz, Jason P|nachowcz@illinois.edu|Assistant Professor|Military Science, Department of
+Sapp, Donovan Demont|dsapp@illinois.edu|Military Instructor|Military Science, Department of
+South, Jackie Kenneth|jsouth@illinois.edu||Military Science, Department of
+Staub, Jason Andrew|staub@illinois.edu|Military Instructor|Military Science, Department of
+Stetson, Eric|estetson@illinois.edu|Military Professor|Military Science, Department of
+Aldridge, Brian Michael|ba311@illinois.edu|Clinical Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Aldridge, Russhawn Jackson|rald2012@illinois.edu|Visiting Clinical Instructor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Allison, Sarah O|allison3@illinois.edu|Assistant Director - DVM|Veterinary Medicine, College of
+Austin, Scott Matthew|smaustin@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Barger, Anne M|abarger@illinois.edu|Clinical Associate Professor, Pathobiology|Veterinary Medicine, College of
+Bertram, Timothy A|tabertra@illinois.edu|Adjunct Associate Professor, Pathobiology|Veterinary Medicine, College of
+Biehl, Michael LeRoy|biehlml@illinois.edu|Clinical Professor, Comparative Biosciences|Veterinary Medicine, College of
+Bunick, David|dbunick@illinois.edu|Associate Professor, Comparative Biosciences|Veterinary Medicine, College of
+Campbell, Karen L|klcampbe@illinois.edu|Department Head, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Clark-Price, Stuart Charles|sccp@illinois.edu|Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Colegrove-Calvey, Kathleen Mary|kcolegro@illinois.edu|Clinical Associate Professor, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+Coleman, David Andrew|coleman@illinois.edu|Visiting Clinical Assistant Professor, Comparative Biosciences|Veterinary Medicine, College of
+Cropek, Donald Michael|dcropek@illinois.edu|Adjunct Professor, Comparative Biosciences|Veterinary Medicine, College of
+Dahlem, Andrew M|dahlem@illinois.edu|Adjunct Professor, Comparative Biosciences|Veterinary Medicine, College of
+Driskell, Elizabeth Ann|edriskel@illinois.edu|Assistant Professor, Department of Pathobiology|Veterinary Medicine, College of
+Eubig, Paul Andrew|eubig@illinois.edu|Assistant Professor, Comparative Biosciences|Veterinary Medicine, College of
+Fan, Timothy M|t-fan@illinois.edu|Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Ferguson, Duncan Craig|dcf@illinois.edu|Department Head, Comparative Biosciences|Veterinary Medicine, College of
+Firkins, Lawrence D|firkins@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Foreman, Jonathan H|jhf@illinois.edu|Associate Dean For Academic & Student Affairs|Veterinary Medicine, College of
+Francis, Bettina M|bfrancis@illinois.edu|Associate Professor|Veterinary Medicine, College of
+Fredrickson, Richard Lincoln|frdrcksn@illinois.edu|Director, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+French, Dennis D|ddfrench@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Garrett, Edgar F|efg@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Garrett, Laura Diane|garrett1@illinois.edu|Clinical Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Gaskins, H Rex|hgaskins@illinois.edu|Professor|Veterinary Medicine, College of
+Gutierrez Nibeyro, Santiago Daniel|sgn@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Hague, Devon Wallis|hague@illinois.edu|DVM, DACVIM (Neurology)|Veterinary Medicine, College of
+Hamor, Ralph E|hamor@illinois.edu|Clinical Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Harper, Tisha Adele Maria|taharper@illinois.edu|Clinical Assistant Professor, Veterinary Teaching Hospital|Veterinary Medicine, College of
+Herrmann, John Arthur|jah1110@illinois.edu|Clinical Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Hoenig, Margarethe Elisabeth|mhoenig@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Hoyer, Lois L|lhoyer@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Hsiao, Shih-Hsuan|shsiao1@illinois.edu|Clinical Assistant Professor, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+Jacobs, Gilbert J|gjjacobs@illinois.edu||Veterinary Medicine, College of
+Johnson-Walker, Yvette Joyce|yjjohn38@illinois.edu|Clinical Instructor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Joslyn, Stephen|sjoslyn@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Khan, Safdar Ali|s-khan@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Khanna, Chand|ckhanna2@illinois.edu|Adjunct Professor, Pathobiology|Veterinary Medicine, College of
+Kinsel, Michael J|kinsel@illinois.edu|Chief, Zoological Pathology|Veterinary Medicine, College of
+Knight, Michael W|mknight@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Ko, CheMyong|jayko@illinois.edu|Associate Professor, Comparative Biosciences|Veterinary Medicine, College of
+Krylov, Victor|krylov@illinois.edu|Adjunct Research Professor, Comparative Biosciences|Veterinary Medicine, College of
+Kuhlenschmidt, Mark S|kuhlensc@illinois.edu|Interim Department Head, Pathobiology|Veterinary Medicine, College of
+Kummerow, Fred A|fkummero@illinois.edu|Adjunct Professor, Comparative Biosciences|Veterinary Medicine, College of
+Labelle, Amber L|alabelle@illinois.edu|Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Labelle, Philippe|plabelle@illinois.edu|Adjunct Professor, Pathobiology|Veterinary Medicine, College of
+Langan, Jennifer N|jelangan@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Lascola, Kara M|klascola@illinois.edu|Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Lau, Gee|geelau@illinois.edu|Associate Professor, Pathobiology|Veterinary Medicine, College of
+Lavergne, Sidonie N|slavergn@illinois.edu|Assistant Professor of Pharmacology, Comparative Biosciences, College of Veterinary Medicine|Veterinary Medicine, College of
+Lezmi, Stephane|slezmi@illinois.edu|Assistant Professor, Pathobiology|Veterinary Medicine, College of
+Lowe, James F|jlowe@illinois.edu|Visiting Clinical Instructor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Maddox, Carol W|maddox@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Mahoney, Megan M|mmm1@illinois.edu|Assistant Professor, Comparative Biosciences|Veterinary Medicine, College of
+Marick, Dawn Elaine|d-morin@illinois.edu|Assistant Dean, Academic Affairs and Curriculum|Veterinary Medicine, College of
+Marretta, Sandra Manfra|s-manfra@illinois.edu|Professor Emerita, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Matheson, Jodi S|jsmthsn@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+McKiernan, Brendan C|bmck@illinois.edu|Director, Veterinary Teaching Hospital|Veterinary Medicine, College of
+McMichael, Maureen|mmcm@illinois.edu|Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Means, Charlotte|means@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Mei, Wenyan|wmei@illinois.edu|Research Assistant Professor, Department of Comparative Biosciences|Veterinary Medicine, College of
+Merema, Danielle|merema@illinois.edu|Visiting Clinical Instructor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Merola, Valentina M|valmerol@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Miller, Gay Y|gymiller@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Miller, Suzanne Elizabeth|berryse@illinois.edu|Assistant Professor, Comparative Biosciences|Veterinary Medicine, College of
+Mitchell, Mark|mmitch@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+O'Brien, Mauria A|maobrien@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+O'Brien, Robert T|bobrien@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+O'Hara, Marilyn Sue|moruiz@illinois.edu|Clinical Associate Professor, Pathobiology|Veterinary Medicine, College of
+O'Hara, Todd|ohara@illinois.edu|Adjunct Associate Professor, Comparative Biosciences|Veterinary Medicine, College of
+Paul, Allan J|ajpaul@illinois.edu|Associate Dean for Public Engagement|Veterinary Medicine, College of
+Phillips, Heidi|philli@illinois.edu|Assistant Professor, Veterinary  Clinical Medicine|Veterinary Medicine, College of
+Pijanowski, Gerald J|jerry@illinois.edu|Associate Professor, Comparative Biosciences|Veterinary Medicine, College of
+Reid, Pamela Joanne|pamreid@illinois.edu|Adjunct Assistant Professor|Veterinary Medicine, College of
+Ridgway, Marcella D|ridgway@illinois.edu|Clinical Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Rock, Daniel L|dlrock@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Rooney, Alejandro P|aprooney@illinois.edu|Adjunct Professor, Pathobiology|Veterinary Medicine, College of
+Rubin, Stanley Ian|sirubin@illinois.edu|Clinical Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Sauberli, Debra S|dsauberl@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Schantz, Susan L|schantz@illinois.edu|Professor, Comparative Biosciences|Veterinary Medicine, College of
+Schell, Mary|mschell@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Scherba, Gail|scherba@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Segre, Mariangela|m-segre@illinois.edu|Professor Emerita, Pathobiology|Veterinary Medicine, College of
+Shipley, Clifford F|cshipley@illinois.edu|Clinical Associate Professor, Agricultural Animal Care & Use Program|Veterinary Medicine, College of
+Siegel, Arthur M|amsiegel@illinois.edu|Assistant Director, Veterinary Teaching Hospital|Veterinary Medicine, College of
+Singh, Kuldeep|ksingh08@illinois.edu|Clinical Associate Professor, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+Snyder, Daniel E|desnyder@illinois.edu|Adjunct Associate Professor, Pathobiology|Veterinary Medicine, College of
+Solter, Philip F|psolter@illinois.edu|Associate Professor, Pathobiology|Veterinary Medicine, College of
+Stern, Adam Wayne|awstern@illinois.edu|Clinical Assistant Professor, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+Stewart, Matthew C|matt1@illinois.edu|Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Terio, Karen|kterio@illinois.edu|Clinical Associate Professor, Veterinary Diagnostic Laboratory|Veterinary Medicine, College of
+Trammel, Harold L|htrammel@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Tripathy, Deoki N|tripathy@illinois.edu|Professor Emeritus, Pathobiology|Veterinary Medicine, College of
+Valli, Victor E O|vevalli@illinois.edu|Professor Emeritus|Veterinary Medicine, College of
+Vimr, Eric R|ervimr@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Wallig, Matthew Alan|mawallig@illinois.edu|Professor Emeritus, Comparative Pathology|Veterinary Medicine, College of
+Weber, Cheryl Ann|cweber79@illinois.edu|Student Services Coordinator and Grief Educator|Veterinary Medicine, College of
+Weedon, George Robert|weedonr@illinois.edu|Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Weigel, Ronald Melville|weigel@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Welle, Kenneth R|kwelle@illinois.edu|Visiting Clinical Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Whiteley, Herbert E|hwhitele@illinois.edu|Professor, Department of Pathobiology|Veterinary Medicine, College of
+Whittington, Julia K|jkwhitti@illinois.edu|Clinical Associate Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Wilkins, Pamela A|pawilkin@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Williams, David A|daw@illinois.edu|Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Wismer, Tina Ann|twismer@illinois.edu|Adjunct Instructor, Comparative Biosciences|Veterinary Medicine, College of
+Wypij, Jacqueline M|jwypij@illinois.edu|Assistant Professor, Veterinary Clinical Medicine|Veterinary Medicine, College of
+Yang, Jing|yangj@illinois.edu|Associate Professor, Department of Comparative Biosciences|Veterinary Medicine, College of
+Yoo, Dongwan|dyoo@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
+Zhou, Sherry Qi|szhou@illinois.edu|Visiting Research Associate Professor, Comparative Biosciences|Veterinary Medicine, College of
+Zuckermann, Federico A|fazaaa@illinois.edu|Professor, Pathobiology|Veterinary Medicine, College of
