@@ -318,6 +318,7 @@ Chen, Hong
 Demejia, Elvira
 Donovan, Sharon M
 Engeseth, Nicki Jene
+Feng, Hao
 Garrow, Linda S
 Garrow, Timothy A
 Helferich, William G
@@ -326,9 +327,11 @@ Kokini, Jozef L
 Lee, Soo-Yeun
 Lee, Youngsoo
 Miller, Michael J
+Morris, Scott A
 Nakamura, Manabu T
 Padua, Graciela Wild
 Pan, Yuan-Xiang
+Schmidt, Shelly J
 Takhar, Pawan Singh
 Tappenden, Kelly Anne
 Teran-Garcia, Margarita De L
@@ -338,6 +341,7 @@ Ferguson, Gail Marcia
 Fiese, Barbara
 Gasteyer, Stephen
 Hardesty, Jennifer Leeann
+Harper, Joe Grant
 Hughes, Robert
 Jarrett, Robin L
 Knobloch, Neil A
@@ -394,6 +398,7 @@ Hassett, John J
 Heske, Edward J
 Hodson, Piper
 Hoover, Jeffrey P
+Hudson, Robert J M
 Hutchins Sperry, Jinelle
 Irwin, Michael E
 Jarrell, Wesley M
@@ -409,6 +414,7 @@ Lavey, Warren
 Levengood, Jeffrey M
 Lila, Mary Ann
 Lin, Yu-Feng
+Markus, Momcilo
 Mateus-Pinilla, Nohra E
 Matthews, Jeffrey Wayne
 McIsaac, Gregory F
@@ -975,6 +981,7 @@ Kubitz, William J
 Lavalle, Steven M
 Lawrie, Duncan H
 Lazebnik, Svetlana
+Li, Jun
 Lu, Wei
 Lumetta, Steven Sam
 Ma, Jian
@@ -1912,6 +1919,7 @@ Kinsel, Michael J
 Knight, Michael W
 Ko, CheMyong
 Krylov, Victor
+Kuhlenschmidt, Mark S
 Kummerow, Fred A
 Labelle, Amber L
 Labelle, Philippe

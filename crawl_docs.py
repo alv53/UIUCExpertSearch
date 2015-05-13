@@ -9,11 +9,11 @@ f_downloaded = f.read()
 f.close()
 fac_downloaded = open('fac_downloaded.txt', 'a')
 
-for prof_txt in os.listdir(os.getcwd() + '/faculty_urls'):
+for prof_txt in os.listdir(os.getcwd() + '/faculty_urls_uiuc'):
 	prof_name = prof_txt[:prof_txt.index('.txt')]
 	if prof_name not in f_downloaded:
 		print "Crawling for " + prof_name
-		f = open('faculty_urls/' + prof_txt)
+		f = open('faculty_urls_uiuc/' + prof_txt)
 		urls = f.readlines()
 		successes = 0
 		for i in range(0,len(urls)):
@@ -21,7 +21,7 @@ for prof_txt in os.listdir(os.getcwd() + '/faculty_urls'):
 			if url.endswith('pdf'):
 				print "Skipped " + str(i) + " because it was a pdf"
 			if not url.endswith('pdf'):
-				file_name = 'docs/' + prof_name + '-' + str(successes) + '.txt'
+				file_name = 'docs_uiuc/' + prof_name + '-' + str(successes) + '.txt'
 				curr = open(file_name, 'w')
 				attempts = 0
 				while attempts < 3:
@@ -35,12 +35,13 @@ for prof_txt in os.listdir(os.getcwd() + '/faculty_urls'):
 						print 'urllib2 FAILURE on: ' + prof_name + ' ' + str(i) + ' | ' + url
 						attempts += 1
 					except socket.timeout, e:
-						print 'socket FAILURE on: ' + prof_name + ' ' + str(i) + ' | ' + url
+						print 'socket timeout on: ' + prof_name + ' ' + str(i) + ' | ' + url
+						attempts += 1
+					except socket.error, e:
+						print 'socket error on: ' + prof_name + ' ' + str(i) + ' | ' + url
 						attempts += 1
 			i += 1
 			if successes >= n:
 				break
-		if successes < n:
-			sys.exit()
 		fac_downloaded.write(prof_name + '\n')
 		f.close()

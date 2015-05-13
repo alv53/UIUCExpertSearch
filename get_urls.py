@@ -15,9 +15,9 @@ for fac in fac_list:
 	fac_info_list = fac.rstrip('\r\n').split('|')	
 	prof_name = fac_info_list[0]
 	if prof_name not in fac_crawled_str:
-		fac_file = open('faculty_urls/' + prof_name + '.txt', 'w')
-		print "Googling " + prof_name
-		result_list, next_uri = bing.search(prof_name, limit=50, format='json')
+		fac_file = open('faculty_urls_uiuc/' + prof_name + '.txt', 'w')
+		print "Googling " + '"UIUC ' + prof_name + '"'
+		result_list, next_uri = bing.search("UIUC " + prof_name, limit=50, format='json')
 		for i in range(0, len(result_list)):
 			fac_file.write(result_list[i].url.encode('utf8') + '\n')
 		print "Completed Googling " + prof_name
